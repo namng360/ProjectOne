@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ProjectOne</string>
+
+    <!--Hello sceen-->
+    <string name="hello_name">Món ngon ba miền</string>
+
+    <!--Menu sceen-->
+    <string name="menu_northern">Miền Bắc</string>
+    <string name="menu_south">Miền Nam</string>
+    <string name="menu_central">Miền trung</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -1,7 +1,11 @@
 package vn.edu.poly.projectone;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import java.util.Timer;
+import java.util.TimerTask;
 
 public class HelloActivity extends AppCompatActivity {
 
@@ -9,5 +13,15 @@ public class HelloActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hello);
+        Timer timer = new Timer();
+        timer.schedule(new TimerTask() {
+            @Override
+            public void run() {
+                Intent intent = new Intent(HelloActivity.this, MenuActivity.class);
+                startActivity(intent);
+                //Tat man hinh chao
+                finish();
+            }
+        },2000);
     }
 }
