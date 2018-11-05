@@ -11,4 +11,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_vote">Đánh giá</string>
+    <string name="menu_cook">Cook</string>
+    <string name="menu_type">Type</string>
 </resources>
