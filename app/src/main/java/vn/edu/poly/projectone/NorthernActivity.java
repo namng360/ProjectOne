@@ -1,6 +1,5 @@
 package vn.edu.poly.projectone;
 
-import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
 import android.support.v4.app.Fragment;
@@ -8,13 +7,11 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
-import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast;
 
-import vn.edu.poly.projectone.fragment.CookFragment;
-import vn.edu.poly.projectone.fragment.TypeFragment;
+import vn.edu.poly.projectone.fragment.NorthernCookFragment;
+import vn.edu.poly.projectone.fragment.NorthernTypeFragment;
 
 public class NorthernActivity extends AppCompatActivity {
     private Toolbar toolBar;
@@ -45,10 +42,10 @@ public class NorthernActivity extends AppCompatActivity {
                         Fragment selectedFragment = null;
                         switch (item.getItemId()) {
                             case R.id.action_item1:
-                                selectedFragment = CookFragment.newInstance();
+                                selectedFragment = NorthernCookFragment.newInstance();
                                 break;
                             case R.id.action_item2:
-                                selectedFragment = TypeFragment.newInstance();
+                                selectedFragment = NorthernTypeFragment.newInstance();
                                 break;
 
                         }
@@ -61,7 +58,7 @@ public class NorthernActivity extends AppCompatActivity {
 
 
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-        transaction.replace(R.id.frame_layout, CookFragment.newInstance());
+        transaction.replace(R.id.frame_layout, NorthernCookFragment.newInstance());
         transaction.commit();
         }
 

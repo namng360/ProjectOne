@@ -10,8 +10,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 
-import vn.edu.poly.projectone.fragment.CookFragment;
-import vn.edu.poly.projectone.fragment.TypeFragment;
+import vn.edu.poly.projectone.fragment.NorthernCookFragment;
+import vn.edu.poly.projectone.fragment.NorthernTypeFragment;
 
 public class SouthActivity extends AppCompatActivity {
 
@@ -43,10 +43,10 @@ public class SouthActivity extends AppCompatActivity {
                         Fragment selectedFragment = null;
                         switch (item.getItemId()) {
                             case R.id.action_item1:
-                                selectedFragment = CookFragment.newInstance();
+                                selectedFragment = NorthernCookFragment.newInstance();
                                 break;
                             case R.id.action_item2:
-                                selectedFragment = TypeFragment.newInstance();
+                                selectedFragment = NorthernTypeFragment.newInstance();
                                 break;
 
                         }
@@ -59,7 +59,7 @@ public class SouthActivity extends AppCompatActivity {
 
 
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-        transaction.replace(R.id.frame_layout, CookFragment.newInstance());
+        transaction.replace(R.id.frame_layout, NorthernCookFragment.newInstance());
         transaction.commit();
     }
 }

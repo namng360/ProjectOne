@@ -9,9 +9,10 @@ import android.view.ViewGroup;
 import vn.edu.poly.projectone.R;
 
 
-public class CookFragment extends Fragment {
-    public static CookFragment newInstance() {
-        CookFragment fragment = new CookFragment();
+
+public class NorthernTypeFragment extends Fragment {
+    public static NorthernTypeFragment newInstance() {
+        NorthernTypeFragment fragment = new NorthernTypeFragment();
         return fragment;
     }
 
@@ -23,6 +24,6 @@ public class CookFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_cook, container, false);
+        return inflater.inflate(R.layout.fragment_northern_type, container, false);
     }
 }

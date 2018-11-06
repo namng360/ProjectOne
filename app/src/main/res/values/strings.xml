@@ -1,17 +1,30 @@
 <resources>
     <string name="app_name">ProjectOne</string>
 
-    <!--Hello sceen-->
+    <!--Intro sceen-->
     <string name="hello_name">Món ngon ba miền</string>
+    <string name="food">Món ngon ba miền</string>
+    <string name="food_hint">Văn hóa ẩm thực là một phần văn hóa nằm trong tổng thể các đặc trưng về vật chất, tinh thần, khắc họa một số nét cơ bản, đặc sắc của Việt Nam</string>
+    <string name="northern_hint">Bắc bộ là nơi tổ tiên đã định cư lâu đời nên từ cái ăn đến cái mặc đều được sàng lọc và trở thành chuẩn mực, không dễ gì thay đổi.</string>
+    <string name="central_hint">Có một thành ngữ dùng để tóm tắt đặc trưng ẩm thực miền Trung đó là “chặt to kho mặn”.</string>
+    <string name="south_hint">Món ăn của người miền Nam đơn giản, không cầu kỳ như chính con người nơi đây là thật thà, giản dị.</string>
+    <string name="northern">Miền Bắc</string>
+    <string name="south">Miền Nam</string>
+    <string name="central">Miền Trung</string>
 
     <!--Menu sceen-->
     <string name="menu_northern">Miền Bắc</string>
     <string name="menu_south">Miền Nam</string>
     <string name="menu_central">Miền trung</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--Menu-->
     <string name="menu_vote">Đánh giá</string>
     <string name="menu_cook">Cook</string>
     <string name="menu_type">Type</string>
+
+
+
+
+
+
 </resources>
