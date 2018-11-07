@@ -17,14 +17,30 @@
     <string name="menu_south">Miền Nam</string>
     <string name="menu_central">Miền trung</string>
 
-    <!--Menu-->
+    <!--Menu Bottom-->
     <string name="menu_vote">Đánh giá</string>
     <string name="menu_cook">Cook</string>
     <string name="menu_type">Type</string>
 
 
+    <!--Cook-->
+    <string name="mon_nuong">Món nướng</string>
+    <string name="mon_xao">Món xào</string>
+    <string name="mon_chien">Món chiên</string>
+    <string name="thit_ba_chi">Thịt ba chỉ nướng</string>
+    <string name="thit_xien_nuong">Thịt xiên nướng</string>
+    <string name="moon_cake">Bánh trung thu</string>
+    <string name="banh_my_muoi_ot">Bánh mỳ nướng muối ớt</string>
 
-
+    <!--Type-->
+    <string name="thit_bo">Thịt bò</string>
+    <string name="thit_ga">Thịt gà</string>
+    <string name="thit_lon">Thịt lợn</string>
+    <string name="hai_san">Hải sản</string>
+    <string name="bo_sot_vang">Bò sốt vang</string>
+    <string name="bo_sot_tieu">Bò sốt tiêu đen</string>
+    <string name="pho_bo">Phở bò</string>
+    <string name="bun_bo_bac_bo">Bún bò bắc bộ</string>
 
 
 </resources>

@@ -11,18 +11,23 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".IntroActivity">
+        <activity android:name=".activity.IntroActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MenuActivity" />
-        <activity android:name=".NorthernActivity" />
-        <activity android:name=".SouthActivity" />
-        <activity android:name=".CentralActivity" />
-
+        <activity android:name=".activity.MenuActivity" />
+        <activity android:name=".activity.NorthernActivity" />
+        <activity android:name=".activity.SouthActivity" />
+        <activity android:name=".activity.CentralActivity" />
+        <activity android:name=".cook.NorthernGrilledActivity" />
+        <activity android:name=".cook.ThitBaChiActivity" />
+        <activity android:name=".cook.ThitXienNuongActivity" />
+        <activity android:name=".cook.MoonCakeActivity" />
+        <activity android:name=".cook.MuoiOtActivity" />
+        <activity android:name=".type.NorthernCowActivity"></activity>
     </application>
 
 </manifest>

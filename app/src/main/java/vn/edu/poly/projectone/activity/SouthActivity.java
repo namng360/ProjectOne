@@ -1,4 +1,4 @@
-package vn.edu.poly.projectone;
+package vn.edu.poly.projectone.activity;
 
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
@@ -10,20 +10,24 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 
+import vn.edu.poly.projectone.R;
 import vn.edu.poly.projectone.fragment.NorthernCookFragment;
 import vn.edu.poly.projectone.fragment.NorthernTypeFragment;
+import vn.edu.poly.projectone.fragment.SouthCookFragment;
+import vn.edu.poly.projectone.fragment.SouthTypeFragment;
 
-public class NorthernActivity extends AppCompatActivity {
+public class SouthActivity extends AppCompatActivity {
+
     private Toolbar toolBar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_northern);
+        setContentView(R.layout.activity_south);
 
         toolBar = findViewById(R.id.toolBar);
         toolBar.setNavigationIcon(R.drawable.ic_back);
-        toolBar.setTitle("Miền Bắc");
+        toolBar.setTitle("Miền Nam");
         setSupportActionBar(toolBar);
         toolBar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
@@ -42,10 +46,10 @@ public class NorthernActivity extends AppCompatActivity {
                         Fragment selectedFragment = null;
                         switch (item.getItemId()) {
                             case R.id.action_item1:
-                                selectedFragment = NorthernCookFragment.newInstance();
+                                selectedFragment = SouthCookFragment.newInstance();
                                 break;
                             case R.id.action_item2:
-                                selectedFragment = NorthernTypeFragment.newInstance();
+                                selectedFragment = SouthTypeFragment.newInstance();
                                 break;
 
                         }
@@ -60,8 +64,5 @@ public class NorthernActivity extends AppCompatActivity {
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
         transaction.replace(R.id.frame_layout, NorthernCookFragment.newInstance());
         transaction.commit();
-        }
-
-
     }
-
+}

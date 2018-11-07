@@ -1,4 +1,4 @@
-package vn.edu.poly.projectone;
+package vn.edu.poly.projectone.activity;
 
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
@@ -10,21 +10,21 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 
+import vn.edu.poly.projectone.R;
 import vn.edu.poly.projectone.fragment.NorthernCookFragment;
 import vn.edu.poly.projectone.fragment.NorthernTypeFragment;
 
-public class SouthActivity extends AppCompatActivity {
-
+public class NorthernActivity extends AppCompatActivity {
     private Toolbar toolBar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_south);
+        setContentView(R.layout.activity_northern);
 
         toolBar = findViewById(R.id.toolBar);
         toolBar.setNavigationIcon(R.drawable.ic_back);
-        toolBar.setTitle("Miền Nam");
+        toolBar.setTitle("Miền Bắc");
         setSupportActionBar(toolBar);
         toolBar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
@@ -61,5 +61,8 @@ public class SouthActivity extends AppCompatActivity {
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
         transaction.replace(R.id.frame_layout, NorthernCookFragment.newInstance());
         transaction.commit();
+        }
+
+
     }
-}
+

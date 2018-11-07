@@ -1,4 +1,4 @@
-package vn.edu.poly.projectone;
+package vn.edu.poly.projectone.activity;
 
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
@@ -10,6 +10,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 
+import vn.edu.poly.projectone.R;
+import vn.edu.poly.projectone.fragment.CentralCookFragment;
+import vn.edu.poly.projectone.fragment.CentralTypeFragment;
 import vn.edu.poly.projectone.fragment.NorthernCookFragment;
 import vn.edu.poly.projectone.fragment.NorthernTypeFragment;
 
@@ -43,10 +46,10 @@ public class CentralActivity extends AppCompatActivity {
                         Fragment selectedFragment = null;
                         switch (item.getItemId()) {
                             case R.id.action_item1:
-                                selectedFragment = NorthernCookFragment.newInstance();
+                                selectedFragment = CentralCookFragment.newInstance();
                                 break;
                             case R.id.action_item2:
-                                selectedFragment = NorthernTypeFragment.newInstance();
+                                selectedFragment = CentralTypeFragment.newInstance();
                                 break;
 
                         }
