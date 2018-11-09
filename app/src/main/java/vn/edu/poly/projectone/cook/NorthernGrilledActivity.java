@@ -12,11 +12,11 @@ import java.util.List;
 
 import vn.edu.poly.projectone.R;
 import vn.edu.poly.projectone.adapter.AdapterGrilled;
-import vn.edu.poly.projectone.model.Model;
+import vn.edu.poly.projectone.model.Food;
 
 public class NorthernGrilledActivity extends AppCompatActivity {
 
-    private List<Model> modelList;
+    private List<Food> foodList;
     private RecyclerView rcView;
     private AdapterGrilled adapterGrilled;
     private Toolbar toolBar;
@@ -32,8 +32,8 @@ public class NorthernGrilledActivity extends AppCompatActivity {
 
     private void initView() {
         rcView = findViewById(R.id.rcView);
-        modelList = new ArrayList<>();
-        adapterGrilled = new AdapterGrilled(this, modelList);
+        foodList = new ArrayList<>();
+        adapterGrilled = new AdapterGrilled(this, foodList);
         RecyclerView.LayoutManager mLayoutManager = new LinearLayoutManager(getApplicationContext());
         rcView.setLayoutManager(mLayoutManager);
         rcView.setAdapter(adapterGrilled);
@@ -50,14 +50,14 @@ public class NorthernGrilledActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Model model = new Model("", getString(R.string.thit_ba_chi));
-        modelList.add(model);
-        model = new Model("", getString(R.string.thit_xien_nuong));
-        modelList.add(model);
-        model = new Model("", getString(R.string.moon_cake));
-        modelList.add(model);
-        model = new Model("", getString(R.string.banh_my_muoi_ot));
-        modelList.add(model);
+        Food food = new Food(R.drawable.ba_chi, getString(R.string.thit_ba_chi));
+        foodList.add(food);
+        food = new Food(R.drawable.xien_nuong, getString(R.string.thit_xien_nuong));
+        foodList.add(food);
+        food = new Food(R.drawable.moon_cake, getString(R.string.moon_cake));
+        foodList.add(food);
+        food = new Food(R.drawable.muoi_ot, getString(R.string.banh_my_muoi_ot));
+        foodList.add(food);
         adapterGrilled.notifyDataSetChanged();
     }
 }

@@ -1,19 +1,19 @@
 package vn.edu.poly.projectone.model;
 
-public class Model {
-    private String Img;
+public class Food {
+    private int Img;
     private String title;
 
-    public Model(String img, String title) {
+    public Food(int img, String title) {
         Img = img;
         this.title = title;
     }
 
-    public String getImg() {
+    public int getImg() {
         return Img;
     }
 
-    public void setImg(String img) {
+    public void setImg(int img) {
         Img = img;
     }
 

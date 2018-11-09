@@ -41,6 +41,8 @@
     <string name="bo_sot_tieu">Bò sốt tiêu đen</string>
     <string name="pho_bo">Phở bò</string>
     <string name="bun_bo_bac_bo">Bún bò bắc bộ</string>
+    <string name="cook">Cách nấu</string>
+    <string name="type">Loại nguyên liệu</string>
 
 
 </resources>

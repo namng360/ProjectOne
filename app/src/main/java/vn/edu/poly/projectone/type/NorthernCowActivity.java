@@ -12,11 +12,10 @@ import java.util.List;
 
 import vn.edu.poly.projectone.R;
 import vn.edu.poly.projectone.adapter.AdapterCow;
-import vn.edu.poly.projectone.adapter.AdapterGrilled;
-import vn.edu.poly.projectone.model.Model;
+import vn.edu.poly.projectone.model.Food;
 
 public class NorthernCowActivity extends AppCompatActivity {
-    private List<Model> modelList;
+    private List<Food> foodList;
     private RecyclerView rcView;
     private AdapterCow adapterCow;
     private Toolbar toolBar;
@@ -32,8 +31,8 @@ public class NorthernCowActivity extends AppCompatActivity {
 
     private void initView() {
         rcView = findViewById(R.id.rcView);
-        modelList = new ArrayList<>();
-        adapterCow = new AdapterCow(this, modelList);
+        foodList = new ArrayList<>();
+        adapterCow = new AdapterCow(this, foodList);
         RecyclerView.LayoutManager mLayoutManager = new LinearLayoutManager(getApplicationContext());
         rcView.setLayoutManager(mLayoutManager);
         rcView.setAdapter(adapterCow);
@@ -50,14 +49,14 @@ public class NorthernCowActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Model model = new Model("", getString(R.string.bo_sot_vang));
-        modelList.add(model);
-        model = new Model("", getString(R.string.bo_sot_tieu));
-        modelList.add(model);
-        model = new Model("", getString(R.string.pho_bo));
-        modelList.add(model);
-        model = new Model("", getString(R.string.bun_bo_bac_bo));
-        modelList.add(model);
+        Food food = new Food(R.drawable.mienbac, getString(R.string.bo_sot_vang));
+        foodList.add(food);
+        food = new Food(R.drawable.miennam, getString(R.string.bo_sot_tieu));
+        foodList.add(food);
+        food = new Food(R.drawable.mientrung, getString(R.string.pho_bo));
+        foodList.add(food);
+        food = new Food(R.drawable.hai_san, getString(R.string.bun_bo_bac_bo));
+        foodList.add(food);
         adapterCow.notifyDataSetChanged();
     }
 }

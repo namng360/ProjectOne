@@ -16,16 +16,16 @@ import vn.edu.poly.projectone.cook.MuoiOtActivity;
 import vn.edu.poly.projectone.cook.ThitBaChiActivity;
 import vn.edu.poly.projectone.cook.ThitXienNuongActivity;
 import vn.edu.poly.projectone.holder.HolderFood;
-import vn.edu.poly.projectone.model.Model;
+import vn.edu.poly.projectone.model.Food;
 
 public class AdapterGrilled extends RecyclerView.Adapter<HolderFood> {
 
     private Activity activity;
-    private List<Model> modelList;
+    private List<Food> foodList;
 
-    public AdapterGrilled(Activity activity, List<Model> modelList) {
+    public AdapterGrilled(Activity activity, List<Food> foodList) {
         this.activity = activity;
-        this.modelList = modelList;
+        this.foodList = foodList;
     }
 
     @NonNull
@@ -38,8 +38,9 @@ public class AdapterGrilled extends RecyclerView.Adapter<HolderFood> {
 
     @Override
     public void onBindViewHolder(@NonNull HolderFood holderFood, final int i) {
-        final Model model = modelList.get(i);
-        holderFood.tvTittle.setText(model.getTitle());
+        final Food food = foodList.get(i);
+        holderFood.tvTittle.setText(food.getTitle());
+        holderFood.imgFood.setImageResource(food.getImg());
         /*Sự kiện click vào item*/
         holderFood.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -67,6 +68,6 @@ public class AdapterGrilled extends RecyclerView.Adapter<HolderFood> {
 
     @Override
     public int getItemCount() {
-        return modelList.size();
+        return foodList.size();
     }
 }
