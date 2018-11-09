@@ -33,8 +33,9 @@
                 android:layout_height="match_parent"
                 android:textAllCaps="true"
                 android:textColor="@color/colorBlack"
-                style="@style/Base.TextAppearance.AppCompat.Large"
+                style="@style/TextAppearance.AppCompat.Large"
                 android:textStyle="bold"
+                android:fontFamily="@font/times_new_roman"
                 android:text="@string/cook"/>
 
             <LinearLayout
@@ -59,6 +60,7 @@
                     android:background="@drawable/bg_text"
                     style="@style/TextAppearance.AppCompat.Medium"
                     android:textStyle="bold"
+                    android:fontFamily="@font/times_new_roman"
                     android:text="@string/mon_nuong"/>
 
             </LinearLayout>
@@ -83,6 +85,7 @@
                     android:textColor="@color/colorBlack"
                     android:background="@drawable/bg_text"
                     android:textStyle="bold"
+                    android:fontFamily="@font/times_new_roman"
                     style="@style/TextAppearance.AppCompat.Medium"
                     android:text="@string/mon_xao"/>
 
@@ -120,8 +123,9 @@
                 android:layout_height="match_parent"
                 android:textAllCaps="true"
                 android:textColor="@color/colorBlack"
-                style="@style/Base.TextAppearance.AppCompat.Large"
+                style="@style/TextAppearance.AppCompat.Large"
                 android:textStyle="bold"
+                android:fontFamily="@font/times_new_roman"
                 android:text="@string/type"/>
 
             <LinearLayout
@@ -145,6 +149,7 @@
                     android:textColor="@color/colorBlack"
                     android:background="@drawable/bg_text"
                     style="@style/TextAppearance.AppCompat.Medium"
+                    android:fontFamily="@font/times_new_roman"
                     android:textStyle="bold"
                     android:text="@string/thit_bo"/>
 
@@ -171,6 +176,7 @@
                     android:background="@drawable/bg_text"
                     android:textStyle="bold"
                     style="@style/TextAppearance.AppCompat.Medium"
+                    android:fontFamily="@font/times_new_roman"
                     android:text="@string/thit_ga"/>
 
             </LinearLayout>
@@ -196,6 +202,7 @@
                     android:background="@drawable/bg_text"
                     android:textStyle="bold"
                     style="@style/TextAppearance.AppCompat.Medium"
+                    android:fontFamily="@font/times_new_roman"
                     android:text="@string/thit_lon"/>
 
             </LinearLayout>
@@ -221,6 +228,7 @@
                     android:background="@drawable/bg_text"
                     android:textStyle="bold"
                     style="@style/TextAppearance.AppCompat.Medium"
+                    android:fontFamily="@font/times_new_roman"
                     android:text="@string/hai_san"/>
 
             </LinearLayout>

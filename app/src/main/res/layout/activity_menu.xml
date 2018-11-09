@@ -45,7 +45,8 @@
             android:textAllCaps="true"
             android:textColor="@color/colorBlack"
             android:background="@drawable/bg_text"
-            android:textSize="20dp"
+            android:fontFamily="@font/times_new_roman"
+            style="@style/Base.TextAppearance.AppCompat.Medium"
             android:textStyle="bold"
             android:text="@string/menu_northern"/>
 
@@ -72,7 +73,8 @@
             android:textColor="@color/colorBlack"
             android:background="@drawable/bg_text"
             android:textStyle="bold"
-            android:textSize="20dp"
+            android:fontFamily="@font/times_new_roman"
+            style="@style/Base.TextAppearance.AppCompat.Medium"
             android:text="@string/menu_south"/>
 
     </LinearLayout>
@@ -98,7 +100,8 @@
                     android:textColor="@color/colorBlack"
                     android:background="@drawable/bg_text"
                     android:textStyle="bold"
-                    android:textSize="20dp"
+                    android:fontFamily="@font/times_new_roman"
+                    style="@style/Base.TextAppearance.AppCompat.Medium"
                     android:text="@string/menu_central"/>
 
             </LinearLayout>
