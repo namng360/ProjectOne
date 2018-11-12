@@ -27,7 +27,11 @@
         <activity android:name=".cook.ThitXienNuongActivity" />
         <activity android:name=".cook.MoonCakeActivity" />
         <activity android:name=".cook.MuoiOtActivity" />
-        <activity android:name=".type.NorthernCowActivity"></activity>
+        <activity android:name=".type.NorthernCowActivity" />
+        <activity android:name=".cook.NorthernSauteActivity" />
+        <activity android:name=".cook.NorthernFriedActivity" />
+        <activity android:name=".type.NorthernChickenActivity" />
+        <activity android:name=".type.NorthernPigActivity"></activity>
     </application>
 
 </manifest>

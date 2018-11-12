@@ -43,6 +43,9 @@
     <string name="bun_bo_bac_bo">Bún bò bắc bộ</string>
     <string name="cook">Cách nấu</string>
     <string name="type">Loại nguyên liệu</string>
+    <string name="bo_xao_pho">Bò xào phở</string>
+    <string name="gia_do_xao_dau">Giá đỗ xào đậu</string>
+    <string name="rau_muong_xao_thit_bo">Rau muống xào thịt bò</string>
 
 
 </resources>
