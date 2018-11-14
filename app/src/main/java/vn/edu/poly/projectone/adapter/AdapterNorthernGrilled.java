@@ -11,19 +11,19 @@ import android.view.ViewGroup;
 import java.util.List;
 
 import vn.edu.poly.projectone.R;
-import vn.edu.poly.projectone.cook.MoonCakeActivity;
-import vn.edu.poly.projectone.cook.MuoiOtActivity;
-import vn.edu.poly.projectone.cook.ThitBaChiActivity;
-import vn.edu.poly.projectone.cook.ThitXienNuongActivity;
+import vn.edu.poly.projectone.northern.NorthernMoonCakeActivity;
+import vn.edu.poly.projectone.northern.NorthernMuoiOtActivity;
+import vn.edu.poly.projectone.northern.NorthernThitBaChiActivity;
+import vn.edu.poly.projectone.northern.NorthernThitXienNuongActivity;
 import vn.edu.poly.projectone.holder.HolderFood;
 import vn.edu.poly.projectone.model.Food;
 
-public class AdapterGrilled extends RecyclerView.Adapter<HolderFood> {
+public class AdapterNorthernGrilled extends RecyclerView.Adapter<HolderFood> {
 
     private Activity activity;
     private List<Food> foodList;
 
-    public AdapterGrilled(Activity activity, List<Food> foodList) {
+    public AdapterNorthernGrilled(Activity activity, List<Food> foodList) {
         this.activity = activity;
         this.foodList = foodList;
     }
@@ -32,7 +32,7 @@ public class AdapterGrilled extends RecyclerView.Adapter<HolderFood> {
     @Override
     public HolderFood onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
         View view = LayoutInflater.from(viewGroup.getContext())
-                .inflate(R.layout.item_northern_grilled,viewGroup,false);
+                .inflate(R.layout.item_food,viewGroup,false);
         return new HolderFood(view);
     }
 
@@ -48,16 +48,16 @@ public class AdapterGrilled extends RecyclerView.Adapter<HolderFood> {
                 Intent intent=new Intent();
                 switch (i){
                     case 0:
-                        intent =  new Intent(activity, ThitBaChiActivity.class);
+                        intent =  new Intent(activity, NorthernThitBaChiActivity.class);
                         break;
                     case 1:
-                        intent =  new Intent(activity, ThitXienNuongActivity.class);
+                        intent =  new Intent(activity, NorthernThitXienNuongActivity.class);
                         break;
                     case 2:
-                        intent =  new Intent(activity, MoonCakeActivity.class);
+                        intent =  new Intent(activity, NorthernMoonCakeActivity.class);
                         break;
                     case 3:
-                        intent =  new Intent(activity, MuoiOtActivity.class);
+                        intent =  new Intent(activity, NorthernMuoiOtActivity.class);
                         break;
                 }
                 activity.startActivity(intent);

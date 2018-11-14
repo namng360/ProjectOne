@@ -23,15 +23,30 @@
         <activity android:name=".activity.SouthActivity" />
         <activity android:name=".activity.CentralActivity" />
         <activity android:name=".cook.NorthernGrilledActivity" />
-        <activity android:name=".cook.ThitBaChiActivity" />
-        <activity android:name=".cook.ThitXienNuongActivity" />
-        <activity android:name=".cook.MoonCakeActivity" />
-        <activity android:name=".cook.MuoiOtActivity" />
+        <activity android:name=".northern.NorthernThitBaChiActivity" />
+        <activity android:name=".northern.NorthernThitXienNuongActivity" />
+        <activity android:name=".northern.NorthernMoonCakeActivity" />
+        <activity android:name=".northern.NorthernMuoiOtActivity" />
         <activity android:name=".type.NorthernCowActivity" />
         <activity android:name=".cook.NorthernSauteActivity" />
         <activity android:name=".cook.NorthernFriedActivity" />
         <activity android:name=".type.NorthernChickenActivity" />
-        <activity android:name=".type.NorthernPigActivity"></activity>
+        <activity android:name=".type.NorthernPigActivity" />
+        <activity android:name=".type.NorthernSeaFoodActivity" />
+        <activity android:name=".cook.SouthGrilledActivity" />
+        <activity android:name=".cook.SouthSauteActivity" />
+        <activity android:name=".cook.SouthFriedActivity" />
+        <activity android:name=".cook.CentralFriedActivity" />
+        <activity android:name=".cook.CentralGrilledActivity" />
+        <activity android:name=".cook.CentralSauteActivity" />
+        <activity android:name=".type.SouthChickenActivity" />
+        <activity android:name=".type.SouthCowActivity" />
+        <activity android:name=".type.SouthPigActivity" />
+        <activity android:name=".type.SouthSeaFoodActivity" />
+        <activity android:name=".type.CentralChickenActivity" />
+        <activity android:name=".type.CentralCowActivity" />
+        <activity android:name=".type.CentralPigActivity" />
+        <activity android:name=".type.CentralSeaFoodActivity"></activity>
     </application>
 
 </manifest>

@@ -11,14 +11,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 import vn.edu.poly.projectone.R;
-import vn.edu.poly.projectone.adapter.AdapterGrilled;
+import vn.edu.poly.projectone.adapter.AdapterNorthernGrilled;
 import vn.edu.poly.projectone.model.Food;
 
 public class NorthernGrilledActivity extends AppCompatActivity {
 
     private List<Food> foodList;
     private RecyclerView rcView;
-    private AdapterGrilled adapterGrilled;
+    private AdapterNorthernGrilled adapterNorthernGrilled;
     private Toolbar toolBar;
 
     @Override
@@ -33,10 +33,10 @@ public class NorthernGrilledActivity extends AppCompatActivity {
     private void initView() {
         rcView = findViewById(R.id.rcView);
         foodList = new ArrayList<>();
-        adapterGrilled = new AdapterGrilled(this, foodList);
+        adapterNorthernGrilled = new AdapterNorthernGrilled(this, foodList);
         RecyclerView.LayoutManager mLayoutManager = new LinearLayoutManager(getApplicationContext());
         rcView.setLayoutManager(mLayoutManager);
-        rcView.setAdapter(adapterGrilled);
+        rcView.setAdapter(adapterNorthernGrilled);
         toolBar = findViewById(R.id.toolBar);
         toolBar.setNavigationIcon(R.drawable.ic_back);
         toolBar.setTitle("Món nướng");
@@ -58,6 +58,6 @@ public class NorthernGrilledActivity extends AppCompatActivity {
         foodList.add(food);
         food = new Food(R.drawable.muoi_ot, getString(R.string.banh_my_muoi_ot));
         foodList.add(food);
-        adapterGrilled.notifyDataSetChanged();
+        adapterNorthernGrilled.notifyDataSetChanged();
     }
 }

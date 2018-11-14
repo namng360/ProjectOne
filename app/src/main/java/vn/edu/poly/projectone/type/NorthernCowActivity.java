@@ -11,13 +11,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 import vn.edu.poly.projectone.R;
-import vn.edu.poly.projectone.adapter.AdapterCow;
+import vn.edu.poly.projectone.adapter.AdapterNorthernCow;
 import vn.edu.poly.projectone.model.Food;
 
 public class NorthernCowActivity extends AppCompatActivity {
     private List<Food> foodList;
     private RecyclerView rcView;
-    private AdapterCow adapterCow;
+    private AdapterNorthernCow adapterNorthernCow;
     private Toolbar toolBar;
 
     @Override
@@ -32,10 +32,10 @@ public class NorthernCowActivity extends AppCompatActivity {
     private void initView() {
         rcView = findViewById(R.id.rcView);
         foodList = new ArrayList<>();
-        adapterCow = new AdapterCow(this, foodList);
+        adapterNorthernCow = new AdapterNorthernCow(this, foodList);
         RecyclerView.LayoutManager mLayoutManager = new LinearLayoutManager(getApplicationContext());
         rcView.setLayoutManager(mLayoutManager);
-        rcView.setAdapter(adapterCow);
+        rcView.setAdapter(adapterNorthernCow);
         toolBar = findViewById(R.id.toolBar);
         toolBar.setNavigationIcon(R.drawable.ic_back);
         toolBar.setTitle("Thịt bò");
@@ -57,6 +57,6 @@ public class NorthernCowActivity extends AppCompatActivity {
         foodList.add(food);
         food = new Food(R.drawable.hai_san, getString(R.string.bun_bo_bac_bo));
         foodList.add(food);
-        adapterCow.notifyDataSetChanged();
+        adapterNorthernCow.notifyDataSetChanged();
     }
 }

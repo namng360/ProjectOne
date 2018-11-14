@@ -15,11 +15,12 @@ import vn.edu.poly.projectone.cook.NorthernSauteActivity;
 import vn.edu.poly.projectone.type.NorthernChickenActivity;
 import vn.edu.poly.projectone.type.NorthernCowActivity;
 import vn.edu.poly.projectone.type.NorthernPigActivity;
+import vn.edu.poly.projectone.type.NorthernSeaFoodActivity;
 
 
 public class NorthernActivity extends AppCompatActivity {
     private Toolbar toolBar;
-    private LinearLayout lnNuong, lnCow, lnSaute, lnFried, lnChicken, lnPig;
+    private LinearLayout lnNuong, lnCow, lnSaute, lnFried, lnChicken, lnPig, lnSeaFood;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -76,6 +77,14 @@ public class NorthernActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(NorthernActivity.this, NorthernPigActivity.class);
+                startActivity(intent);
+            }
+        });
+        lnSeaFood = findViewById(R.id.lnSeaFood);
+        lnSeaFood.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(NorthernActivity.this, NorthernSeaFoodActivity.class);
                 startActivity(intent);
             }
         });

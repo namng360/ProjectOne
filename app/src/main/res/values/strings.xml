@@ -46,6 +46,27 @@
     <string name="bo_xao_pho">Bò xào phở</string>
     <string name="gia_do_xao_dau">Giá đỗ xào đậu</string>
     <string name="rau_muong_xao_thit_bo">Rau muống xào thịt bò</string>
+    <string name="banh_tom">Bánh tôm Hà Nội</string>
+    <string name="dau_phu_chien_xu">Đậu phụ chiên xù</string>
+    <string name="nem_ran">Nem rán</string>
+    <string name="muc_xao_cay">Mực xào cay</string>
+    <string name="ghe_rang_me">Ghẹ rang me</string>
+    <string name="muc_chien_bo">Mực chiên bơ</string>
+    <string name="tom_hum_nuong_bo_toi">Tôm hùm nướng bơ tỏi</string>
+    <string name="thit_kho_tau">Thịt kho tàu</string>
+    <string name="thit_lon_nau_dong">Thịt lợn nấu đông</string>
+    <string name="pate_lon">Pate lợn</string>
+    <string name="thit_lon_rim_nuoc_mam">Thịt lợn rim nước mắm</string>
+    <string name="chao_ga">Cháo gà</string>
+    <string name="ga_rim_nuoc_mam">Gà rim nước mắm</string>
+    <string name="sup_ga">Súp gà</string>
+    <string name="pho_ga">Phở gà</string>
+    <string name="hau_nuong_mo_hanh">Hàu nướng mỡ hành</string>
+    <string name="hau_nuong_pho_mai">Hàu nướng pho mai</string>
+    <string name="bach_tuoc_nuong_muoi_ot">Bạch tuộc nướng muối ớt</string>
+    <string name="bo_nuong_la_lot">Bò nướng lá lốt</string>
+    <string name="bach_tuoc_nuong_sa_te">Bạch tuộc nướng sa tế</string>
+    <string name="tom_xao_cay">Tôm xào cay</string>
 
 
 </resources>
