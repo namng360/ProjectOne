@@ -46,7 +46,12 @@
         <activity android:name=".type.CentralChickenActivity" />
         <activity android:name=".type.CentralCowActivity" />
         <activity android:name=".type.CentralPigActivity" />
-        <activity android:name=".type.CentralSeaFoodActivity"></activity>
+        <activity android:name=".type.CentralSeaFoodActivity" />
+        <activity
+            android:name=".activity.DiaryActivity"
+            android:label="@string/title_activity_diary"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".activity.AddDiaryActivity"></activity>
     </application>
 
 </manifest>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/idVote"
-        android:title="@string/menu_vote"></item>
+        android:id="@+id/idDiary"
+        android:title="@string/menu_diary"></item>
 </menu>

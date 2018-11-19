@@ -54,8 +54,9 @@ public class MenuActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
-        if (id == R.id.idVote) {
-            Toast.makeText(this, "Đánh giá", Toast.LENGTH_SHORT).show();
+        if (id == R.id.idDiary) {
+            Intent intent = new Intent(MenuActivity.this, DiaryActivity.class);
+            startActivity(intent);
             return true;
         }
         return super.onOptionsItemSelected(item);

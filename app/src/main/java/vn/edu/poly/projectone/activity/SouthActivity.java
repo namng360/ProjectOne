@@ -11,8 +11,13 @@ import android.widget.LinearLayout;
 
 import vn.edu.poly.projectone.R;
 import vn.edu.poly.projectone.cook.NorthernGrilledActivity;
+import vn.edu.poly.projectone.cook.SouthFriedActivity;
 import vn.edu.poly.projectone.cook.SouthGrilledActivity;
 import vn.edu.poly.projectone.cook.SouthSauteActivity;
+import vn.edu.poly.projectone.type.SouthChickenActivity;
+import vn.edu.poly.projectone.type.SouthCowActivity;
+import vn.edu.poly.projectone.type.SouthPigActivity;
+import vn.edu.poly.projectone.type.SouthSeaFoodActivity;
 
 public class SouthActivity extends AppCompatActivity {
 
@@ -50,6 +55,46 @@ public class SouthActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(SouthActivity.this, SouthSauteActivity.class);
+                startActivity(intent);
+            }
+        });
+        lnFried = findViewById(R.id.lnFried);
+        lnFried.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(SouthActivity.this, SouthFriedActivity.class);
+                startActivity(intent);
+            }
+        });
+        lnCow = findViewById(R.id.lnCow);
+        lnCow.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(SouthActivity.this, SouthCowActivity.class);
+                startActivity(intent);
+            }
+        });
+        lnChicken = findViewById(R.id.lnChicken);
+        lnChicken.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(SouthActivity.this, SouthChickenActivity.class);
+                startActivity(intent);
+            }
+        });
+        lnPig = findViewById(R.id.lnPig);
+        lnPig.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(SouthActivity.this, SouthPigActivity.class);
+                startActivity(intent);
+            }
+        });
+        lnSeaFood = findViewById(R.id.lnSeaFood);
+        lnSeaFood.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(SouthActivity.this, SouthSeaFoodActivity.class);
                 startActivity(intent);
             }
         });

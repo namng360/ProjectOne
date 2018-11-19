@@ -90,7 +90,7 @@ public class NorthernActivity extends AppCompatActivity {
         });
         toolBar = findViewById(R.id.toolBar);
         toolBar.setNavigationIcon(R.drawable.ic_back);
-        toolBar.setTitle("Miền Bắc");
+        toolBar.setTitle(getString(R.string.northern));
         setSupportActionBar(toolBar);
         toolBar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override

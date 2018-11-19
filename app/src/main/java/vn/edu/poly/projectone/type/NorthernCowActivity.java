@@ -38,7 +38,7 @@ public class NorthernCowActivity extends AppCompatActivity {
         rcView.setAdapter(adapterNorthernCow);
         toolBar = findViewById(R.id.toolBar);
         toolBar.setNavigationIcon(R.drawable.ic_back);
-        toolBar.setTitle("Thịt bò");
+        toolBar.setTitle(getString(R.string.thit_bo));
         setSupportActionBar(toolBar);
         toolBar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
@@ -49,13 +49,13 @@ public class NorthernCowActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Food food = new Food(R.drawable.mienbac, getString(R.string.bo_sot_vang));
+        Food food = new Food(R.drawable.bo_sot_vang, getString(R.string.bo_sot_vang));
         foodList.add(food);
-        food = new Food(R.drawable.miennam, getString(R.string.bo_sot_tieu));
+        food = new Food(R.drawable.bo_sot_tieu_den, getString(R.string.bo_sot_tieu));
         foodList.add(food);
-        food = new Food(R.drawable.mientrung, getString(R.string.pho_bo));
+        food = new Food(R.drawable.pho_bo, getString(R.string.pho_bo));
         foodList.add(food);
-        food = new Food(R.drawable.hai_san, getString(R.string.bun_bo_bac_bo));
+        food = new Food(R.drawable.bun_bo_bac_bo, getString(R.string.bun_bo_bac_bo));
         foodList.add(food);
         adapterNorthernCow.notifyDataSetChanged();
     }

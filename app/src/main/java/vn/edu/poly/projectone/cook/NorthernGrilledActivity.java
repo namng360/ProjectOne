@@ -39,7 +39,7 @@ public class NorthernGrilledActivity extends AppCompatActivity {
         rcView.setAdapter(adapterNorthernGrilled);
         toolBar = findViewById(R.id.toolBar);
         toolBar.setNavigationIcon(R.drawable.ic_back);
-        toolBar.setTitle("Món nướng");
+        toolBar.setTitle(R.string.mon_nuong);
         setSupportActionBar(toolBar);
         toolBar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
