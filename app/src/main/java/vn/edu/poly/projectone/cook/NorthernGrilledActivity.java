@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import vn.edu.poly.projectone.R;
-import vn.edu.poly.projectone.adapter.AdapterNorthernGrilled;
+import vn.edu.poly.projectone.adapter.northern.AdapterNorthernGrilled;
 import vn.edu.poly.projectone.model.Food;
 
 public class NorthernGrilledActivity extends AppCompatActivity {

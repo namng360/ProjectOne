@@ -1,4 +1,4 @@
-package vn.edu.poly.projectone.adapter;
+package vn.edu.poly.projectone.adapter.northern;
 
 import android.app.Activity;
 import android.content.Intent;

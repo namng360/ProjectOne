@@ -1,113 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/white"
+    android:fitsSystemWindows="true"
     tools:context=".activity.MenuActivity">
 
-    <android.support.v7.widget.Toolbar
-        android:id="@+id/toolBar"
-        android:background="@color/colorPrimary"
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="@dimen/detail_backdrop_height"
+        android:fitsSystemWindows="true">
 
-    </android.support.v7.widget.Toolbar>
-
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-        <LinearLayout
-            android:orientation="vertical"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-    <LinearLayout
-        android:onClick="Northern"
-        android:layout_margin="10dp"
-        android:orientation="vertical"
-        android:layout_width="match_parent"
-        android:layout_height="200dp">
-
-        <ImageView
-            android:scaleType="centerCrop"
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:src="@drawable/mienbac"/>
-
-        <TextView
-            android:gravity="center_vertical"
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/collapsing_toolbar"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:textAllCaps="true"
-            android:textColor="@color/colorBlack"
-            android:background="@drawable/bg_text"
-            android:fontFamily="@font/times_new_roman"
-            style="@style/Base.TextAppearance.AppCompat.Medium"
-            android:textStyle="bold"
-            android:text="@string/menu_northern"/>
+            android:fitsSystemWindows="true"
+            app:contentScrim="?attr/colorPrimary"
+            app:expandedTitleMarginEnd="64dp"
+            app:expandedTitleMarginStart="48dp"
+            app:expandedTitleTextAppearance="@android:color/transparent"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
-    </LinearLayout>
-
-    <LinearLayout
-        android:onClick="South"
-        android:layout_margin="10dp"
-        android:orientation="vertical"
-        android:layout_width="match_parent"
-        android:layout_height="200dp">
-
-        <ImageView
-            android:scaleType="centerCrop"
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
-            android:src="@drawable/miennam"/>
-
-        <TextView
-            android:gravity="center_vertical"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:textAllCaps="true"
-            android:textColor="@color/colorBlack"
-            android:background="@drawable/bg_text"
-            android:textStyle="bold"
-            android:fontFamily="@font/times_new_roman"
-            style="@style/Base.TextAppearance.AppCompat.Medium"
-            android:text="@string/menu_south"/>
-
-    </LinearLayout>
-
-            <LinearLayout
-                android:onClick="Central"
-                android:layout_margin="10dp"
-                android:orientation="vertical"
-                android:layout_width="match_parent"
-                android:layout_height="200dp">
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
 
                 <ImageView
-                    android:scaleType="centerCrop"
-                    android:layout_width="match_parent"
-                    android:layout_height="150dp"
-                    android:src="@drawable/mientrung"/>
-
-                <TextView
-                    android:gravity="center_vertical"
+                    android:id="@+id/backdrop"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:textAllCaps="true"
-                    android:textColor="@color/colorBlack"
-                    android:background="@drawable/bg_text"
-                    android:textStyle="bold"
-                    android:fontFamily="@font/times_new_roman"
-                    style="@style/Base.TextAppearance.AppCompat.Medium"
-                    android:text="@string/menu_central"/>
+                    android:fitsSystemWindows="true"
+                    android:scaleType="centerCrop"
+                    app:layout_collapseMode="parallax" />
 
-            </LinearLayout>
+            </RelativeLayout>
 
-        </LinearLayout>
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolBar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
-    </ScrollView>
+        </android.support.design.widget.CollapsingToolbarLayout>
 
-</LinearLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_menu" />
+
+
+</android.support.design.widget.CoordinatorLayout>
