@@ -114,6 +114,9 @@ public class MenuActivity extends AppCompatActivity {
             Intent intent = new Intent(MenuActivity.this, DiaryActivity.class);
             startActivity(intent);
             return true;
+        }if (id == R.id.idLanguage){
+            Intent intent = new Intent(MenuActivity.this, ChageLanguageActivity.class);
+            startActivity(intent);
         }
         return super.onOptionsItemSelected(item);
     }

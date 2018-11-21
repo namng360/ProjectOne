@@ -2,5 +2,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/idDiary"
-        android:title="@string/menu_diary"></item>
+        android:title="@string/your_diary"></item>
+    <item
+        android:id="@+id/idLanguage"
+        android:title="@string/chage_language"></item>
 </menu>

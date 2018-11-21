@@ -20,17 +20,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 import vn.edu.poly.projectone.R;
-import vn.edu.poly.projectone.adapter.AdapterMenu;
 import vn.edu.poly.projectone.adapter.AdapterSouth;
-import vn.edu.poly.projectone.cook.NorthernGrilledActivity;
-import vn.edu.poly.projectone.cook.SouthFriedActivity;
-import vn.edu.poly.projectone.cook.SouthGrilledActivity;
-import vn.edu.poly.projectone.cook.SouthSauteActivity;
+
 import vn.edu.poly.projectone.model.Food;
-import vn.edu.poly.projectone.type.SouthChickenActivity;
-import vn.edu.poly.projectone.type.SouthCowActivity;
-import vn.edu.poly.projectone.type.SouthPigActivity;
-import vn.edu.poly.projectone.type.SouthSeaFoodActivity;
+
 
 public class SouthActivity extends AppCompatActivity {
 

@@ -13,14 +13,9 @@
     <string name="central">Miền Trung</string>
 
     <!--Menu sceen-->
-    <string name="menu_northern">Miền Bắc</string>
-    <string name="menu_south">Miền Nam</string>
-    <string name="menu_central">Miền trung</string>
+
 
     <!--Menu Bottom-->
-    <string name="menu_vote">Đánh giá</string>
-    <string name="menu_cook">Cook</string>
-    <string name="menu_type">Type</string>
 
 
     <!--Cook-->
@@ -74,7 +69,7 @@
     <string name="bot_chien_trung">Bột chiên trứng</string>
     <string name="vien_xoi_chien">Viên xôi chiên</string>
     <string name="trung_cut_lon_chien">Trứng cút lộn chiên</string>
-    <string name="bo_kho_mien_nam">Bò kho miền nam</string>
+    <string name="bo_kho_mien_nam">" Bò kho miền nam"</string>
     <string name="bo_kho_nuoc_dua">Bò kho nước dừa</string>
     <string name="bo_xot_tieu_xanh">Bò xốt tiêu xanh</string>
     <string name="cari_ga_mien_nam">Cari gà miền nam</string>
@@ -106,6 +101,8 @@
     <string name="bun_tom_mien_trung">Bún mắm tôm miền Trung</string>
     <string name="bun_sua">Bún sứa</string>
     <string name="cha_ram_tom">Chả ram tôm</string>
+
+    <!--Orther-->
     <string name="err">Có lỗi xảy ra</string>
     <string name="menu_diary">Nhật ký của bạn</string>
     <string name="title_activity_diary">DiaryActivity</string>
@@ -114,6 +111,13 @@
     <string name="choose">Chọn</string>
     <string name="describe">Nội dung</string>
     <string name="save">Lưu</string>
+
+    <!--Chage language scenn-->
+    <string name="menu_language">Thay đổi ngôn ngữ</string>
+    <string name="en">Tiếng Anh</string>
+    <string name="vn">Tiếng Việt</string>
+    <string name="your_diary">Nhật ký của bạn</string>
+    <string name="chage_language">Thay đổi ngôn ngữ</string>
 
 
 </resources>

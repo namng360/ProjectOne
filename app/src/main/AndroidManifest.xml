@@ -51,7 +51,8 @@
             android:name=".activity.DiaryActivity"
             android:label="@string/title_activity_diary"
             android:theme="@style/AppTheme" />
-        <activity android:name=".activity.AddDiaryActivity"></activity>
+        <activity android:name=".activity.AddDiaryActivity" />
+        <activity android:name=".activity.ChageLanguageActivity"></activity>
     </application>
 
 </manifest>
