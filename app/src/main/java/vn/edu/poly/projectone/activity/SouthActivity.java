@@ -1,7 +1,5 @@
 package vn.edu.poly.projectone.activity;
 
-
-import android.content.Intent;
 import android.support.design.widget.AppBarLayout;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
@@ -12,7 +10,6 @@ import android.support.v7.widget.Toolbar;
 
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 
 import com.bumptech.glide.Glide;
 
@@ -94,19 +91,19 @@ public class SouthActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Food food = new Food(R.drawable.mon_nuong, getString(R.string.mon_nuong));
+        Food food = new Food(R.drawable.mon_nuong, getString(R.string.mon_nuong), "", "");
         foodList.add(food);
-        food = new Food(R.drawable.mon_xao, getString(R.string.mon_xao));
+        food = new Food(R.drawable.mon_xao, getString(R.string.mon_xao), "", "");
         foodList.add(food);
-        food = new Food(R.drawable.mon_chien, getString(R.string.mon_chien));
+        food = new Food(R.drawable.mon_chien, getString(R.string.mon_chien), "", "");
         foodList.add(food);
-        food = new Food(R.drawable.thit_bo, getString(R.string.thit_bo));
+        food = new Food(R.drawable.thit_bo, getString(R.string.thit_bo), "", "");
         foodList.add(food);
-        food = new Food(R.drawable.thit_ga, getString(R.string.thit_ga));
+        food = new Food(R.drawable.thit_ga, getString(R.string.thit_ga), "", "");
         foodList.add(food);
-        food = new Food(R.drawable.thit_lon, getString(R.string.thit_lon));
+        food = new Food(R.drawable.thit_lon, getString(R.string.thit_lon), "", "");
         foodList.add(food);
-        food = new Food(R.drawable.hai_san, getString(R.string.hai_san));
+        food = new Food(R.drawable.hai_san, getString(R.string.hai_san), "", "");
         foodList.add(food);
         adapterSouth.notifyDataSetChanged();
     }

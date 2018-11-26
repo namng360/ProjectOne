@@ -52,7 +52,8 @@
             android:label="@string/title_activity_diary"
             android:theme="@style/AppTheme" />
         <activity android:name=".activity.AddDiaryActivity" />
-        <activity android:name=".activity.ChageLanguageActivity"></activity>
+        <activity android:name=".activity.ChageLanguageActivity" />
+        <activity android:name=".activity.GuideActivity"></activity>
     </application>
 
 </manifest>

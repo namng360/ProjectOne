@@ -49,13 +49,13 @@ public class NorthernCowActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Food food = new Food(R.drawable.bo_sot_vang, getString(R.string.bo_sot_vang));
+        Food food = new Food(R.drawable.bo_sot_vang, getString(R.string.bo_sot_vang), "","");
         foodList.add(food);
-        food = new Food(R.drawable.bo_sot_tieu_den, getString(R.string.bo_sot_tieu));
+        food = new Food(R.drawable.bo_sot_tieu_den, getString(R.string.bo_sot_tieu), "","");
         foodList.add(food);
-        food = new Food(R.drawable.pho_bo, getString(R.string.pho_bo));
+        food = new Food(R.drawable.pho_bo, getString(R.string.pho_bo), "","");
         foodList.add(food);
-        food = new Food(R.drawable.bun_bo_bac_bo, getString(R.string.bun_bo_bac_bo));
+        food = new Food(R.drawable.bun_bo_bac_bo, getString(R.string.bun_bo_bac_bo), "","");
         foodList.add(food);
         adapterNorthernCow.notifyDataSetChanged();
     }

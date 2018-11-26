@@ -79,7 +79,7 @@
     <string name="thit_ba_chi_luoc_sot_toi_cay">Thịt ba chỉ luộc sốt cay</string>
     <string name="thit_quay_gion_bi">Thịt quay giòn bì</string>
     <string name="kho_quet">Kho quẹt</string>
-    <string name="ram_bap">Ram bắp</string>
+
     <string name="banh_can">Bánh căn</string>
     <string name="trung_chien_mien">Trứng chiên miến</string>
     <string name="banh_xeo">Bánh xèo</string>
@@ -118,6 +118,28 @@
     <string name="vn">Tiếng Việt</string>
     <string name="your_diary">Nhật ký của bạn</string>
     <string name="chage_language">Thay đổi ngôn ngữ</string>
+    <string name="resources">Nguyên liệu</string>
 
+    <!--Ram bap-->
+    <string name="ram_bap">Ram bắp</string>
+    <string name="ram_bap_1">Bắp bào: 1 kg</string>
+    <string name="ram_bap_2">Sả băm: 2 cây </string>
+    <string name="ram_bap_3">Hành tím: 200 gram </string>
+    <string name="ram_bap_4">Tỏi băm: 2 củ</string>
+    <string name="ram_bap_5">Hạt nêm: ½ muỗng canh </string>
+    <string name="ram_bap_6">Đường: 2 muỗng canh</string>
+    <string name="ram_bap_7">Bột ngọt: 1 muỗng cà phê</string>
+    <string name="ram_bap_8">Tiêu xay: 3 muỗng cà phê</string>
+    <string name="ram_bap_9">Bước 1: Sơ Chế: Bắp tước lá, bỏ râu rồi bào nhỏ. Hành tím cắt bỏ gốc,
+        lột sạch vỏ khô rồi mang bào mỏng.Tỏi mang băm nhỏ.Bánh tráng bạn mang cắt thành hình tam giác.</string>
+    <string name="ram_bap_10">Bước 2: Ướp gia vị: Cho bắp bào, tỏi, sả băm và hành tím vào 1 cái nồi lớn.
+        Sau đó, bạn tiếp tục cho thêm 2 muỗng canh đường, 3 muỗng tiêu xay, 1/2 muỗng canh hạt nêm và 1 muỗng cà phê bột ngọt.
+         Dùng đũa trộn đều tất cả nguyên liệu rồi để trong 2 phút cho bắp thấm gia vị.</string>
+    <string name="ram_bap_11">Bước 3: Cuốn bánh: Bạn nhúng một góc nhỏ của bánh tráng vào nước lọc.
+        Việc này để tạo độ mềm dẻo và dính, khi chiên, cuốn ram sẽ không bị rách.
+        Thường xuyên đảo đều cuốn ram bắp, chiên cho đến khi chúng vàng đều thì vớt ra để ráo dầu.</string>
+    <string name="ram_bap_12">Bước 4: Hoàn thiện: Pha một chén nước mắm ớt tỏi Lý Sơn chua ngọt.
+        Dọn ram bắp ra kèm với một ít dưa leo, rau sống.
+        Cuộn ram bắp vào rau sống rồi chấm ngập vào chén nước mắm chua ngọt và thưởng thức hưởng vị tuyệt vời của món ram bắp.</string>
 
 </resources>

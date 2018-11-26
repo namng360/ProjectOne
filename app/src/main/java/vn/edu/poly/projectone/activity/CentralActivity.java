@@ -1,7 +1,5 @@
 package vn.edu.poly.projectone.activity;
 
-
-import android.content.Intent;
 import android.support.design.widget.AppBarLayout;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
@@ -11,31 +9,13 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
-
 import com.bumptech.glide.Glide;
-
 import java.util.ArrayList;
 import java.util.List;
-
 import vn.edu.poly.projectone.R;
 import vn.edu.poly.projectone.adapter.AdapterCentral;
-import vn.edu.poly.projectone.adapter.AdapterNorthern;
-import vn.edu.poly.projectone.cook.CentralFriedActivity;
-import vn.edu.poly.projectone.cook.CentralGrilledActivity;
-import vn.edu.poly.projectone.cook.CentralSauteActivity;
-import vn.edu.poly.projectone.cook.NorthernFriedActivity;
-import vn.edu.poly.projectone.cook.NorthernGrilledActivity;
-import vn.edu.poly.projectone.cook.NorthernSauteActivity;
 import vn.edu.poly.projectone.model.Food;
-import vn.edu.poly.projectone.type.CentralChickenActivity;
-import vn.edu.poly.projectone.type.CentralCowActivity;
-import vn.edu.poly.projectone.type.CentralPigActivity;
-import vn.edu.poly.projectone.type.CentralSeaFoodActivity;
-import vn.edu.poly.projectone.type.NorthernChickenActivity;
-import vn.edu.poly.projectone.type.NorthernCowActivity;
-import vn.edu.poly.projectone.type.NorthernPigActivity;
-import vn.edu.poly.projectone.type.NorthernSeaFoodActivity;
+
 
 
 public class CentralActivity extends AppCompatActivity {
@@ -106,19 +86,19 @@ public class CentralActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Food food = new Food(R.drawable.mon_nuong, getString(R.string.mon_nuong));
+        Food food = new Food(R.drawable.mon_nuong, getString(R.string.mon_nuong), "","");
         foodList.add(food);
-        food = new Food(R.drawable.mon_xao, getString(R.string.mon_xao));
+        food = new Food(R.drawable.mon_xao, getString(R.string.mon_xao), "","");
         foodList.add(food);
-        food = new Food(R.drawable.mon_chien, getString(R.string.mon_chien));
+        food = new Food(R.drawable.mon_chien, getString(R.string.mon_chien), "","");
         foodList.add(food);
-        food = new Food(R.drawable.thit_bo, getString(R.string.thit_bo));
+        food = new Food(R.drawable.thit_bo, getString(R.string.thit_bo), "","");
         foodList.add(food);
-        food = new Food(R.drawable.thit_ga, getString(R.string.thit_ga));
+        food = new Food(R.drawable.thit_ga, getString(R.string.thit_ga), "","");
         foodList.add(food);
-        food = new Food(R.drawable.thit_lon, getString(R.string.thit_lon));
+        food = new Food(R.drawable.thit_lon, getString(R.string.thit_lon), "","");
         foodList.add(food);
-        food = new Food(R.drawable.hai_san, getString(R.string.hai_san));
+        food = new Food(R.drawable.hai_san, getString(R.string.hai_san), "","");
         foodList.add(food);
         adapterCentral.notifyDataSetChanged();
     }

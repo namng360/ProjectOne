@@ -91,11 +91,11 @@ public class MenuActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Food food = new Food(R.drawable.mienbac, getString(R.string.northern));
+        Food food = new Food(R.drawable.mienbac, getString(R.string.northern), "","");
         foodList.add(food);
-        food = new Food(R.drawable.mientrung, getString(R.string.central));
+        food = new Food(R.drawable.mientrung, getString(R.string.central), "","");
         foodList.add(food);
-        food = new Food(R.drawable.miennam, getString(R.string.south));
+        food = new Food(R.drawable.miennam, getString(R.string.south), "","");
         foodList.add(food);
         adapterMenu.notifyDataSetChanged();
     }
