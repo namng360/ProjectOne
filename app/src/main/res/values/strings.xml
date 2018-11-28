@@ -38,12 +38,12 @@
     <string name="bun_bo_bac_bo">Bún bò bắc bộ</string>
     <string name="cook">Cách nấu</string>
     <string name="type">Loại nguyên liệu</string>
-    <string name="bo_xao_pho">Bò xào phở</string>
+
     <string name="gia_do_xao_dau">Giá đỗ xào đậu</string>
     <string name="rau_muong_xao_thit_bo">Rau muống xào thịt bò</string>
-    <string name="banh_tom">Bánh tôm Hà Nội</string>
-    <string name="dau_phu_chien_xu">Đậu phụ chiên xù</string>
-    <string name="nem_ran">Nem rán</string>
+
+
+
     <string name="muc_xao_cay">Mực xào cay</string>
     <string name="ghe_rang_me">Ghẹ rang me</string>
     <string name="muc_chien_bo">Mực chiên bơ</string>
@@ -80,22 +80,22 @@
     <string name="thit_quay_gion_bi">Thịt quay giòn bì</string>
     <string name="kho_quet">Kho quẹt</string>
 
-    <string name="banh_can">Bánh căn</string>
-    <string name="trung_chien_mien">Trứng chiên miến</string>
-    <string name="banh_xeo">Bánh xèo</string>
-    <string name="ga_nuong_lu_xoi_chay">Gà nướng lu xôi cháy</string>
-    <string name="bun_nghe_xao_long">Bún nghệ xào lòng</string>
-    <string name="oc_hut_xao_dua">Ốc hút xào dừa</string>
+
+
+
+
+
+
     <string name="com_ga_tam_ky">Cơm gà tam kỳ</string>
     <string name="mi_quang_ga">Mì quảng gà</string>
     <string name="ga_kho_sa">Gà kho sả</string>
     <string name="cha_bo">Chả bò</string>
     <string name="thit_bo_rim">Thịt bò rim</string>
     <string name="de_bo_tay_son">Dé bò Tây Sơn</string>
-    <string name="thit_xao_mam_ruoc">Thịt xào mắm ruốc</string>
+
     <string name="thit_heo_ngam_nuoc_mam">Thịt heo ngâm nước mắm</string>
     <string name="banh_trang_cuon_thit_heo">Bánh tráng cuốn thịt heo</string>
-    <string name="bun_thit_nuong">Bún thịt nướng</string>
+
     <string name="thit_heo_muoi">Thịt heo muối</string>
     <string name="banh_canh_ghe">Bánh canh ghẹ</string>
     <string name="bun_tom_mien_trung">Bún mắm tôm miền Trung</string>
@@ -130,16 +130,289 @@
     <string name="ram_bap_6">Đường: 2 muỗng canh</string>
     <string name="ram_bap_7">Bột ngọt: 1 muỗng cà phê</string>
     <string name="ram_bap_8">Tiêu xay: 3 muỗng cà phê</string>
-    <string name="ram_bap_9">Bước 1: Sơ Chế: Bắp tước lá, bỏ râu rồi bào nhỏ. Hành tím cắt bỏ gốc,
-        lột sạch vỏ khô rồi mang bào mỏng.Tỏi mang băm nhỏ.Bánh tráng bạn mang cắt thành hình tam giác.</string>
-    <string name="ram_bap_10">Bước 2: Ướp gia vị: Cho bắp bào, tỏi, sả băm và hành tím vào 1 cái nồi lớn.
-        Sau đó, bạn tiếp tục cho thêm 2 muỗng canh đường, 3 muỗng tiêu xay, 1/2 muỗng canh hạt nêm và 1 muỗng cà phê bột ngọt.
-         Dùng đũa trộn đều tất cả nguyên liệu rồi để trong 2 phút cho bắp thấm gia vị.</string>
-    <string name="ram_bap_11">Bước 3: Cuốn bánh: Bạn nhúng một góc nhỏ của bánh tráng vào nước lọc.
+    <string name="ram_bap_9">Bước 1: Bắp tước lá, bỏ râu rồi bào nhỏ. Hành tím cắt bỏ gốc,
+        lột sạch vỏ khô rồi mang bào mỏng. Tỏi mang băm nhỏ. Bánh tráng bạn mang cắt thành hình tam giác.</string>
+    <string name="ram_bap_10">Bước 2: Cho bắp bào, tỏi, sả băm và hành tím vào 1 cái nồi lớn.
+        Sau đó, bạn tiếp tục cho thêm 2 muỗng canh đường, 3 muỗng tiêu xay, 1/2 muỗng canh hạt nêm và 1 muỗng cà phê bột ngọt.</string>
+    <string name="ram_bap_11">Bước 3: Nhúng một góc nhỏ của bánh tráng vào nước lọc.
         Việc này để tạo độ mềm dẻo và dính, khi chiên, cuốn ram sẽ không bị rách.
         Thường xuyên đảo đều cuốn ram bắp, chiên cho đến khi chúng vàng đều thì vớt ra để ráo dầu.</string>
-    <string name="ram_bap_12">Bước 4: Hoàn thiện: Pha một chén nước mắm ớt tỏi Lý Sơn chua ngọt.
-        Dọn ram bắp ra kèm với một ít dưa leo, rau sống.
+    <string name="ram_bap_12">Bước 4: Pha một chén nước mắm ớt tỏi Lý Sơn chua ngọt.
         Cuộn ram bắp vào rau sống rồi chấm ngập vào chén nước mắm chua ngọt và thưởng thức hưởng vị tuyệt vời của món ram bắp.</string>
+
+    <!--Banh can-->
+    <string name="banh_can">Bánh căn</string>
+    <string name="banh_can_1">1 kg gạo lúa thơm</string>
+    <string name="banh_can_2">1 nắm lá hẹ</string>
+    <string name="banh_can_3">2 quả cà chua</string>
+    <string name="banh_can_4">Dầu ăn, mắm, đường, bột ngọt, ớt, tỏi, chanh</string>
+    <string name="banh_can_5">1 chén cơm khô</string>
+    <string name="banh_can_6">15 quả trứng cút, hoặc hải sản.</string>
+    <string name="banh_can_7">200g tôm tươi</string>
+    <string name="banh_can_8">Rau sống, xà lách, húng quế, xoài…</string>
+    <string name="banh_can_9">Bước 1: Ngâm gạo và cơm khô với nước để qua đêm. Sau đó, xay nhuyễn thành bột.
+        Lưu ý nên pha nước trộn bột theo lượng vừa phải, có thể cho thêm một ít dầu ăn hoặc nước cốt dừa để bánh có độ ngậy hơn.</string>
+    <string name="banh_can_10">Bước 2: Hẹ rửa sạch, thái nhỏ, đun nóng dầu ăn rồi cho hẹ vào xào nhanh rồi tắt bếp.</string>
+    <string name="banh_can_11">Bước 3: Đặt lò nướng bánh căn lên bếp cho nóng,
+        quết một lớp dầu ăn vào lòng khuôn để không dính bột rồi đổ bột vào khuôn và đậy nắp lại.</string>
+    <string name="banh_can_12">Bước 4: Sau vài phút, bạn đập trứng cút hoặc cho nhân bánh là phần hải sản đã
+        chuẩn bị vào trong bánh rồi đậy nắp lại. Chờ thêm vài phút cho bánh chín hẳn và tắt bếp.</string>
+    <string name="banh_can_13">Bước 5: Khi vỏ bánh hơi giòn và mặt bánh se lại, bạn lấy bánh ra khỏi khuôn,
+        phết dầu hẹ lên trên bánh và xếp ra đĩa.</string>
+
+    <!--Trung chien mien-->
+    <string name="trung_chien_mien">Trứng chiên miến</string>
+    <string name="trung_chien_mien_1">100g miến</string>
+    <string name="trung_chien_mien_2">2 quả trứng gà</string>
+    <string name="trung_chien_mien_3">1 củ hành tím</string>
+    <string name="trung_chien_mien_4">Nước mắm, mì chính.</string>
+    <string name="trung_chien_mien_5">Bước 1: Chuẩn bị nguyên liệu.</string>
+    <string name="trung_chien_mien_6">Bước 2: Ngâm miến trong nước nóng 50-60 độ C khoảng 10 phút rồi vớt ra xả với nước lạnh.</string>
+    <string name="trung_chien_mien_7">Bước 3: Cho miến đã cắt nhỏ cùng hành tím thái nhỏ, trứng đập bỏ vỏ vào bát tô.
+         Cho nước mắm, mì chính theo khẩu vị, khuấy đều tất cả lên.</string>
+    <string name="trung_chien_mien_8">Bước 4: Đổ dầu ăn vào chảo, cho hỗn hợp trứng miến vào, dàn đều.
+        Chiên trong lửa vừa đến khi miến gần chín vàng thì bật lửa to để miến không bị ngấm dầu ăn gây ngán.</string>
+    <string name="trung_chien_mien_9">Bước 5: Gắp miến chiên ra đĩa có lót giấy thấm dầu, cắt miếng vừa ăn.
+        Có thể chấm cùng tương ớt tuỳ thích.</string>
+
+    <!--Banh xeo-->
+    <string name="banh_xeo">Bánh xèo</string>
+    <string name="banh_xeo_1">Bột gạo: 200gr</string>
+    <string name="banh_xeo_2">Thịt heo: 200gr</string>
+    <string name="banh_xeo_3">Giá đỗ: 100gr</string>
+    <string name="banh_xeo_4">Nấm hương: 30gr</string>
+    <string name="banh_xeo_5">Bột nghệ: ½ muỗng</string>
+    <string name="banh_xeo_6">Tôm: 200gr</string>
+    <string name="banh_xeo_7">Nước cốt dừa: 50ml</string>
+    <string name="banh_xeo_8">Rau sống: xà lách, rau mùi, rau cải</string>
+    <string name="banh_xeo_9">Muối, tỏi, ớt, đường, chanh, nước mắm…</string>
+    <string name="banh_xeo_10">Bước 1: Làm bột gạo, vo sạch gạo rồi ngâm qua đêm cho gạo nở ra.
+        Sáng sớm mai vớt gạo ra xay thành bột. Cho toàn bộ bột gạo vào một cái thau nhựa sạch, thêm nước cốt dừa,
+        bột nghệ và ít muối vào rồi khuấy đều. Xắt nhỏ hành lá cho vào hỗn hợp bột. </string>
+    <string name="banh_xeo_11">Bước 2: Sơ chế, tôm tươi cắt râu rửa sạch, nên chọn loại tôm nhỏ vừa phải,
+        nếu tôm lớn thì bóc vỏ rồi xẻ đôi theo chiều dọc. Ướp tôm với một ít muối và gừng băm nhỏ.
+        Thịt heo chọn loại nhiều nạc, ít mỡ, rửa sạch thái lát mỏng, nhỏ rồi ướp với ít muối, bột nêm trong một cái chén khác.
+        </string>
+    <string name="banh_xeo_12">Bước 3: Xào nhân và rán bánh bèo. Cho dầu ăn và hành băm nhỏ vào phi thơm lên, thêm thịt,
+        tôm đã ướp gia vị và nấm hươngvào xào chín và nêm lại gia vị vừa ăn.</string>
+
+
+    <!--Nem nuong-->
+    <string name="nem_nuong">Nem nướng</string>
+    <string name="nem_nuong_1">Thịt nạc mông xay nhuyễn: 600gr</string>
+    <string name="nem_nuong_2">Mỡ: 100gr</string>
+    <string name="nem_nuong_3">Nước chấm: 150gr tôm, 150gr thịt nạc xay, 100gr gan lợn,
+        ½ bát con gạo nếp, ½ bát con tương đậu nành, muối, đường, hành khô, nước mắm.</string>
+    <string name="nem_nuong_4">Rau ăn kèm: xà lách, rau mùi, rau răm, húng, dưa chuột, chuối xanh, khế chua</string>
+    <string name="nem_nuong_5">Bún, bánh tráng</string>
+    <string name="nem_nuong_6">Lạc rang, ớt</string>
+    <string name="nem_nuong_7">Bước 1: Mỡ rửa sạch, thái hạt lựu nhỏ, hành khô bóc vỏ rồi băm nhỏ</string>
+    <string name="nem_nuong_8">Bước 2: Thịt xay đổ ra bát tô, thêm mỡ và ướp cùng 3 thìa canh nước mắm, 1 thìa café muối,
+        3 thìa canh đường, ½ thìa café bột nở, 1 thìa café hạt tiêu, 2 thìa canh bột năng và 1 củ hành khô băm nhỏ.
+        Sau đó dùng thìa lớn quết nhuyễn mịn đều để hỗn hợp thịt được dai rồi bọc kín lại để tủ lạnh qua đêm.</string>
+    <string name="nem_nuong_9">Bước 3: Nem sau khi làm xong có thể nướng than hoa hoặc dùng lò nướng ở nhiệt độ 160 độ C trong 10-15 phút ở mỗi mặt.
+        Khi nướng lưu ý phết đều dầu ăn lên bề mặt để thịt không bị khô.</string>
+    <string name="nem_nuong_10">Bước 4: Gạo nếp vo sạch rồi ngâm gạo vào nước lạnh khoảng 5 tiếng.
+        Sau đó cho gạo vào nồi đun sôi và nấu đến khi mềm nát. Đổ gạo ra bát, dùng thìa tán nhuyễn gạo nếp.</string>
+    <string name="nem_nuong_11">Bước 5: Tôm bóc vỏ, bỏ đầu, bỏ phần chỉ đen ở lưng rồi băm thật nhỏ.
+        Thịt nạc xay đổ ra bát, gan lợn rửa sạch rồi băm nhuyễn.</string>
+    <string name="nem_nuong_12">Bước 6: Bắc chảo lên bếp, cho dầu ăn vào rồi phi thơm hành khô, tiếp tục thêm tôm băm nhuyễn vào xào.
+        Xào khoảng 3-5 phút rồi cho tiếp thịt lợn xay và gan lợn vào xào cùng.</string>
+    <string name="nem_nuong_13">Bước 7: Đổ lại phần hỗn hợp đã xay nhuyễn mịn vào chảo, từ từ cho bát tương vào vừa đổ vừa dùng đũa khuấy đều.
+        Nếm thêm đường, muối, nước mắm sao cho vừa ăn.</string>
+
+
+    <!--Banh trang nuong-->
+    <string name="banh_trang_nuong">Bánh tráng nướng</string>
+    <string name="banh_trang_nuong_1">1 bịch bánh tráng</string>
+    <string name="banh_trang_nuong_2">3 quả trứng gà</string>
+    <string name="banh_trang_nuong_3">100 gram hành tím</string>
+    <string name="banh_trang_nuong_4">50 gram sả</string>
+    <string name="banh_trang_nuong_5">100 gram hành lá</string>
+    <string name="banh_trang_nuong_6">100 gram sa tế</string>
+    <string name="banh_trang_nuong_7">100 ml mắm ruốc Huế</string>
+    <string name="banh_trang_nuong_8">Tương ớt, dầu ăn, nước sốt mayonaise</string>
+    <string name="banh_trang_nuong_9">Bước 1: Cho chảo lên bếp, phi thơm hành  và cho sả thái nhỏ vào phi thơm.
+        Sau đó 1/2 số hành lá đem phi thơm với 2 muỗng canh dầu ăn để làm mỡ hành.</string>
+    <string name="banh_trang_nuong_10">Bước 2: Cho 1 muỗng cafe sả, 1 muỗng cafe sa tế, 1 muỗng cafe mỡ hành,
+        1 muỗng cafe mắm ruốc Huế vào bánh tráng.</string>
+    <string name="banh_trang_nuong_11">Bước 3: Đập 1 quả trứng gà lên mặt bánh,
+        dùng cọ đảo nhanh tay trứng với các gia vị cho đều, quết đều khắp mặt bánh.</string>
+    <string name="banh_trang_nuong_12">Bước 4: Nhân lúc trứng chưa kịp chín, rắc hành lá đã thái nhỏ lên đều mặt bánh,
+        xịt tương ớt theo vòng tròn cho đều, rắc hành phi lên bánh. Xoay xoay bánh tráng sao cho chín đều rồi đặt vào đĩa</string>
+
+    <!--Ga nuong lu xoi chay-->
+    <string name="ga_nuong_lu_xoi_chay">Gà nướng lu xôi cháy</string>
+    <string name="ga_nuong_lu_xoi_chay_1">Gà ta 1 con 1.5 kg</string>
+    <string name="ga_nuong_lu_xoi_chay_2">1 gói ngũ vị hương</string>
+    <string name="ga_nuong_lu_xoi_chay_3">Tỏi, hành khô, tiêu xay</string>
+    <string name="ga_nuong_lu_xoi_chay_4"> Chanh, mật ong, dầu hào</string>
+    <string name="ga_nuong_lu_xoi_chay_5">Gia vị: nước mắm, muối, hạt nêm, bột ngọt</string>
+    <string name="ga_nuong_lu_xoi_chay_6"> Xôi cháy</string>
+    <string name="ga_nuong_lu_xoi_chay_7">Bước 1: Đầu tiên, gà ta khi mua về, bạn sơ chế cho thật sạch,
+        rồi dùng dao chặt bỏ phần chân,8cổ và 2 đầu cánh ra để riêng một đĩa.</string>
+    <string name="ga_nuong_lu_xoi_chay_8">Bước 2: Dùng dao nhọn và xẻ dọc theo chiều của phần thịt ức gà,
+        lấy phần sống dao đập dập dần vào trên phần xương lưng của con gà, rồi dùng tay bẻ hai ức gà ra hai bên.</string>
+    <string name="ga_nuong_lu_xoi_chay_9">Bước 3: Hành, tỏi khi mua về thì bạn bóc sạch hết vỏ, dùng dao băm thật nhuyễn.</string>
+    <string name="ga_nuong_lu_xoi_chay_10">Bước 4: Cho các loại gia vị hỗn hợp gồm: muối, hạt nêm, bột ngọt, hạt tiêu,
+        bột ngũ vị hương cùng hành, tỏi băm nhỏ, thêm một chút dầu hào vào trong bát.</string>
+    <string name="ga_nuong_lu_xoi_chay_11">Bước 5: Tiếp theo đặt gà vào ngăn mát tủ lạnh chừng 3 tiếng đồng hồ để cho gà
+        thấm gia vị đậm đà rồi đem đi nướng lu.</string>
+    <string name="ga_nuong_lu_xoi_chay_12">Bước 6: Kế tiếp, cho gà vào lu nướng ở nhiệt độ cao trong khoảng một tiếng.
+        Lửa tỏa đều trong lu sẽ làm cho gà chín đều, giòn tan và mùi thơm hấp dẫn.</string>
+
+    <!--Bun thit nuong-->
+    <string name="bun_thit_nuong">Bún thịt nướng</string>
+    <string name="bun_thit_nuong_1">2kg bún sợi nhỏ</string>
+    <string name="bun_thit_nuong_2">600gr thịt nách heo hoặc nạc lưng, đùi</string>
+    <string name="bun_thit_nuong_3">100gr đậu phộng</string>
+    <string name="bun_thit_nuong_4">1 thìa cà phê nước màu</string>
+    <string name="bun_thit_nuong_5">5 cọng hành lá</string>
+    <string name="bun_thit_nuong_6">Rau xà lách, giá, dưa leo</string>
+    <string name="bun_thit_nuong_7">Hành tím, tỏi được băm nhuyễn</string>
+    <string name="bun_thit_nuong_8">1 thìa canh nước mắm, 2 thìa canh nước đun sôi để nguội, 2 thìa cà phê dấm,
+        3 thìa cà phê đường, tỏi 9ăm, ớt băm</string>
+    <string name="bun_thit_nuong_9">Bước 1: Đem thịt ướp với 1 muỗng café hành củ băm, 1 muỗng café tỏi băm, 1 muỗng café nước màu,
+        ½ muỗng café tiêu, ½ muỗng canh đường, 1 muỗng café bột ngọt, ½ muỗng canh nước mắm, 1 muỗng canh xì dầu,
+        đem ướp trong 30 phút trở lên.</string>
+    <string name="bun_thit_nuong_10">Bước 2: Ghim thịt heo vào que hoặc sắp vào vỉ nướng,
+        nướng với than lửa vừa phải để thịt được chín vàng đều. Khi thịt chín thì phết mỡ hành lên.</string>
+    <string name="bun_thit_nuong_11">Bước 3: Cho 1 phần bún với 1 phần dưa leo, 1 chút giá và 1 chút rau sống vừa đu ăn vào tô.
+        Xếp thịt heo nướng lên bên trên.</string>
+
+    <!--Bo xao pho-->
+    <string name="bo_xao_pho">Bò xào phở</string>
+    <string name="bo_xao_pho_1">200gr thịt bò thái lát mỏng</string>
+    <string name="bo_xao_pho_2">8 lát bánh phở dùng để cuốn</string>
+    <string name="bo_xao_pho_3">4 cây hẹ</string>
+    <string name="bo_xao_pho_4">2 thìa canh xì dầu</string>
+    <string name="bo_xao_pho_5">1 thìa cà phê đường</string>
+    <string name="bo_xao_pho_6">70gr giá đỗ</string>
+    <string name="bo_xao_pho_7">2 cây hành lá</string>
+    <string name="bo_xao_pho_8">¼ củ hành tây</string>
+    <string name="bo_xao_pho_9">Bò xào phở</string>
+    <string name="bo_xao_pho_10">1 thìa canh tương nhạt</string>
+    <string name="bo_xao_pho_11">Bước 1: Thịt bò đem thái lát mỏng, đem ướp với các loại gia vị ướp theo tỉ lệ:
+        ½ thìa canh xì dầu, ½ thìa canh tương nhạt, 1 thìa café bột bắp, 1 thìa café đường, 1 thìa café nước,
+        ¼ thìa café dầu mè trong 15 phút</string>
+    <string name="bo_xao_pho_12">Bước 2: Tiếp theo, bạn lột vỏ hành tây, cắt thành lát mỏng. Hành lá cắt khúc chừng 5cm.
+        Bánh phở cuộn lại, cắt khúc khoảng 5cm.</string>
+    <string name="bo_xao_pho_13"> Bước 3: Khi dầu tiếp tục nóng già thì trút thịt bò vào xào nhanh tay trên lửa lớn cho tới khi thịt bò săn lại,
+        đổi màu thì trút ra đĩa để riêng.</string>
+    <string name="bo_xao_pho_14">Bước 4: Cho hành tây vào xào thơm lên,
+        trút giá đỗ và đầu hành trắng đảo một lần rồi cho bánh phở vào xào chung.</string>
+    <string name="bo_xao_pho_15">Bước 5: Bước cuối cùng, bạn thêm thịt bò vào xào chung, thêm chút nước tương nhạt,
+        xì dầu và đường vào tiếp tục đảo đều.</string>
+
+    <!--Thit xao mam ruoc-->
+    <string name="thit_xao_mam_ruoc">Thịt xào mắm ruốc</string>
+    <string name="thit_xao_mam_ruoc_1">1/2 chén mắm ruốc</string>
+    <string name="thit_xao_mam_ruoc_2">Hành tím</string>
+    <string name="thit_xao_mam_ruoc_3">500gr thịt ba chỉ</string>
+    <string name="thit_xao_mam_ruoc_4">Ớt hiểm</string>
+    <string name="thit_xao_mam_ruoc_5">1 chén sả bằm</string>
+    <string name="thit_xao_mam_ruoc_6">Đường, bột ngọt</string>
+    <string name="thit_xao_mam_ruoc_7">Bước 1: Thịt ba chỉ mua về bạn đem rửa sạch rồi cắt miếng vuông vừa phải,
+        rồi sau đó lại cắt đôi từng miếng vuông.</string>
+    <string name="thit_xao_mam_ruoc_8">Bước 2: Trước hết, bạn đun nóng dầu ăn rồi phi thơm hành tím băm.
+        Tiếp tục, bạn trút thịt vào đảo đều cho đến khi săn lại thì cho sả băm vào,
+        đảo đều tay cho sả dậy mùi thơm và khô lại rồi trút ớt bằm vào.</string>
+    <string name="thit_xao_mam_ruoc_9">Bước 3: Sau đó, bạn đổ từ từ mắm ruốc vào.
+        Tiến hành đun cho đến khi thịt heo xào mắm ruốc sôi lại thì nêm thêm đường, bột ngọt cho vừa ăn.</string>
+
+    <!--Bun nghe xao long-->
+    <string name="bun_nghe_xao_long">Bún nghệ xào lòng</string>
+    <string name="bun_nghe_xao_long_1">300 gram bún tươi</string>
+    <string name="bun_nghe_xao_long_2">2 – 3 củ nghệ tươi</string>
+    <string name="bun_nghe_xao_long_3">300 gram núm đuôi lợn</string>
+    <string name="bun_nghe_xao_long_4">50 gram gan lợn</string>
+    <string name="bun_nghe_xao_long_5">1 miếng huyết lợn</string>
+    <string name="bun_nghe_xao_long_6">Hành tây, rau răm, ớt, hẹ</string>
+    <string name="bun_nghe_xao_long_7">Bước 1: Xả lại dưới nước lạnh rồi xắt thành miếng dày chừng 5-10mm.
+        Huyết heo rửa sạch rồi xắt miếng vừa ăn. Gan rửa sạch rồi thái mỏng vừa ăn.</string>
+    <string name="bun_nghe_xao_long_8">Bước 2: Rau răm rửa sạch rồi băm nhỏ. Hành tây lột vỏ, xắt thành cọng nhỏ.
+        Hẹ thái khúc 5 phân. Ớt cắt xéo.</string>
+    <string name="bun_nghe_xao_long_9">Bước 3: Nghệ rửa sạch, gọt bỏ vỏ, sau đó cho vào cối giã nhuyễn.
+        Bún tươi thọt cây kéo vào cắt ngắn thành cọng 5-10 phân để cho dễ trộn.</string>
+    <string name="bun_nghe_xao_long_10">Bước 4: Bắc chảo cho vào ít dầu đun nóng rồi cho ít hành củ băm vào phi thơm.
+        Cho núm đuôi và gan heo vào xào săn, nêm tí muối, nước mắm, bột ngọt vô xào lên cho gia vị ngấm đều.
+        Sau đó cho huyết heo vào đảo nhẹ.</string>
+    <string name="bun_nghe_xao_long_11">Bước 5: Tiếp tục trút 2 phần nghệ vào xào chung.
+        Sau đó cho tất cả hành tây, hẹ, rau răm vào. Nêm nếm lại cho vị hơi mặn mà một chút (vì sẽ cho bún vào nữa).</string>
+    <string name="bun_nghe_xao_long_11">Bước 6: Cuối cùng cho bún vào, vặn nhỏ lửa, trộn nhẹ nhàng cho đều.
+        Khi ăn cho thêm một ít nghệ tươi giã nát còn lại vào ăn chung, kèm theo chút ớt nữa mới ngon.</string>
+
+    <!--Oc hut xao dua-->
+    <string name="oc_hut_xao_dua">Ốc hút xào dừa</string>
+    <string name="oc_hut_xao_dua_1">Ốc len to: 1kg.</string>
+    <string name="oc_hut_xao_dua_2">Cùi dừa: 500g.</string>
+    <string name="oc_hut_xao_dua_3">Xả, tỏi, rau răm, ớt.</string>
+    <string name="oc_hut_xao_dua_4">Dầu ăn, muối, đường, hạt nêm.</string>
+    <string name="oc_hut_xao_dua_5">Bước 1: Đem cùi dừa thái mỏng cho vào xay sinh tố
+        + 1 thìa cà phê muối + 4 thìa cà phê đường + 1 thìa cà phê hạt nêm + 1/2 bát con nước, rồi xay nhuyễn để lấy nước cốt.</string>
+    <string name="oc_hut_xao_dua_6">Bước 2: Cho dầu ăn vào chảo đun nóng rồi cho tỏi, xả băm nhỏ vào phi vàng, thơm.</string>
+    <string name="oc_hut_xao_dua_7">Bước 3: Cho hỗn hợp tỏi, xả phi vàng + xả đập dập +
+        ốc len vào chảo xào qua rồi tiếp tục cho nốt nước cốt dừa vừa xay vào đun với lửa to tới khi sôi.</string>
+    <string name="oc_hut_xao_dua_8">Bước 4: Cuối cùng khi ốc đã chín bạn cho rau răm băm nhỏ
+        + ớt băm nhỏ vào trộn đều là được, tắt bếp.</string>
+
+
+    <!--Banh tom ha noi-->
+    <string name="banh_tom">Bánh tôm Hà Nội</string>
+    <string name="banh_tom_1">Tôm đồng: 500gr</string>
+    <string name="banh_tom_2">Bột mì: 200gr</string>
+    <string name="banh_tom_3">Bột năng: 100gr</string>
+    <string name="banh_tom_4">Khoai lang: 300gr </string>
+    <string name="banh_tom_5">Đu đủ: 1 quả nhỏ, cà rốt: 1 củ</string>
+    <string name="banh_tom_6">Trứng: 2 quả</string>
+    <string name="banh_tom_7">Xà lách, mùi, húng</string>
+    <string name="banh_tom_8">Hành: 1 củ, tỏi: 1 củ nhỏ, chanh: 1 quả</string>
+    <string name="banh_tom_9">Dầu ăn, nước mắm, muối, tiêu, bột ngọt, đường, giấm</string>
+    <string name="banh_tom_10">Bước 2: Cho bột mì, bột năng và 150ml nước vào bát lớn, trộn đều.
+        Đập trứng vào bát, đánh đều tay cho tới khi hỗn hợp trở nên sền sệt rồi để bột nghỉ trong 30 phút.</string>
+    <string name="banh_tom_11">Bước 3:Cạo vỏ khoai lang, rửa sạch, thái sợi nhỏ rồi đem ngâm với nước muối loãng.
+        Sau 15 phút, bạn vớt khoai lang ra, để ráo rồi cho vào trộn đều với hỗn hợp bột ở trên.</string>
+    <string name="banh_tom_12">Bước 4:Cà rốt, đu đủ gọt vỏ, rửa sạch, tỉa hoa rồi ngâm giấm trong 15 phút rồi vớt ra để ráo.
+        Hành, tỏi bóc vỏ, rửa sạch, băm nhuyễn. Ớt rửa sạch, thái nhỏ.</string>
+    <string name="banh_tom_13">Bước 5:Ướp tôm với 1 thìa canh bột nêm, 1 thìa cafe muối, 1 thìa cafe đường,
+        1/2 thìa cafe hạt tiêu trong 15 phút. Cho tôm vào hỗn hợp bột và khoai , trộn đều.</string>
+    <string name="banh_tom_14">Bước 6:Đun nóng chảo với 3 – 4 thìa canh dầu ăn, múc hỗn hợp bột, khoai và tôm vào chảo,
+        chỉnh cho con tôm nằm ở giữa rồi chiên vàng giòn, chín đều thì vớt ra để lên giấy cho ráo dầu.</string>
+    <string name="banh_tom_15">Bước 7: Làm nước chấm: trộn đều 2 thìa canh nước mắm với 2 thìa cafe đường,
+        1 thìa canh nước cốt chanh, 1 thìa canh nước lọc, hành tỏi, ớt băm,
+        nêm nếm cho vừa miệng rồi cho đu đủ, cà rốt đã chuẩn bị vào.</string>
+
+
+    <!--Dau phu chien xu-->
+    <string name="dau_phu_chien_xu">Đậu phụ chiên xù</string>
+    <string name="dau_phu_chien_xu_1">500g đậu phụ</string>
+    <string name="dau_phu_chien_xu_2">3 quả trứng gà</string>
+    <string name="dau_phu_chien_xu_3">30g bột mì; bột chiên xù: 60g</string>
+    <string name="dau_phu_chien_xu_4">Bước 1: Đánh đều trứng (chỉ lấy 1 quả trứng và 2 lòng đỏ).
+        Đậu phụ cắt nhỏ thành thanh tránh bị nát.</string>
+    <string name="dau_phu_chien_xu_5">Bước 2: Cho đậu vào bát bột mỳ nhẹ nhàng lăn đều sau đó nhúng
+        qua trứng và cuối cùng là lăn qua hỗn hợp bột chiên xù </string>
+    <string name="dau_phu_chien_xu_6">Bước 3: Cho chảo lên bếp đổ dầu vào và chiên đậu khi nào đậu vàng đều 2 mặt thì vớt ra.
+        Dùng giấy thấm bớt dầu và trình bày ra đĩa và thưởng thức.</string>
+
+
+    <!--Nem ran-->
+    <string name="nem_ran">Nem rán</string>
+    <string name="nem_ran_1">Thịt vai: 400g</string>
+    <string name="nem_ran_3">Hành tây: 1 củ nhỏ</string>
+    <string name="nem_ran_4">Giá đỗ: 150gr</string>
+    <string name="nem_ran_5">Cà rốt: 1 củ nhỏ</string>
+    <string name="nem_ran_6">Su hào: Nửa củ</string>
+    <string name="nem_ran_7">100g miến, vài cái nấm hương, mộc nhĩ</string>
+    <string name="nem_ran_8">2 quả trứng</string>
+    <string name="nem_ran_9">Hành hoa, rau mùi, hạt tiêu, mắm, gia vị</string>
+    <string name="nem_ran_10">Vỏ bánh đa nem: 35 – 40 cái</string>
+    <string name="nem_ran_11">Bước 1: Băm nhuyễn Các loại rau củ quả và thịt băm thật nhỏ.</string>
+    <string name="nem_ran_12">Bước 2: Cho tất cả các nguyên liệu làm nem rán đã chuẩn bị ở các bước trên vào một âu lớn.
+        Cho thêm một thìa ăn cơm dầu ăn, thêm hạt tiêu, mắm, gia vị, hạt nêm. Đập thêm 2 quả trứng vào âu.</string>
+    <string name="nem_ran_13">Xúc một lượng nhân thịt nem đặt vào bánh đa,
+        cuộn 1 vòng cho kín rồi gập hai đầu hai bên lại.</string>
+    <string name="nem_ran_14">Bước 4: Đun sôi dầu ăn đến lúc già, cho nem vào rán qua,
+        khi ăn sẽ rán nem lại 1 lần nữa cho chín vàng đều là được.</string>
 
 </resources>

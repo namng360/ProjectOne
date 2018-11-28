@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.ChageLanguageActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_language"
+        style="@style/TextAppearance.AppCompat.Large"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:fontFamily="@font/times_new_roman"/>
+
+    <LinearLayout
+        android:id="@+id/lnEn"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:scaleType="center"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:src="@drawable/en"/>
+
+        <TextView
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:fontFamily="@font/times_new_roman"
+            android:textColor="@color/colorBlack"
+            style="@style/Base.TextAppearance.AppCompat.Medium"
+            android:text="@string/en"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lnVn"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:scaleType="center"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:src="@drawable/vn"/>
+
+        <TextView
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:fontFamily="@font/times_new_roman"
+            android:textColor="@color/colorBlack"
+            style="@style/Base.TextAppearance.AppCompat.Medium"
+            android:text="@string/vn"/>
+
+    </LinearLayout>
+
+</LinearLayout>
