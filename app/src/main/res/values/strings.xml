@@ -22,10 +22,10 @@
     <string name="mon_nuong">Món nướng</string>
     <string name="mon_xao">Món xào</string>
     <string name="mon_chien">Món chiên</string>
-    <string name="thit_ba_chi">Thịt ba chỉ nướng</string>
-    <string name="thit_xien_nuong">Thịt xiên nướng</string>
-    <string name="moon_cake">Bánh trung thu</string>
-    <string name="banh_my_muoi_ot">Bánh mỳ nướng muối ớt</string>
+
+
+
+
 
     <!--Type-->
     <string name="thit_bo">Thịt bò</string>
@@ -39,8 +39,8 @@
     <string name="cook">Cách nấu</string>
     <string name="type">Loại nguyên liệu</string>
 
-    <string name="gia_do_xao_dau">Giá đỗ xào đậu</string>
-    <string name="rau_muong_xao_thit_bo">Rau muống xào thịt bò</string>
+
+
 
 
 
@@ -65,7 +65,7 @@
     <string name="ga_xao_cay">Gà xào cay</string>
     <string name="sup_lo_xao_suc_xich">Súp lơ xào súc xích</string>
     <string name="bong_cai_xao_thit_bo">Bông cải xào thịt bò</string>
-    <string name="nem_ruoi">Nem rươi</string>
+
     <string name="bot_chien_trung">Bột chiên trứng</string>
     <string name="vien_xoi_chien">Viên xôi chiên</string>
     <string name="trung_cut_lon_chien">Trứng cút lộn chiên</string>
@@ -414,5 +414,119 @@
         cuộn 1 vòng cho kín rồi gập hai đầu hai bên lại.</string>
     <string name="nem_ran_14">Bước 4: Đun sôi dầu ăn đến lúc già, cho nem vào rán qua,
         khi ăn sẽ rán nem lại 1 lần nữa cho chín vàng đều là được.</string>
+
+    <!--Thit ba chi nuong-->
+    <string name="thit_ba_chi">Thịt ba chỉ nướng</string>
+    <string name="thit_ba_chi_1">Thịt ba chỉ: 600g</string>
+    <string name="thit_ba_chi_2">Sả: 2 cây</string>
+    <string name="thit_ba_chi_3">Hành khô: 1 củ</string>
+    <string name="thit_ba_chi_4">Tỏi khô: 1 củ</string>
+    <string name="thit_ba_chi_5">Gừng tươi: 1 nhánh</string>
+    <string name="thit_ba_chi_6">Ớt: 1 trái, nếu muốn ăn cay</string>
+    <string name="thit_ba_chi_7">Các gia vị thường dùng: hạt tiêu, bột ngọt, nước mắm, hạt nêm, muối …</string>
+    <string name="thit_ba_chi_8">Bước 1: Thịt ba chỉ mua về bạn rửa sạch với nước, sau đó dùng khăn sạch thấm khô.</string>
+    <string name="thit_ba_chi_9">Bước 2: Băm nhỏ củ sả, tỏi khô, hành khô, ớt tươi và gừng tươi.</string>
+    <string name="thit_ba_chi_10">Bước 3: Bạn cho hết các nguyên liệu ở bước 2 vào tô thịt, thêm vào đó 1 muỗng nước mắm ngon, chút hạt tiêu, bột ngọt.
+        Trộn đều tất cả nguyên liệu rồi ướp trong khoảng 30 phút cho thịt thấm gia vị.</string>
+    <string name="thit_ba_chi_11">Bước 4: Làm nóng lò nướng trước, sau đó xếp thịt lên vỉ sắt và cho vào nướng đến khi thịt xém vàng,
+        bạn căn chỉnh thời gian sao cho phù hợp.</string>
+
+    <!--Thit xien nuong-->
+    <string name="thit_xien_nuong">Thịt xiên nướng</string>
+    <string name="thit_xien_nuong_1">500gr thịt nạc vai hoặc thịt ba chỉ</string>
+    <string name="thit_xien_nuong_2">Que xiên</string>
+    <string name="thit_xien_nuong_3">3 củ hành tím; 3 tép tỏi</string>
+    <string name="thit_xien_nuong_4">1/3 củ hành tây</string>
+    <string name="thit_xien_nuong_5">Vừng trắng</string>
+    <string name="thit_xien_nuong_6">Chanh quả</string>
+    <string name="thit_xien_nuong_7">Các loại gia vị: nước mắm, hạt tiêu, dầu hào, sữa đặc, mật ong, dầu mè (dầu vừng),
+        đường vàng, nước hàng.</string>
+    <string name="thit_xien_nuong_8">Bước 1: Thịt lợn mua về xát muối rửa thật sạch, để ráo nước, thái miếng mỏng hơn 0,5 cm. </string>
+    <string name="thit_xien_nuong_9">Bước 2: Sả, hành tím, hành tây, tỏi băm nhỏ và nhuyễn</string>
+    <string name="thit_xien_nuong_10">Bước 3: Trộn thật đều các nguyên liệu. Đeo bao tay vào, đổ tất cả hỗn hợp ướp thịt vào bát thịt đã thái,
+        trộn bóp thật đều.</string>
+    <string name="thit_xien_nuong_11">Bước 4: Dùng que xiên thịt nếu miếng dài thì gấp làm đôi cho gọn gàng, xiên miếng thịt cho đều nhau đừng để miếng dài miếng ngắn quá và cũng không cần phải dồn thịt lại cho chặt</string>
+    <string name="thit_xien_nuong_12">Bước 5: Với món thịt xiên này nướng than hoa vẫn là thơm ngon nhất,
+        còn không có bếp than hoa thì mọi người có thể dùng: lò nướng, bếp nướng, có thể cho thịt xiên vào chảo dầu và rán vàng. </string>
+
+    <!--Banh trung thu-->
+    <string name="moon_cake">Bánh trung thu</string>
+    <string name="moon_cake_1">Bột mì đa dụng</string>
+    <string name="moon_cake_2">Nước đường bánh nướng</string>
+    <string name="moon_cake_3">1 lòng đỏ trứng gà</string>
+    <string name="moon_cake_4">Dầu ăn</string>
+    <string name="moon_cake_5">Nhân bánh: Lạp xưởng, hạt sen, lá chanh, mứt bí, nước hoa bưởi, vừng, đường, hạt điều, bột dẻo.</string>
+    <string name="moon_cake_6">Hỗn hợp tạo màu bánh: Mật ong, sữa tươi, dầu mè, trứng gà</string>
+    <string name="moon_cake_7">Bước 1: Làm vỏ bánh. Bạn đổ bột là khay, sau đó cho lòng đỏ trứng gà, dầu ăn,
+        nước đường bánh nướng vào trộn đều, dùng tay nhào thật kỹ cho tới khi bột mềm và dẻo. </string>
+    <string name="moon_cake_8">Bước 2: Bọc kín phần bột vừa làm bằng một lớp nilon, để nơi khô thoáng khoảng 30 phút.</string>
+    <string name="moon_cake_9">Bước 3: Thái nhỏ tất cả các nguyên liệu làm nhân bánh ở bên trên, trộn đều với nhau.</string>
+    <string name="moon_cake_10">Bước 4: Lấy phần bột đã ủ ra chia thành từng phần bằng nhau theo kích thước khuôn bánh.</string>
+    <string name="moon_cake_11">Bước 5: Đập trứng gà ra bát, sau đó thêm chút sữa tươi, mật ong và dầu mè, trộn đều tay.
+        Sau đó dùng màng lọc để cho ra hỗn hợp sánh mịn hơn. </string>
+    <string name="moon_cake_12">Bước 6: Cho bánh vào lò nướng khoảng 10 phút, sau đó bỏ ra và xịt nước lên bề mặt bánh.
+        Tiếp tục cho vào lò nướng 10 phút. Khi bánh chuyển sang màu vàng đẹp mắt là được.</string>
+
+
+    <!--Banh my muoi ot-->
+    <string name="banh_my_muoi_ot">Bánh mỳ nướng muối ớt</string>
+    <string name="banh_my_muoi_ot_1">3 ổ bánh mì.</string>
+    <string name="banh_my_muoi_ot_2">Đường, muối.</string>
+    <string name="banh_my_muoi_ot_3">Sa tế ớt, ớt bột và tương ớt</string>
+    <string name="banh_my_muoi_ot_4">Bơ thực vật, hành lá, dầu ăn.</string>
+    <string name="banh_my_muoi_ot_5">Chà bông, xúc xích, tép rang, sốt mayonnaise.</string>
+    <string name="banh_my_muoi_ot_6">Bước 1: Hành lá nhặt sạch rễ và lá úa, rửa sạch rồi cắt nhỏ.
+        Xúc xích cắt thành những sợi dài khoảng 5cm.</string>
+    <string name="banh_my_muoi_ot_7">Bước 2: Cho dầu ăn vào 1 cái chảo sạch rồi đặt lên bếp đun nóng.
+        Sau đó cho hành lá đã cắt nhỏ vào để làm mỡ hành.</string>
+    <string name="banh_my_muoi_ot_8">Bước 3: Khuấy đều đường, muối, ớt bột, sa tế và tương ớt lại với nhau trong 1 cái tô sạch.</string>
+    <string name="banh_my_muoi_ot_9">Bước 4: Bạn dùng cây cán bột để cán cho bánh mì dẹp ra.
+        Sau đó phết đều bơ thực vật và hỗn hợp sa tế lên đều 2 mặt bánh mì.</string>
+    <string name="banh_my_muoi_ot_10">Bước 5: Nướng bánh mì trên bếp khoảng 2-4, vừa nướng vừa lật cho cả 2 mặt bánh đều được nướng giòn.</string>
+    <string name="banh_my_muoi_ot_11">Bước 6: Bánh mì đã nướng xong thì cắt thành những miếng dài vừa ăn.
+        Xếp bánh mì ra đĩa, thêm chà bông, xúc xích, tép rang và mỡ hành lên trên nữa là hoàn thành!</string>
+
+    <!--Gia do xao dau-->
+    <string name="gia_do_xao_dau">Giá đỗ xào đậu</string>
+    <string name="gia_do_xao_dau_1">400 gr giá đỗ</string>
+    <string name="gia_do_xao_dau_2">2 miếng đậu phụ</string>
+    <string name="gia_do_xao_dau_3">1/4 củ cà rốt</string>
+    <string name="gia_do_xao_dau_4">1 Củ hành khô, 2 nhánh hành hoa, hạt nêm, mắm, mỳ chính, tiêu</string>
+    <string name="gia_do_xao_dau_5">Bước 1: Đậu có thể cắt nhỏ rán giòn, hoặc để nguyên miếng rán giòn rồi cắt nhỏ tùy ý ướp với
+        1/2 thìa cà phê mắm nam ngư</string>
+    <string name="gia_do_xao_dau_6">Bước 2: Giá đỗ, hành hoa rửa sạch để ráo cắt khúc, cà rốt bào sợi,
+        cho dầu ăn vào chảo đun sôi cho tiếp hành khô băm nhỏ phi thơm</string>
+    <string name="gia_do_xao_dau_7">Bước 3: cho đậu vào xào sơ, trút ra đĩa, cho tiếp giá đỗ, cà rốt cùng xíu bột nêm,
+        xíu mỳ chính vào đảo gần chín giá đỗ, cho hành hoa vào đảo đều và xúc ra đĩa rắc tiêu là xong </string>
+
+
+    <!--Rau muong xao thit ba-->
+    <string name="rau_muong_xao_thit_bo">Rau muống xào thịt bò</string>
+    <string name="rau_muong_xao_thit_bo_1">1 mớ rau muống</string>
+    <string name="rau_muong_xao_thit_bo_2">300g thịt bò thăn</string>
+    <string name="rau_muong_xao_thit_bo_3">1-2 củ tỏi,gia vị,muối tiêu,bột ngọt,rau ngổ....</string>
+    <string name="rau_muong_xao_thit_bo_4">Bước 1: Đầu tiên rau muống rửa sạch bỏ bớt lá. Sau đó tỏi bóc vỏ đập dập</string>
+    <string name="rau_muong_xao_thit_bo_5">Bước 2: Thịt bò thái mỏng, để ướp một chút tỏi và gia vị muối tiêu,bọt ngọt.</string>
+    <string name="rau_muong_xao_thit_bo_6">Bước 3: Luộc rau thì vừa tới rau còn màu xanh vớt ra để ngâm vào chậu nước đun sôi để nguội</string>
+    <string name="rau_muong_xao_thit_bo_7">Bước 4: Xào thịt vừa chín rồi múc ra đĩa. Tiếp đó rửa chảo bắt đầu phi tỏi xào rau muống,
+        rau chín có độ giòn rồi ta đổ thịt bò xào cho nóng</string>
+    <string name="rau_muong_xao_thit_bo_8">Bước 5: Ta cho rau xào ra đĩa để trang trí thôi ạ.Rắc tiêu ăn nóng cho mùi vị thêm đậm đà.</string>
+
+    <!--Nem ruoi-->
+    <string name="nem_ruoi">Nem rươi</string>
+    <string name="nem_ruoi_1">Rươi tươi hoặc rươi đông lạnh: 300g</string>
+    <string name="nem_ruoi_2">Thịt nạc xay: 100g</string>
+    <string name="nem_ruoi_3">Bánh đa nem</string>
+    <string name="nem_ruoi_4">Hành tây: 1 củ</string>
+    <string name="nem_ruoi_5">Giá đỗ, cà rốt, nấm hương, mộc nhĩ, hành tươi</string>
+    <string name="nem_ruoi_6">Miến: 50g.</string>
+    <string name="nem_ruoi_7">Trứng vịt: 2 – 3 quả</string>
+    <string name="nem_ruoi_8">Hạt nêm, nước mắm, mỳ chính, hạt tiêu, dầu ăn…</string>
+    <string name="nem_ruoi_9">Bước 1: Rửa sạch rươi với nước lạnh.</string>
+    <string name="nem_ruoi_10">Bước 2: Giá đỗ rửa sạch; hành tây rửa sạch, xắt sợi; hành lá rửa sạch, thái khúc; cà rốt rửa sạch, nạo sợi nhỏ.</string>
+    <string name="nem_ruoi_11">Bước 3: Mộc nhĩ ngâm nở, làm sạch, thái sợ nhỏ. Miến dong rửa sạch, ngâm nở, để ráo nước, cắt ngắn.</string>
+    <string name="nem_ruoi_12">Bước 4: Trộn đều các nguyên liệu: rươi, thịt xay, hành lá, hành củ, giá đỗ, cà rốt, miến, mộc nhĩ, trứng… </string>
+    <string name="nem_ruoi_13">Bước 5: Lấy bánh đa nem ra múc nhân vào gói rồi cho vào dầu đã nóng già để rán.</string>
+    <string name="nem_ruoi_14">Bước 6:Nem đã gói xong, đặt chảo dầu lên bếp cho nóng già rồi thả nem vào rán cho chín vàng.</string>
 
 </resources>
