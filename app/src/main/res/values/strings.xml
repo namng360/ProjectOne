@@ -12,95 +12,18 @@
     <string name="south">Miền Nam</string>
     <string name="central">Miền Trung</string>
 
-    <!--Menu sceen-->
-
-
-    <!--Menu Bottom-->
-
-
     <!--Cook-->
     <string name="mon_nuong">Món nướng</string>
     <string name="mon_xao">Món xào</string>
     <string name="mon_chien">Món chiên</string>
-
-
-
-
 
     <!--Type-->
     <string name="thit_bo">Thịt bò</string>
     <string name="thit_ga">Thịt gà</string>
     <string name="thit_lon">Thịt lợn</string>
     <string name="hai_san">Hải sản</string>
-    <string name="bo_sot_vang">Bò sốt vang</string>
-    <string name="bo_sot_tieu">Bò sốt tiêu đen</string>
-    <string name="pho_bo">Phở bò</string>
-    <string name="bun_bo_bac_bo">Bún bò bắc bộ</string>
     <string name="cook">Cách nấu</string>
     <string name="type">Loại nguyên liệu</string>
-
-
-
-
-
-
-    <string name="muc_xao_cay">Mực xào cay</string>
-    <string name="ghe_rang_me">Ghẹ rang me</string>
-    <string name="muc_chien_bo">Mực chiên bơ</string>
-    <string name="tom_hum_nuong_bo_toi">Tôm hùm nướng bơ tỏi</string>
-    <string name="thit_kho_tau">Thịt kho tàu</string>
-    <string name="thit_lon_nau_dong">Thịt lợn nấu đông</string>
-    <string name="pate_lon">Pate lợn</string>
-    <string name="thit_lon_rim_nuoc_mam">Thịt lợn rim nước mắm</string>
-    <string name="chao_ga">Cháo gà</string>
-    <string name="ga_rim_nuoc_mam">Gà rim nước mắm</string>
-    <string name="sup_ga">Súp gà</string>
-    <string name="pho_ga">Phở gà</string>
-    <string name="hau_nuong_mo_hanh">Hàu nướng mỡ hành</string>
-    <string name="hau_nuong_pho_mai">Hàu nướng pho mai</string>
-    <string name="bach_tuoc_nuong_muoi_ot">Bạch tuộc nướng muối ớt</string>
-    <string name="bo_nuong_la_lot">Bò nướng lá lốt</string>
-    <string name="bach_tuoc_nuong_sa_te">Bạch tuộc nướng sa tế</string>
-    <string name="tom_xao_cay">Tôm xào cay</string>
-    <string name="ga_xao_cay">Gà xào cay</string>
-    <string name="sup_lo_xao_suc_xich">Súp lơ xào súc xích</string>
-    <string name="bong_cai_xao_thit_bo">Bông cải xào thịt bò</string>
-
-    <string name="bot_chien_trung">Bột chiên trứng</string>
-    <string name="vien_xoi_chien">Viên xôi chiên</string>
-    <string name="trung_cut_lon_chien">Trứng cút lộn chiên</string>
-    <string name="bo_kho_mien_nam">" Bò kho miền nam"</string>
-    <string name="bo_kho_nuoc_dua">Bò kho nước dừa</string>
-    <string name="bo_xot_tieu_xanh">Bò xốt tiêu xanh</string>
-    <string name="cari_ga_mien_nam">Cari gà miền nam</string>
-    <string name="ga_kho_rau_ram">Gà kho rau răm</string>
-    <string name="goi_ga_xe_phay">Gỏi gà xé phay</string>
-    <string name="thit_ba_chi_kho_trung">Thịt ba chỉ kho trứng</string>
-    <string name="thit_ba_chi_luoc_sot_toi_cay">Thịt ba chỉ luộc sốt cay</string>
-    <string name="thit_quay_gion_bi">Thịt quay giòn bì</string>
-    <string name="kho_quet">Kho quẹt</string>
-
-
-
-
-
-
-
-    <string name="com_ga_tam_ky">Cơm gà tam kỳ</string>
-    <string name="mi_quang_ga">Mì quảng gà</string>
-    <string name="ga_kho_sa">Gà kho sả</string>
-    <string name="cha_bo">Chả bò</string>
-    <string name="thit_bo_rim">Thịt bò rim</string>
-    <string name="de_bo_tay_son">Dé bò Tây Sơn</string>
-
-    <string name="thit_heo_ngam_nuoc_mam">Thịt heo ngâm nước mắm</string>
-    <string name="banh_trang_cuon_thit_heo">Bánh tráng cuốn thịt heo</string>
-
-    <string name="thit_heo_muoi">Thịt heo muối</string>
-    <string name="banh_canh_ghe">Bánh canh ghẹ</string>
-    <string name="bun_tom_mien_trung">Bún mắm tôm miền Trung</string>
-    <string name="bun_sua">Bún sứa</string>
-    <string name="cha_ram_tom">Chả ram tôm</string>
 
     <!--Orther-->
     <string name="err">Có lỗi xảy ra</string>
@@ -529,4 +452,681 @@
     <string name="nem_ruoi_13">Bước 5: Lấy bánh đa nem ra múc nhân vào gói rồi cho vào dầu đã nóng già để rán.</string>
     <string name="nem_ruoi_14">Bước 6:Nem đã gói xong, đặt chảo dầu lên bếp cho nóng già rồi thả nem vào rán cho chín vàng.</string>
 
+    <!--Bot chien trung-->
+    <string name="bot_chien_trung">Bột chiên trứng</string>
+    <string name="bot_chien_trung_1">360ml nước</string>
+    <string name="bot_chien_trung_2">250g bột gạo</string>
+    <string name="bot_chien_trung_3">20g bột năng</string>
+    <string name="bot_chien_trung_4">15ml dầu ăn</string>
+    <string name="bot_chien_trung_5">Muối</string>
+    <string name="bot_chien_trung_6">1 quả trứng gà</string>
+    <string name="bot_chien_trung_7">Hành lá trang trí, xì dầu, tương ớt , đu đủ bào sợi</string>
+    <string name="bot_chien_trung_8">Bước 1: Cho bột gạo, bột năng và muối vào tô. Đổ nước vào cùng rồi trộn đều.</string>
+    <string name="bot_chien_trung_9">Bước 2: Bạn khuấy đều hỗn hợp lên cho mịn, sau đó thêm dầu ăn vào.</string>
+    <string name="bot_chien_trung_10">Bước 3: Lót 1 lớp nilon bọc thực phẩm vào khuôn, sau đó đổ hỗn hợp bột vào.</string>
+    <string name="bot_chien_trung_11">Bước 4: Xắt nhỏ hành lá ra để sẵn.</string>
+    <string name="bot_chien_trung_12">Bước 5: Khi bột đã nguội, bạn cắt bột thành miếng cho vừa ăn.</string>
+    <string name="bot_chien_trung_13">Bước 6: Sau đó bạn chiên bột trên chảo dầu cho chín đều cả 2 mặt.</string>
+    <string name="bot_chien_trung_14">Bước 7: Đập 1 quả trứng vào bát rồi đánh tan. Khi bột vừa chín tới,
+        bạn đổ trứng vào rồi rắc hành lên trên.</string>
+    <string name="bot_chien_trung_15">Bước 8: Cuối cùng, bạn cho đu đủ bào lên trên, pha xì dầu loãng với một ít đường,
+        chuẩn bị sẵn tương ớt rồi thưởng thức</string>
+
+
+    <!--Vien xoi chien-->
+    <string name="vien_xoi_chien">Viên xôi chiên</string>
+    <string name="vien_xoi_chien_1">Xôi nếp: 700g</string>
+    <string name="vien_xoi_chien_2">Nước cốt dừa: 20ml</string>
+    <string name="vien_xoi_chien_3">Bột mì: 30g</string>
+    <string name="vien_xoi_chien_4">Nước cốt dừa: 20ml</string>
+    <string name="vien_xoi_chien_5">Bột chiên giòn: 100g</string>
+    <string name="vien_xoi_chien_6">Dầu ăn</string>
+    <string name="vien_xoi_chien_7">Bước 1: Cho xôi vào tấm nilon trải ra bàn.</string>
+    <string name="vien_xoi_chien_8">Bước 2: Rắc thêm 20g bột mì, 30g bột chiên giòn và thêm 20ml nước cốt dừa vào xôi.</string>
+    <string name="vien_xoi_chien_9">Bước 3: Gấp mép túi nilon phủ kín xôi và bắt đầu nhào đều xôi cho dẻo mịn.</string>
+    <string name="vien_xoi_chien_10">Bước 4: Xôi nhào xong, xoa chút dầu ăn vào tay rồi véo từng nắm xôi thấm đều lớp bột chiên giòn,
+        vê tròn rồi ấn dẹt miếng xôi là xong.</string>
+
+    <!--Trung cut lon chien-->
+    <string name="trung_cut_lon_chien">Trứng cút lộn chiên</string>
+    <string name="trung_cut_lon_chien_1">Trứng chim cút</string>
+    <string name="trung_cut_lon_chien_2">Bơ, bột mì</string>
+    <string name="trung_cut_lon_chien_3">Bột chiên xù, bột ngô</string>
+    <string name="trung_cut_lon_chien_4">Tỏi</string>
+    <string name="trung_cut_lon_chien_5">Bước 1: Rửa sạch trứng rồi cho vào luộc chín.</string>
+    <string name="trung_cut_lon_chien_6">Bước 2: Pha bột mì với một ít đường và bột canh này.
+        Rồi hòa một ít nước vào để được hỗn hợp bột sánh.</string>
+    <string name="trung_cut_lon_chien_7">Bước 3: Băm tỏi chỉ cần khoảng 2 - 3 tép thôi.</string>
+    <string name="trung_cut_lon_chien_8">Bước 4: Cho một thìa bơ vào nồi để phi thơm tỏi.</string>
+    <string name="trung_cut_lon_chien_9">Bước 5: Nhúng trứng vào bột mì đã pha. Rùi lăn cho bám đều bột chiên xù.</string>
+    <string name="trung_cut_lon_chien_10">Bước 6: Để dầu thật sôi mới thả trứng vào chiên nhanh cho vàng đều nghen.</string>
+
+
+    <!--Hau nuong mo hanh-->
+    <string name="hau_nuong_mo_hanh">Hàu nướng mỡ hành</string>
+    <string name="hau_nuong_mo_hanh_1">Hàu: 2kg, mỡ phần: 150g</string>
+    <string name="hau_nuong_mo_hanh_2">Hành lá, Hành khô: 2 củ</string>
+    <string name="hau_nuong_mo_hanh_3">1 hộp bơ</string>
+    <string name="hau_nuong_mo_hanh_4">Lạc rang giã sơ</string>
+    <string name="hau_nuong_mo_hanh_5">Bước 1: Hàu làm sạch phần đất cát bên ngoài.</string>
+    <string name="hau_nuong_mo_hanh_6">Bước 2: Sau đó cho hàu vào lò vi sóng quay trong 1-2 phút là hàu tự hé miệng.</string>
+    <string name="hau_nuong_mo_hanh_6">Bước 3: Hành khô bóc vỏ, thái lát, sau đó chiên trên chảo nhiều dầu ăn,
+        đến khi thấy hành vàng ruộm giòn giòn thì vớt ra</string>
+    <string name="hau_nuong_mo_hanh_7">Bước 4: Cho 1/2 thìa cà phê hành khô, 1 chút bơ, 1 thìa cà phê mỡ hành,
+        1 cái tóp mỡ (nếu thích), 1/2 thìa cà phê lạc giã sơ.</string>
+    <string name="hau_nuong_mo_hanh_8">Bước 5: Cuối cùng các bạn cho hàu vào lò vi sóng, bấm chế độ nướng 3-4 phút là hàu chín.</string>
+
+    <!--Hau nuong pho mai-->
+    <string name="hau_nuong_pho_mai">Hàu nướng pho mai</string>
+    <string name="hau_nuong_pho_mai_1">Hàu: 20 con</string>
+    <string name="hau_nuong_pho_mai_2">Sốt mayonnaise: 30 gam</string>
+    <string name="hau_nuong_pho_mai_3">Sữa không đường: 60 ml</string>
+    <string name="hau_nuong_pho_mai_4">Đường: 20 gam</string>
+    <string name="hau_nuong_pho_mai_5">Phô mai</string>
+    <string name="hau_nuong_pho_mai_6">Chanh: 1.2 quả</string>
+    <string name="hau_nuong_pho_mai_7">Bước 1: Cho sốt Mayonnaise, sữa không đường, đường, nước cốt chanh,
+        phô mai con bò cười vào một cái bát nhỏ.</string>
+    <string name="hau_nuong_pho_mai_8">Bước 2: Bật bếp với lửa nhỏ, sau đó cho bát hỗn hợp trên vào một nồi nước và đun cho nóng chảy ra.</string>
+    <string name="hau_nuong_pho_mai_9">Bước 3: Hàu tươi tách vỏ, cho vào lò nướng ở nhiệt độ 180 độ C. Bạn nướng hàu trong 4 phút rồi bỏ ra ngoài.</string>
+    <string name="hau_nuong_pho_mai_10">Bước 4: Lần lượt đổ sốt phô mai lên từng miếng hàu đến khi hết sốt thì dừng lại.</string>
+    <string name="hau_nuong_pho_mai_11">Bước 5: Mở lò nướng ở nhiệt độ 180 độ rồi cho hàu vào nướng 5-6 phút.
+        Như vậy là bạn đã có món hàu nướng phô mai vừa lạ miệng mà không lo bị ngấy.</string>
+
+    <!--Bo nuong la lot-->
+    <string name="bo_nuong_la_lot">Bò nướng lá lốt</string>
+    <string name="bo_nuong_la_lot_1">400g thịt bò</string>
+    <string name="bo_nuong_la_lot_2">Lá lốt, hành lá</string>
+    <string name="bo_nuong_la_lot_3">4 củ hành tím</string>
+    <string name="bo_nuong_la_lot_4">1 thìa cà phê hạt tiêu xay</string>
+    <string name="bo_nuong_la_lot_5">2 thìa canh dầu ăn</string>
+    <string name="bo_nuong_la_lot_6">Gia vị</string>
+    <string name="bo_nuong_la_lot_7">Bước 1: Thịt bò rửa sạch, thái mỏng sau đó băm nhỏ.</string>
+    <string name="bo_nuong_la_lot_8">Bước 2: Hành tím bóc vỏ, đập dập và băm nhỏ.</string>
+    <string name="bo_nuong_la_lot_9">Bước 3: Cho thịt bò băm, hành tím, lá lốt, gia vị, hạt tiêu vào âu, trộn đều.</string>
+    <string name="bo_nuong_la_lot_10">Bước 4: Dùng lá lốt, cuốn thịt bò dưới dạng viên chả, sau khi cuốn xong, lấy hành lá buộc cố định lại.</string>
+
+    <!--Bach tuoc nuong muoi ot-->
+    <string name="bach_tuoc_nuong_muoi_ot">Bạch tuộc nướng muối ớt</string>
+    <string name="bach_tuoc_nuong_muoi_ot_1">Bạch tuộc: 1kg</string>
+    <string name="bach_tuoc_nuong_muoi_ot_2">Ớt: 5 trái</string>
+    <string name="bach_tuoc_nuong_muoi_ot_3">Hạt nêm, muối hạt, dầu ăn, tiêu, ớt bột…..</string>
+    <string name="bach_tuoc_nuong_muoi_ot_4">Rau răm, cà chua, chanh, dưa leo.</string>
+    <string name="bach_tuoc_nuong_muoi_ot_5">Bước 1: Bạn lấy 5 trái ớt rửa cho thật sạch, cắt ớt ra bỏ hết hạt ớt đi,
+        sau đó bạn đem xay nhuyễn hoặc băm cho thật nhuyễn</string>
+    <string name="bach_tuoc_nuong_muoi_ot_6">Bước 2: Bạch tuộc khi mua về bạn làm thật sạch và rửa sơ qua với nước muối loãng,
+        sau đó để cho thật ráo nước.</string>
+    <string name="bach_tuoc_nuong_muoi_ot_7">Bước 3: Sau khi cho bạch buộc bạn bắt đầu đốt than lên và tiến hành nướng bạch tuộc.</string>
+    <string name="bach_tuoc_nuong_muoi_ot_8">Bước 4: Quan sát thấy bạch tuộc vàng đều,
+        chúng ta đem bạch tuộc ra cắt thành từng miếng vừa ăn và bài trí lên đĩa là dùng được rồi. </string>
+
+
+    <!--Bach tuoc nuong sate-->
+    <string name="bach_tuoc_nuong_sa_te">Bạch tuộc nướng sa tế</string>
+    <string name="bach_tuoc_nuong_sa_te_1">Bạch tuộc: 1kg</string>
+    <string name="bach_tuoc_nuong_sa_te_2">Chuối: 1 quả chuối chát</string>
+    <string name="bach_tuoc_nuong_sa_te_3">Ớt: 1 quả chuông, 3 trái ớt xanh.</string>
+    <string name="bach_tuoc_nuong_sa_te_4">Khế, rau răm và quả dứa</string>
+    <string name="bach_tuoc_nuong_sa_te_5">Nước tương, tương ớt, gia vị</string>
+    <string name="bach_tuoc_nuong_sa_te_6">4 muỗng canh lớn sa tế</string>
+    <string name="bach_tuoc_nuong_sa_te_7">Muối, hạt nêm, mật ong</string>
+    <string name="bach_tuoc_nuong_sa_te_8">Bước 1: Bạch tuộc bạn mua về làm sạch rửa qua với nước muối loãng vớt ra để ráo nước.</string>
+    <string name="bach_tuoc_nuong_sa_te_9">Bước 2: Chúng ta đem ướp bạch tuộc sa tế, tỏi băm, dầu ăn, muối, mật ong,
+        hạt nêm trộn đều lên và ướp mực khoảng 30 phút là được.</string>
+    <string name="bach_tuoc_nuong_sa_te_10">Bước 3: Sau khi ướp khoảng 30 phút, chúng ta bắt đầu đốt than lên,
+        sau khi than đã cháy đều tắt lửa chúng ta cho vỉ nướng lên làm nóng vỉ nướng</string>
+    <string name="bach_tuoc_nuong_sa_te_11">Bước 2: Sau khi bạch tuộc chính bạn cho bạch tuộc ra một cái đĩa cắt nhỏ ra thành miếng vừa ăn</string>
+
+    <!--Com ga tam ky-->
+    <string name="com_ga_tam_ky">Cơm gà tam kỳ</string>
+    <string name="com_ga_tam_ky_1">Gạo tám thơm: 500 gram</string>
+    <string name="com_ga_tam_ky_2">Hành tây: 1 củ</string>
+    <string name="com_ga_tam_ky_3">Chanh, ớt, tỏi, rau tăm, gừng</string>
+    <string name="com_ga_tam_ky_4">Gà: 1.5kg</string>
+    <string name="com_ga_tam_ky_5">Gia vị: muối, nước mắm, dầu ăn,…</string>
+    <string name="com_ga_tam_ky_6">Bước 1: Gà sau khi mua về bạn mang sơ chế sạch sẽ bằng cách dùng gừng tươi và
+        muối trắng sát toàn bộ bên ngoài da. </string>
+    <string name="com_ga_tam_ky_7">Bước 2: Chuẩn bị một nồi nước lớn và cho gà sau khi đã sơ chế sạch sẽ vào luộc chín.</string>
+    <string name="com_ga_tam_ky_8">Bước 3: Khi nước luộc gà sôi, bạn vặn lửa nhỏ và tiếp tục đun cho đến khi chín gà.</string>
+    <string name="com_ga_tam_ky_9">Bước 4: Sau khi gà chín, bạn tắt bếp rồi vớt gà ra rổ để ráo nước và đợi nguội.</string>
+    <string name="com_ga_tam_ky_10">Bước 5: 500 gram gạo tám thơm bạn mang vo sạch rồi đem ngâm trong nước lạnh khoảng từ 20 – 30 phút.</string>
+    <string name="com_ga_tam_ky_11">Bước 6: Rau răm bạn ngắt chọn ngọn và những lá tươi rồi mang rửa sạch, vớt ra rổ để ráo nước.</string>
+    <string name="com_ga_tam_ky_12">Bước 7: Sau khi gà nguội, bạn dùng tay xé gà thành những miếng nhỏ</string>
+    <string name="com_ga_tam_ky_13">Bước 8: Cho lượng đường, nước mắm, nước lọc, tỏi, ớt băm phù hợp vào chung một bát chén nhỏ để pha nước mắm</string>
+    <string name="com_ga_tam_ky_14">Bước 9: Khi cơm đã chín, bạn xới và múc ra đĩa, cho thịt gà đã thấm đều gia vị vào một bên và dùng nước mắm pha ăn kèm</string>
+
+    <!--Mi quang ga-->
+    <string name="mi_quang_ga">Mì quảng gà</string>
+    <string name="mi_quang_ga_1">Gà ta khoảng 1kg</string>
+    <string name="mi_quang_ga_2">Nước dừa tươi</string>
+    <string name="mi_quang_ga_3">4-5 củ hành khô</string>
+    <string name="mi_quang_ga_4">2 củ tỏi</string>
+    <string name="mi_quang_ga_5">Ớt tươi, dầu phộng, ớt màu </string>
+    <string name="mi_quang_ga_6">Mì quảng</string>
+    <string name="mi_quang_ga_7">Bánh đa</string>
+    <string name="mi_quang_ga_8">Hành ngò, rau ăn kèm gồm xà lách, rau húng lủi</string>
+    <string name="mi_quang_ga_9">Rau sống: bắp chuối bào, giá, cải non</string>
+    <string name="mi_quang_ga_10">Gia vị: hạt tiêu, muối, nước mắm ngon, bột ngọt, đường, một trái chanh</string>
+    <string name="mi_quang_ga_11">Bước 1: Bắc chảo lên bếp, cho dầu ăn vào, phi thơm tỏi rồi cho thịt gà và xương gà vào xào cho đến khi chúng săn lại.</string>
+    <string name="mi_quang_ga_12">Bước 2: Sau đó, bạn cho nước dừa vào nồi, nấu cùng với gà trong vòng 15 - 20 phút.</string>
+    <string name="mi_quang_ga_13">Bước 3: Nấu một nồi nước sôi khác, cho mì quảng vào chần trong 2 phút rồi vớt ra để ráo.</string>
+    <string name="mi_quang_ga_14">Bước 4: Chuẩn bị ớt cắt lát, nước mắm ớt nguyên chất, chanh cắt lát và các loại rau sống, bày ra đĩa.</string>
+    <string name="mi_quang_ga_15">Bước 5: Khi thưởng thức, bạn vắt chanh, bẻ nhỏ bánh tráng nướng vào, trộn đều và thưởng thức.</string>
+
+    <!--Ga kho sa-->
+    <string name="ga_kho_sa">Gà kho sả</string>
+    <string name="ga_kho_sa_1">500gr thịt gà đùi và cánh</string>
+    <string name="ga_kho_sa_2">3 nhánh sả</string>
+    <string name="ga_kho_sa_3">2 quả ớt sừng và chỉ thiên</string>
+    <string name="ga_kho_sa_4">Gừng, tỏi, hành tím</string>
+    <string name="ga_kho_sa_5">150ml nước cốt dừa tươi</string>
+    <string name="ga_kho_sa_6">Rau mùi</string>
+    <string name="ga_kho_sa_7">Gia vị: nước mắm, đường, hạt nêm, bột canh, dầu ăn, hạt tiêu</string>
+    <string name="ga_kho_sa_8">Bước 1: Tỏi, hành tím, gừng tươi bóc vỏ sau đó băm nhuyễn. Ớt thái nhỏ, sả cắt bỏ đầu, cắt khúc từ 3 – 5 cm sau đó đập dập rồi băm nhỏ</string>
+    <string name="ga_kho_sa_9">Bước 2: Cho phần thịt gà đã chặt vào một bát to và ướp cùng 1 thìa tỏi băm, 1 thìa hành tím băm, ớt tươi băm nhuyễn.</string>
+    <string name="ga_kho_sa_10">Bước 3: Bắc nồi lên bếp, đun nóng dầu ăn rồi cho tỏi, hành, xả băm nhuyễn vào phi thơm vàng rồi từ từ cho phần gà đã ướp vào đảo đều</string>
+    <string name="ga_kho_sa_11">Bước 4: Khi thịt gà hơi cháy cạnh thì đổ nước cốt dừa vào, đậy nắp đun ở lửa nhỏ cho thịt gà chín mềm.</string>
+    <string name="ga_kho_sa_12">Bước 5: Đun đến khi nước dừa sánh lại, ngả màu trong thì các bạn tắt bếp,
+        cho thịt gà ra bát hoặc đĩa rồi đổ nước xốt lên trên, trang trí cùng chút ngò rí để tạo mùi thơm.</string>
+
+    <!--Cha ba-->
+    <string name="cha_bo">Chả bò</string>
+    <string name="cha_bo_1">1 kg thịt bò đùi</string>
+    <string name="cha_bo_2">Gia vị: Hạt nêm, nước mắm, đường, hành, tỏi, ớt, hạt tiêu</string>
+    <string name="cha_bo_3">Lá chuối</string>
+    <string name="cha_bo_4">Bước 1: Rửa sạch thịt bò, lọc bỏ hết gần của thịt bò, xay nhuyễn và cho ra tô.</string>
+    <string name="cha_bo_5">Bước 2: Cho các loại gia vị gồm 1 thìa nước mắm, 1 thìa hành và tỏi đã xay nhuyễn,
+        1 thìa hạt tiêu vào tô thịt bò và đảo đều cho thịt bò ngấm thật đều các gia vị.</string>
+    <string name="cha_bo_6">Bước 3: Lá chuối đem rửa sạch, luộc qua để lá chuối mềm và không gãy khi gói. Thời gian luộc khoảng 45 – 60 phút. </string>
+    <string name="cha_bo_7">Bước 4: Sau đó, bạn cho chả bò nguội vào. Khi thưởng thức bạn có thể chấm kèm nước chấm hoặc muối tiêu tùy thích. </string>
+
+    <!--Thit bo rim-->
+    <string name="thit_bo_rim">Thịt bò rim</string>
+    <string name="thit_bo_rim_1">1 kg thịt bò</string>
+    <string name="thit_bo_rim_2">½ bát mật mía</string>
+    <string name="thit_bo_rim_3">1 củ gừng</string>
+    <string name="thit_bo_rim_4">2 củ hành</string>
+    <string name="thit_bo_rim_5">Gia vị bò kho, nước mắm, bột ngọt, tiêu…</string>
+    <string name="thit_bo_rim_6">Bước 1: Đầu tiên, thịt bò mua về rửa sạch, để ráo nước.</string>
+    <string name="thit_bo_rim_7">Bước 2:Các bạn hãy bóc vỏ, rửa sạch gừng, hành, tỏi rồi băm nhỏ và ướp với thịt bò trong khoảng 2 giờ.</string>
+    <string name="thit_bo_rim_8">Bước 3:Tiếp đến, bạn ướp thịt với ¼ bát con nước mắm và mật mía, gia vị bò kho rồi trộn đều cho thịt ngấm gia vị.</string>
+    <string name="thit_bo_rim_9">Bước 4:Cuối cùng, bạn vớt thịt ra đĩa, thái thành từng miếng mỏng rồi chan nước thịt lên và thưởng thức</string>
+
+    <!--De bo tay son-->
+    <string name="de_bo_tay_son">Dé bò Tây Sơn</string>
+    <string name="de_bo_tay_son_1">1 kg lòng bò</string>
+    <string name="de_bo_tay_son_2">Khổ qua</string>
+    <string name="de_bo_tay_son_3">200gr lá giang</string>
+    <string name="de_bo_tay_son_4">Gia vị: muối, nước mắm, hạt nêm, bột ngọt, đường</string>
+    <string name="de_bo_tay_son_5">Hành tím, sả, ớt, tiêu xay, nghệ</string>
+    <string name="de_bo_tay_son_6">Giá sống, rau ngổ, rau răm, ngò gai</string>
+    <string name="de_bo_tay_son_7">Bánh tráng nướng</string>
+    <string name="de_bo_tay_son_8">Bước 1: Lòng bò sau khi mua về, bạn đem rửa sạch vài lần với nước lạnh rồi chần sơ qua nước sôi</string>
+    <string name="de_bo_tay_son_9">Bước 2: Huyết cắt thành khối miếng vuông. Hành tím, sả, ớt giã nát hoặc băm nhỏ, nghệ cạo vỏ rồi giã lấy nước cốt.</string>
+    <string name="de_bo_tay_son_10">Bước 3: Đặt nồi lên bếp, cho dầu ăn vào, phi thơm hành, sả, ớt rồi cho thêm nước cốt nghệ, đường, bột ngọt, nước mắm </string>
+    <string name="de_bo_tay_son_11">Bước 4: Cho phần lòng bò đã ướp ở trên lên bếp xào, đổ nước xâm xấm rồi đậy nắp nồi lại, đun đến khi nào phần nước đó cạn thì tiếp tục đổ thêm 1 lượng nước khác vào đun sôi trở lại.</string>
+    <string name="de_bo_tay_son_12">Bước 5: Khi thưởng thức, bạn cho giá sống vào tô, rồi múc dé bò vào, thêm rau ngổ, rau răm, ngò gai và vài lát ớt.</string>
+
+
+    <!--thit heo ngam nuoc mam-->
+    <string name="thit_heo_ngam_nuoc_mam">Thịt heo ngâm nước mắm</string>
+    <string name="thit_heo_ngam_nuoc_mam_1">Thịt ba chỉ: 1 kg</string>
+    <string name="thit_heo_ngam_nuoc_mam_2">Nước mắm ngon: 450ml</string>
+    <string name="thit_heo_ngam_nuoc_mam_3">Đường cát trắng: 450 gram</string>
+    <string name="thit_heo_ngam_nuoc_mam_4">Giấm: 2 muỗng canh</string>
+    <string name="thit_heo_ngam_nuoc_mam_5">Tiêu hột, tỏi, ớt tươi</string>
+    <string name="thit_heo_ngam_nuoc_mam_6">Bước 1: Thịt ba chỉ sau khi mua về, bạn mang rửa sạch.</string>
+    <string name="thit_heo_ngam_nuoc_mam_7">Bước 2: Bắc một nồi nước sôi, chuẩn bị một thau sạch rồi cho thịt ba chỉ vào và đổ nước vào trụng sơ qua.</string>
+    <string name="thit_heo_ngam_nuoc_mam_8">Bước 3: Cho thịt vào nồi nhỏ, đổ ngập nước và cho chút muối vào để thịt sau khi luộc được đậm đà.</string>
+    <string name="thit_heo_ngam_nuoc_mam_9">Bước 4: Cho 450ml nước mắm, 450 gram đường và 2 muỗng canh giấm vào chung một nồi.</string>
+    <string name="thit_heo_ngam_nuoc_mam_10">Bước 5: Tỏi bóc sạch lớp vỏ khô bên ngoài rồi thái miếng mỏng.</string>
+    <string name="thit_heo_ngam_nuoc_mam_11">Bước 6: Đợi hỗn hợp ở bước 7 nguội hẳn, bạn đổ vào hũ thủy tinh đựng thịt rồi đậy kín nắp và bảo quản nơi khô ráo. </string>
+
+    <!--Banh trang cuon thit heo-->
+    <string name="banh_trang_cuon_thit_heo">Bánh tráng cuốn thịt heo</string>
+    <string name="banh_trang_cuon_thit_heo_1">500gr thịt heo, 300gr bún</string>
+    <string name="banh_trang_cuon_thit_heo_2">2 quả dưa chuột, 1 củ cà rốt</string>
+    <string name="banh_trang_cuon_thit_heo_3">Bánh đa nem</string>
+    <string name="banh_trang_cuon_thit_heo_4">Đường, muối, mắm</string>
+    <string name="banh_trang_cuon_thit_heo_5">2 nhánh sả, 2 tép tỏi</string>
+    <string name="banh_trang_cuon_thit_heo_6">1 quả ớt tươi, 1 quả dứa, 1 quả chanh</string>
+    <string name="banh_trang_cuon_thit_heo_7">Bước 1: Thịt heo khi mua về, bạn rửa sạch lại với nước muối pha loãng để khử đi mùi hôi.</string>
+    <string name="banh_trang_cuon_thit_heo_8">Bước 2: Rau sống bạn nhặt sạch, ngâm với nước muối pha loãng rồi rửa sạch, để ráo nước.</string>
+    <string name="banh_trang_cuon_thit_heo_9">Bước 3: Tỏi bạn đem bóc vỏ, băm nhuyễn, sả và ớt bạn cũng đem băm nhuyễn, quả dứa thì bạn gọt vỏ và băm nhuyễn 1/2 quả, chanh bạn cắt đôi, vắt lấy nước cốt.</string>
+    <string name="banh_trang_cuon_thit_heo_10">Bước 4: Sau đó, bạn đặt chảo lên bếp, cho vào 1 muỗng cà phê dầu ăn, dầu nóng, bạn cho tỏi, sả, ớt và dứa băm nhuyễn vào đảo đều 30 giây thì cho mắm nêm vào.</string>
+    <string name="banh_trang_cuon_thit_heo_11">Bước 5: Xếp từng loại rau sống lên bánh tráng rồi thêm thịt heo, bún, cuốn chặt tay, cuối cùng chấm vào mắm nêm và thưởng thức.</string>
+
+    <!--Banh canh ghe-->
+    <string name="banh_canh_ghe">Bánh canh ghẹ</string>
+    <string name="banh_canh_ghe_1">1kg ghẹ</string>
+    <string name="banh_canh_ghe_2">150gr bột năng</string>
+    <string name="banh_canh_ghe_3">250gr bột gạo tẻ</string>
+    <string name="banh_canh_ghe_4">200ml nước cốt dừa</string>
+    <string name="banh_canh_ghe_5">50gr hạt điều đỏ</string>
+    <string name="banh_canh_ghe_6">200gr giá đỗ</string>
+    <string name="banh_canh_ghe_7">1 củ sả, 2 củ hành khô</string>
+    <string name="banh_canh_ghe_8">1 ít hành hoa, rau mùi</string>
+    <string name="banh_canh_ghe_9">Rau sống</string>
+    <string name="banh_canh_ghe_10">Ớt, chanh, dầu ăn, muối/bột canh, hạt nêm</string>
+    <string name="banh_canh_ghe_11">Bước 1: Bạn cho bột gạo và bột năng đã chuẩn bị ở trên vào tô, trộn đều rồi thêm 200ml nước lọc.</string>
+    <string name="banh_canh_ghe_12">Bước 2: Đặt một nồi nước lên bếp, đun sôi, dùng tay bóp nhẹ túi bắt bông kem để sợi bánh canh rơi vào nồi nước sôi.</string>
+    <string name="banh_canh_ghe_13">Bước 3: Rau sống, giá đỗ nhặt, hành lá rửa sạch và để ráo, riêng hành lá thì mang cắt nhỏ.</string>
+    <string name="banh_canh_ghe_14">Bước 4: Đặt chảo lên bếp, làm nóng một chút dầu ăn rồi cho hạt điều đỏ vào xào lấy màu, sau đó, bạn gạt hết hạt điều ra bên ngoài.</string>
+    <string name="banh_canh_ghe_15">Bước 5: Bánh canh bạn nhúng vào nước dùng ghẹ để ngấm vị.</string>
+
+    <!--Chao ga-->
+    <string name="chao_ga">Cháo gà</string>
+    <string name="chao_ga_1">Gạo tẻ, gạo nếp</string>
+    <string name="chao_ga_2">1 chiếc đùi gà</string>
+    <string name="chao_ga_3">2 bộ xương gà</string>
+    <string name="chao_ga_4">hạt sen tươi hoặc khô</string>
+    <string name="chao_ga_5">Hành khô</string>
+    <string name="chao_ga_6">1 bó hành lá</string>
+    <string name="chao_ga_7">1/2 củ hành tây</string>
+    <string name="chao_ga_8">1 chút nước mắm</string>
+    <string name="chao_ga_9">Muối, bột ngọt, tiêu đen, hạt nêm.</string>
+    <string name="chao_ga_10">Bước 1: Xương ức gà, đùi gà đem chần qua nồi nước sôi sau đó vớt ra rửa lại cho sạch.</string>
+    <string name="chao_ga_11">Bước 2: Đùi gà sau khi đã nguội bớt thì đem xé sợi vừa ăn cho ra đĩa,</string>
+    <string name="chao_ga_12">Bước 3: Hành lá rửa sạch rồi thái nhỏ, hành khô bóc vỏ thái lát mỏng để khi chiên hành sẽ vàng giòn ngon.</string>
+    <string name="chao_ga_13">Bước 4: Đun cho dầu nóng sau đó bạn cho hành khô vào phi ở lửa nhỏ vừa, chiên cho hành chín vàng giòn thì vớt ra để cho ráo dầu.</string>
+    <string name="chao_ga_14">Bước 5: Cháo sau khi đã chín nhừ thì nêm 1 chút nước mắm, muối, bột nêm, bột ngọt cho vừa miệng và đảo đều là tắt bếp.</string>
+
+    <!--Ga rim nuoc mam-->
+    <string name="ga_rim_nuoc_mam">Gà rim nước mắm</string>
+    <string name="ga_rim_nuoc_mam_1">Cánh gà: 10 cánh</string>
+    <string name="ga_rim_nuoc_mam_2">Đường, nước mắm, tỏi khô</string>
+    <string name="ga_rim_nuoc_mam_3">Bước 1: Cánh gà rửa thật sạch với nước muối pha loãng sau đó dùng khăn mềm sạch thấm khô.</string>
+    <string name="ga_rim_nuoc_mam_4">Bước 2: Cho cánh gà vào chảo rán ngập dầu trong lửa to, tới khi thấy lớp da gà có độ giòn và chuyển màu vàng ruộm thì vớt ra.</string>
+    <string name="ga_rim_nuoc_mam_5">Bước 3: Bóc vỏ tỏi rồi băm nhỏ, phi thơm tỏi với 1 chút dầu ăn.</string>
+    <string name="ga_rim_nuoc_mam_6">Bước 4: Tiếp tục lắc đều tới khi đường bắt đầu chuyển màu vàng thì các bạn tắt bếp và vớt cánh gà ra là có thể thưởng thức.</string>
+
+    <!--Sup ga-->
+    <string name="sup_ga">Súp gà</string>
+    <string name="sup_ga_1">400 gram ức thịt gà</string>
+    <string name="sup_ga_2">2 trái bắp Mỹ</string>
+    <string name="sup_ga_3">2 quả trứng gà</string>
+    <string name="sup_ga_4">200 gram nấm hương</string>
+    <string name="sup_ga_5">2 muỗng bột năng</string>
+    <string name="sup_ga_6">2 củ hành tím</string>
+    <string name="sup_ga_7">Hành lá và ngò rí</string>
+    <string name="sup_ga_8">Gia vị: hạt nêm, đường, muối, tiêu xay và dầu mè</string>
+    <string name="sup_ga_9">Bước 1: Đặt 1 nồi nhỏ lên bếp, đổ nước và cho ức gà vào, cho thêm vào chút muối và luộc chín ức gà.</string>
+    <string name="sup_ga_10">Bước 2: Lấy 1 nồi khác, đổ nước, thêm chút muối và cho bắp vào luộc cho đến khi bắp chín mềm.</string>
+    <string name="sup_ga_11">Bước 3: Cho chảo lên bếp, chờ chảo nóng thì cho 2 muỗng dầu mè vào.</string>
+    <string name="sup_ga_12">Bước 4: Cho nồi nước bắp luộc ở bước 3 lên bếp, nêm thêm 1 muỗng muối, 1 muỗng hạt nêm và 1 muỗng đường vào, khuấy đều tay cho gia vị tan.</string>
+
+    <!--Pho ga-->
+    <string name="pho_ga">Phở gà</string>
+    <string name="pho_ga_1">1 con gà vừa </string>
+    <string name="pho_ga_2">Bánh phở</string>
+    <string name="pho_ga_3">Rau húng cay, ngò gai, rau ngổ, giá đỗ…vv.</string>
+    <string name="pho_ga_4">Chanh tươi, ớt</string>
+    <string name="pho_ga_5">2-3 củ hành tím khô</string>
+    <string name="pho_ga_6">1 củ hành tây vừa, hành lá, rễ ngò</string>
+    <string name="pho_ga_7">Hoa hồi, hạt mùi, gừng, thảo quả, quế, tiêu đen</string>
+    <string name="pho_ga_8">Bước 1: Nướng gừng và hành tây, hành tím khô để nguyên vỏ cho dạy mùi thơm; sau đó bóc vỏ rửa sạch.</string>
+    <string name="pho_ga_9">Bước 2: Dùng muối và gừng sát đều cả bên trong và bên ngoài con gà; sau đó rửa sạch.</string>
+    <string name="pho_ga_10">Bước 3: Cho gà vào nồi, đổ nước ngập gà; tiếp tục cho rễ ngò, hành và gừng đã nướng vào nồi, đồng thời cho thêm một chút muối biển và 1 cục đường phèn nhỏ.</string>
+    <string name="pho_ga_11">Bước 4: Đun sôi nồi nước gà; khi nước sôi nếu xuất hiện bọt khí, bạn dùng muỗm canh hớt bọt đổ ra ngoài đến khi hết bọt thì thôi.</string>
+    <string name="pho_ga_12">Bước 5: Đổ hoa hồi, thảo quả, quế, tiêu đen vào chảo rang chín.</string>
+    <string name="pho_ga_13">Bước 6: Trần phở, nếu bạn dùng phở ướt chỉ cần trần nhanh qua nước sôi là được; nếu dùng phở khô bạn phải ngâm phở vào nước lạnh đợi sợi phở mềm ra; sau đó vớt ra rổ để ráo nước. </string>
+    <string name="pho_ga_14">Bước 7: Xếp thịt gà nên chốc phở; cho thêm hành lá, rau thơm, giá lên chốc bánh phở; và chan nước dùng gà vào tô phở.</string>
+
+    <!---->
+    <string name="bo_sot_vang">Bò sốt vang</string>
+    <string name="bo_sot_vang_1">700 gram thịt bắp bò</string>
+    <string name="bo_sot_vang_2">1 củ cà rốt</string>
+    <string name="bo_sot_vang_3">800 gram khoai tây</string>
+    <string name="bo_sot_vang_4">4 quả cà chua</string>
+    <string name="bo_sot_vang_5">100ml rượu vang</string>
+    <string name="bo_sot_vang_6">Hành tây, tỏi, ngò gai, gừng</string>
+    <string name="bo_sot_vang_7">Muối, đường, hạt nêm, tiêu</string>
+    <string name="bo_sot_vang_8">Bước 1: Cà chua thái làm tư bỏ hạt, xắt nhỏ, đem vào máy xay lấy nước cốt. Khoai tây, cà rốt cạo sạch vỏ, rửa sạch, cắt miếng vuông vừa ăn.</string>
+    <string name="bo_sot_vang_9">Bước 2: Đập lát gừng bỏ vào nồi nước lạnh, đun sôi, trần qua thịt bò khử mùi, thấm vị gừng cho thịt bò ngon hơn.</string>
+    <string name="bo_sot_vang_10">Bước 3: Cho tỏi băm, chút đường, một chút rượu vang, một muỗng muối, vào ướp với thịt bò trong 30 phút.</string>
+    <string name="bo_sot_vang_11">Bước 4: Cho dầu ăn vào chảo, chờ dầu ăn sôi, cho thịt bò đã ướp vào chảo, đảo đều tay.</string>
+    <string name="bo_sot_vang_12">Bước 5: Sau 30 phút, hòa tan bột năng vào một bát nước, khuấy đều, đổ vào nồi hầm, đảo đều cho đến khi nước sánh lại là xong.</string>
+
+    <!--Bo sot tieu den-->
+    <string name="bo_sot_tieu">Bò sốt tiêu đen</string>
+    <string name="bo_sot_tieu_1">300 g thịt bò</string>
+    <string name="bo_sot_tieu_2">1 quả ớt chuông</string>
+    <string name="bo_sot_tieu_3">1 củ hành tây</string>
+    <string name="bo_sot_tieu_4">Gừng, tỏi, hạt tiêu, hạt nêm</string>
+    <string name="bo_sot_tieu_5">Nước tương, dầu hào</string>
+    <string name="bo_sot_tieu_6">Dầu ăn, bột mì</string>
+    <string name="bo_sot_tieu_7">Bước 1: Thịt bò cắt miếng mỏng, to bản dùng búa dần cho miếng thịt bò mềm ra.
+        Thêm 1 thìa bột mì, 1/4 thìa gia vị, 1/2 thìa dầu ăn, vài tép tỏi và 1 mẩu gừng băm nhỏ rồi trộn đều.</string>
+    <string name="bo_sot_tieu_8">Bước 2: Thái hành tây ớt chuông thành các miếng vừa ăn.</string>
+    <string name="bo_sot_tieu_9">Bước 3: Cho dầu ăn vào chảo, thêm 1 ít tỏi băm vào.
+        Khi tỏi vàng vớt tỏi ra rồi cho từng miếng thịt bò đã ướp vào áp chảo 2 mặt chín tới.</string>
+    <string name="bo_sot_tieu_10">Bước 4: Cho dầu ăn vào chảo, thêm 1 ít tỏi băm vào. Khi tỏi vàng cho ớt chuông và hành tây đã cắt vào xào chín.</string>
+    <string name="bo_sot_tieu_11">Bước 5: Cho 3 thìa dầu hào, 2 thìa nước tương, 1 thìa đường, 12 thìa nước và 1 thìa bột mì vào trộn đều.</string>
+    <string name="bo_sot_tieu_12">Bước 6: Đun cho thịt bò thấm sốt thì nêm nếm lại cho vừa miệng.</string>
+    <string name="bo_sot_tieu_13">Bước 7: Cho ớt chuông và hành tây đã xào vào đĩa rồi cho thịt bò lên trên, rắc thêm tiêu vào.</string>
+
+
+    <!--Pho bo-->
+    <string name="pho_bo">Phở bò</string>
+    <string name="pho_bo_1">2 miếng gừng; 2 củ hành tây</string>
+    <string name="pho_bo_2">Khoảng 2kg xương bò; 1kg nạc vai bò</string>
+    <string name="pho_bo_3">100g hành lá</string>
+    <string name="pho_bo_4">1/3 chén nước mắm; 70g đường phèn hoặc 2,5 thìa cafe đường cát</string>
+    <string name="pho_bo_5">8 hoa hồi; 6 nụ hoa đinh hương; 1 miếng quế</string>
+    <string name="pho_bo_6">500g bánh phở</string>
+    <string name="pho_bo_7">150g thịt bò thăn, thái lát mỏng</string>
+    <string name="pho_bo_8">Bước 1: Nướng gừng và hành trong khoảng 3 phút, đến khi hơi cháy đen và có mùi thơm nhẹ. </string>
+    <string name="pho_bo_9">Bước 2: Rửa sạch xương bò, cho vào một nồi lớn và thêm nước.</string>
+    <string name="pho_bo_10">Bước 3: Thêm 5 lít nước vào nồi và đun sôi.</string>
+    <string name="pho_bo_11">Bước 4: Cho một miếng thịt vào bát nước lạnh sau đó vớt ra cất vào tủ lạnh.</string>
+    <string name="pho_bo_12">Bước 5: Cho các loại gia vị vào một cái chảo khô rang ở nhiệt độ vừa phải trong khoảng 3 phút,
+        cho đến khi dậy mùi thơm.</string>
+    <string name="pho_bo_13">Bước 6: Tiếp tục hầm trong 4 tiếng. Thêm muối và đun sôi. </string>
+    <string name="pho_bo_14">Bước 7: Khi ăn, nấu nồi nước sôi trụng sơ bánh phở để vào bát, xếp hết các thứ thịt mỗi thứ một ít lên rồi chan nước dùng vào. </string>
+
+    <!--Thit kho tau-->
+    <string name="thit_kho_tau">Thịt kho tàu</string>
+    <string name="thit_kho_tau_1">Thịt ba chỉ: 1 kg.</string>
+    <string name="thit_kho_tau_2">Dừa xiêm: 2 trái.</string>
+    <string name="thit_kho_tau_3">Trứng vịt hoặc trứng gà: 10 quả.</string>
+    <string name="thit_kho_tau_4">Tỏi, ớt, đường, mắm, muối, bột ngọt.</string>
+    <string name="thit_kho_tau_5">Bước 1: Bạn cho trứng vào nồi sau đó bật bếp lửa to đợi sôi.
+        Khi sôi rồi bạn mở lửa riu riu luộc tầm 20 phút, tắt bếp để nguội, sau đó lột vỏ. </string>
+    <string name="thit_kho_tau_6">Bước 2: Cạo sạch lông heo rồi đem thịt đi rửa sạch.
+        Sau đó, bạn đem thịt đi cắt thành từng miếng to.</string>
+    <string name="thit_kho_tau_7">Bước 3: Ướp thịt với gia vị: 4 muỗng đường, nửa muỗng muối, 1 muỗng tỏi băm, nửa muỗng bột ngọt.</string>
+    <string name="thit_kho_tau_8">Bước 4: Khi thịt đã thấm, bạn cho nồi thịt lên bếp, mở lửa lớn đợi sôi, đảo nhẹ cho thịt hơi săn lại.</string>
+    <string name="thit_kho_tau_9">Bước 5: Bạn nhớ cho thêm vài lát ớt vào để kho cùng, đến khi nước cạn một nửa thì vặn lửa nhỏ liu riu.  Nêm nếm lại 1 lần nữa cho vừa ăn, chờ đến khi thịt mềm thì tắt bếp.</string>
+
+    <!--Thit lon nau dong-->
+    <string name="thit_lon_nau_dong">Thịt lợn nấu đông</string>
+    <string name="thit_lon_nau_dong_1">Thịt chân giò</string>
+    <string name="thit_lon_nau_dong_2">Tai lợn</string>
+    <string name="thit_lon_nau_dong_3">Nấm hương, mộc nhĩ, hành khô</string>
+    <string name="thit_lon_nau_dong_4">Nước mắm ngon và tiêu đập dập.</string>
+    <string name="thit_lon_nau_dong_5">Bước 1: Thịt chân giò, cạo sạch lông, rửa sạch thái miếng.</string>
+    <string name="thit_lon_nau_dong_6">Bước 2: Tai lợn, cũng cạo sạch, khử hôi bằng cách sát muối và dấm.</string>
+    <string name="thit_lon_nau_dong_7">Bước 3: Đun một nồi nước, bạn cho ít muối, hành khô bóc vỏ đập dập và một ít gừng đập dập để chần thịt. </string>
+    <string name="thit_lon_nau_dong_8">Bước 4: Nấm hương, mộc nhĩ ngâm nở thái nhỏ. Cho chảo lên bếp, cho ít dầu ăn vào xào qua nấm hương, mộc nhĩ với ít hạt nêm cho đậm đà rồi để riêng.</string>
+    <string name="thit_lon_nau_dong_9">Bước 5: Cho thịt chân giò và tai vào chảo xào một lúc cho săn lại, cho thêm ít hạt nêm lúc xào.</string>
+    <string name="thit_lon_nau_dong_10">Bước 6: Thịt xào sơ rồi cho vào nồi để nấu.</string>
+    <string name="thit_lon_nau_dong_10">Bước 7: Sau 15 phút thịt chín mềm, bạn mở nắp và cho nấm hương, mộc nhĩ, hạt tiêu rang đập dập vào nồi, đun thêm 10 phút nữa là được.</string>
+    <string name="thit_lon_nau_dong_10">Bước 8: Tỉa vào bông hoa bằng cà rốt đặt dưới đáy bát trước khi múc thịt đông để khi úp thịt đông ra sẽ đẹp mắt.</string>
+
+    <!--Pate lon-->
+    <string name="pate_lon">Pate lợn</string>
+    <string name="pate_lon_1">300gr gan heo</string>
+    <string name="pate_lon_2">150gr thịt nạc xay</string>
+    <string name="pate_lon_3">50gr mỡ</string>
+    <string name="pate_lon_4">Tỏi</string>
+    <string name="pate_lon_5">1 củ hành tây nhỏ</string>
+    <string name="pate_lon_6">1 ổ bánh mì nhỏ</string>
+    <string name="pate_lon_7">Sữa tươi không đường</string>
+    <string name="pate_lon_8">Gia vị: muối, hạt nêm, nước mắm, đường, tiêu</string>
+    <string name="pate_lon_9">Bơ thực vật</string>
+    <string name="pate_lon_10">Bước 1: Gan heo rửa sạch, cắt nhỏ, ngâm với sữa tươi không đường khoảng 20p.</string>
+    <string name="pate_lon_11">Bước 2: Sơ chế các nguyên liệu: mỡ cắt nhỏ hình hạt lựu, hành tây cắt nhỏ, tỏi băm nhỏ.</string>
+    <string name="pate_lon_12">Bước 3: Vớt gan rửa sạch đem gan ướp cùng: 1 muỗng canh nước mắm, 1 muỗng cafe muối, 1 muỗng cafe đường, 2 tép tỏi băm trong khoảng 15p.</string>
+    <string name="pate_lon_13">Bước 4: Thịt xay ướp cùng 1 muỗng cafe nước mắm, 1 muỗng cafe hạt nêm, 1 muỗng cafe đường, 2 tép tỏi trong khoảng 15p</string>
+    <string name="pate_lon_14">Bước 5: Bánh mì xé vụn nhỏ, ngâm với 1 ít sữa tươi.</string>
+    <string name="pate_lon_15">Bước 6: Phi thơm tỏi, lần lượt cho hành, mỡ và gan vào đảo đều.</string>
+    <string name="pate_lon_16">Bước 7: Khi các nguyên liệu ở trên đã chín, cho bánh mì ngâm sữa và rắc tiêu xay vào, đảo đều lần nữa rồi tắt bếp.</string>
+    <string name="pate_lon_17">Bước 8: Chia các nguyên liệu thành từng phần nhỏ, cho vào máy xay, xay nhuyễn.</string>
+    <string name="pate_lon_18">Bước 9: Quét 1 lớp bơ dưới đáy khuôn, bỏ phần pate xay vào khuôn.</string>
+    <string name="pate_lon_19">Bước 10: Bỏ khuôn vào xửng hấp trong vòng 40-60p tùy theo độ dày của pate.</string>
+
+
+    <!--Thit lon rim-->
+    <string name="thit_lon_rim_nuoc_mam">Thịt lợn rim nước mắm</string>
+    <string name="thit_lon_rim_nuoc_mam_1">Thịt ba chỉ: 500g</string>
+    <string name="thit_lon_rim_nuoc_mam_2">Gừng tươi: 1 nhánh nhỏ</string>
+    <string name="thit_lon_rim_nuoc_mam_3">Hành lá: 50g</string>
+    <string name="thit_lon_rim_nuoc_mam_4">Ớt: 3 quả</string>
+    <string name="thit_lon_rim_nuoc_mam_5">Gia vị: Hành khô, tỏi, hạt nêm, nước mắm, bột ngọt, đường, tiêu bột, ớt bột, rượu trắng.</string>
+    <string name="thit_lon_rim_nuoc_mam_6">Bước 1: Hành khô, tỏi rửa sạch, băm nhỏ. Gừng tươi rửa sạch, cạo vỏ, thái chỉ.</string>
+    <string name="thit_lon_rim_nuoc_mam_7">Bước 2:  Rửa sạch, để ráo, cắt miếng vuông vừa ăn chần qua nước sôi.</string>
+    <string name="thit_lon_rim_nuoc_mam_8">Bước 3: Phi thơm 2 thìa dầu ăn với hành tỏi băm nhuyễn và 1 thìa ớt bột, để riêng.</string>
+    <string name="thit_lon_rim_nuoc_mam_9">Bước 4: Cho thịt ba chỉ đã luộc sơ vào nồi, vặn lửa nhỏ, đảo đều</string>
+    <string name="thit_lon_rim_nuoc_mam_10">Bước 5: Sau đó, mở nắp nồi, nêm nếm lại gia vị sao cho vừa ăn rồi tiếp tục đảo đều thịt
+        trên bếp khoảng 3-4 phút đến khi nước kho thịt vừa sánh lại bao quanh từng miếng thịt thành màu cánh gián đậm là được. </string>
+
+    <!--Muc xao cay-->
+    <string name="muc_xao_cay">Mực xào cay</string>
+    <string name="muc_xao_cay_1">Mực ống: 400g.</string>
+    <string name="muc_xao_cay_2">Hành tây: 1 củ.</string>
+    <string name="muc_xao_cay_3">Sả: 3 củ.</string>
+    <string name="muc_xao_cay_4">Gừng: 1 nhánh nhỏ.</string>
+    <string name="muc_xao_cay_5">Ớt sừng: 5 trái.</string>
+    <string name="muc_xao_cay_6">Tiêu sọ: 1 nhánh.</string>
+    <string name="muc_xao_cay_7">Hành, tỏi: 50g, lượng tỏi nhiều hơn nhé.</string>
+    <string name="muc_xao_cay_8">Hành lá, ngó rí: 30g.</string>
+    <string name="muc_xao_cay_9">Gia vị: hạt nêm, nước mắm, dầu ăn, bột ngọt, ớt bột, tiêu.</string>
+    <string name="muc_xao_cay_10">Bước 1: Cho ½ ớt thái lát, tiêu sọ đã tách hạt, 1,5 thìa tỏi băm, 1 thìa đường, ½ thìa bột ngọt vào cối giã nhuyễn mịn, rồi cho vào 1 thìa nước mắm.</string>
+    <string name="muc_xao_cay_11">Bước 2: Phi thơm 2 thìa dầu ăn và phần hành tỏi còn lại, gừng thái chỉ, sả băm, hành tây thái lát với một ít ớt bột để món ăn có màu sắc hấp dẫn.</string>
+    <string name="muc_xao_cay_12">Bước 3: Cho mực vào xào nhanh tay với lửa lớn, cho hỗn hợp gia vị đã chuẩn bị ở trên vào, đảo đề tay để mực ngấm đều gia vị.</string>
+    <string name="muc_xao_cay_13">Bước 4: Khi thấy mực vừa chín tới, căng đầy, bạn nêm nếm lại gia vị sao cho vừa ăn.</string>
+    <string name="muc_xao_cay_14">Bước 5: Bày món mực xào cay ra đĩa, rắc lên trên một ít tiêu, phần đầu hành, ngò rí, phần ớt thái lát còn lại sao cho đẹp mắt</string>
+
+    <!--Ghe rang me-->
+    <string name="ghe_rang_me">Ghẹ rang me</string>
+    <string name="ghe_rang_me_1">Ghẹ 1 kg</string>
+    <string name="ghe_rang_me_2">Me chín 70 gr</string>
+    <string name="ghe_rang_me_3">Hạt nêm</string>
+    <string name="ghe_rang_me_4">Đường</string>
+    <string name="ghe_rang_me_5">Tỏi băm</string>
+    <string name="ghe_rang_me_6">Bột năng</string>
+    <string name="ghe_rang_me_7">Bước 1: Ghẹ mua về làm sạch, tách đôi phần mình ghẹ, mai ghẹ để riêng cho ráo nước. </string>
+    <string name="ghe_rang_me_8">Bước 2: Me ngâm với một bát rưỡi nước sôi, lọc bỏ hạt, nêm 2 muỗng đường và 1 muỗng hạt nêm.</string>
+    <string name="ghe_rang_me_9">Bước 3: Phi tỏi thật thơm, cho ghẹ vào đảo đều cho đến khi ghẹ gần chín.</string>
+    <string name="ghe_rang_me_10">Bước 4: Cho nước me và nước bột năng vào, đun nhỏ lửa cho đến khi gia vị thấm đều vào ghẹ, nước me cạn bớt và sánh lại. Xếp ghẹ ra đĩa và dùng nóng.</string>
+
+    <!--Muc chien bo-->
+    <string name="muc_chien_bo">Mực chiên bơ</string>
+    <string name="muc_chien_bo_1">1/2 kg mực ống</string>
+    <string name="muc_chien_bo_2">1 hộp bơ nhỏ</string>
+    <string name="muc_chien_bo_3">2 quả trứng gà</string>
+    <string name="muc_chien_bo_4">100 gram bột chiên giòn</string>
+    <string name="muc_chien_bo_5">100 gram bột chiên xù</string>
+    <string name="muc_chien_bo_6">Gia vị: gừng, hành, tỏi, sa tế, bột nêm, chút rượu, tương ớt</string>
+    <string name="muc_chien_bo_7">Bước 1: Mực mua về bóc bỏ màng ngoài sửa sạch, cho chút rượu vào đảo nhẹ để khử mùi tanh</string>
+    <string name="muc_chien_bo_8">Bước 2: Thái khúc vừa ăn ướp với hành tỏi đập dập băm nhỏ và chút sa tế, 1 thìa cf bột nêm, ướp 7-10 phút.</string>
+    <string name="muc_chien_bo_9">Bước 3: Chuẩn bị trứng đập vào bát, đánh tan đều.</string>
+    <string name="muc_chien_bo_10">Bước 4: Bắc chảo lên bếp cho chút dầu cùng bơ cho nóng, lăn mực qua bột chiên giòn sau đến nhúng vào bát trứng bỏ qua lăn bột chiên xù cho vào chảo chiên vàng đều</string>
+    <string name="muc_chien_bo_11">Bước 5: Khi chiên vàng đều 2 mặt ta vớt ra xếp vào đĩa có lót giấy thấm dầu cho dáo</string>
+
+    <!--Tom hum nuong bo toi-->
+    <string name="tom_hum_nuong_bo_toi">Tôm hùm nướng bơ tỏi</string>
+    <string name="tom_hum_nuong_bo_toi_1">2 con tôm hùm vừa</string>
+    <string name="tom_hum_nuong_bo_toi_2">Tỏi, bơ</string>
+    <string name="tom_hum_nuong_bo_toi_3">Hạt tiêu, muối</string>
+    <string name="tom_hum_nuong_bo_toi_4">Bước 1: Tôm hùm rửa sạch rồi lấy muối xát lên khắp thân tôm rồi rửa sạch; dùng kéo sắc để rạch nhẹ dọc theo sống lưng của Tôm.</string>
+    <string name="tom_hum_nuong_bo_toi_5">Bước 2: Cho bơ vào chảo bắc lên bếp đun cho tan chảy. Tỏi bóc vỏ, cắt nhỏ.</string>
+    <string name="tom_hum_nuong_bo_toi_6">Bước 3: Cho tỏi vào chảo bơ đã tan chảy phi thơm lên.Cho xíu muối và tiêu xay vào chảo bơ đảo sơ qua rồi nhanh tay tắt bếp.</string>
+    <string name="tom_hum_nuong_bo_toi_7">Bước 4: Dùng thìa rưới đều hết phần sốt bơ tỏi vào phần thịt tôm, cho tôm lên lửa than nướng.</string>
+    <string name="tom_hum_nuong_bo_toi_8">Bước 5: Tôm chín lây tôm ra trang trí với mấy cọng rau mùi cho đẹp mắt và ăn kèm với rau cải mầm và rau xà lách nhé</string>
+
+    <!--Ga xao cay-->
+    <string name="ga_xao_cay">Gà xào cay</string>
+    <string name="ga_xao_cay_1">500gr thịt đùi gà.</string>
+    <string name="ga_xao_cay_2">Vừng trắng</string>
+    <string name="ga_xao_cay_3">Tỏi, hành tây, ớt, gừng</string>
+    <string name="ga_xao_cay_4">Gia vị: dầu mè, hạt nêm, muối, đường, xì dầu</string>
+    <string name="ga_xao_cay_5">Bước 1: Tỏi và ớt, hành tây, gừng xắt sợi nhỏ. Gà cắt miếng vừa ăn.</string>
+    <string name="ga_xao_cay_6">Bước 2: Ướp vào trong gà 1 muỗng canh dầu mè, 1 muỗng canh nước tương, 1 muỗng cà phê muối, 1 muỗng cà phê hạt nêm , 1 muỗng canh đường.</string>
+    <string name="ga_xao_cay_7">Bước 3: Bắc chảo lên cho chút dầu ăn vào cho gà vào chiên sơ, giữ lại phần nước sốt ướp gà.</string>
+    <string name="ga_xao_cay_8">Bước 4: Bắc 1 nồi khác lên bếp cho dầu ăn vào, cho hành tây vào. Sau đó thêm cho tỏi, gừng và ớt vào.
+        Cho gà vào đảo đều, để lửa to nhất cho gà săn lại, cho nước sốt ướp gà còn dư vào.</string>
+    <string name="ga_xao_cay_9">Bước 5: Để thêm vài phút sau đó cho mè trắng vào, đảo qua.</string>
+
+    <!--Cari ga-->
+    <string name="cari_ga_mien_nam">Cari gà miền nam</string>
+    <string name="cari_ga_mien_nam_1">1/4 con gà</string>
+    <string name="cari_ga_mien_nam_2">1 củ khoai lang</string>
+    <string name="cari_ga_mien_nam_3">1 củ cà rốt</string>
+    <string name="cari_ga_mien_nam_4">1 củ hành tây</string>
+    <string name="cari_ga_mien_nam_5">Lá quế</string>
+    <string name="cari_ga_mien_nam_6">1 gói bột cari</string>
+    <string name="cari_ga_mien_nam_7">1/2 lon nước cốt dừa</string>
+    <string name="cari_ga_mien_nam_8">4 ỗ bánh mì</string>
+    <string name="cari_ga_mien_nam_9">2 trái ớt</string>
+    <string name="cari_ga_mien_nam_10">1 quả chanh</string>
+    <string name="cari_ga_mien_nam_11">Rữa sạch gà sau đo chặt khúc vừa ăn, ướp gà với hành tỏi băm, ớt và 1/3 gói bột cari, muối, đường, bột ngọt, hạt nêm khoãng 30’</string>
+    <string name="cari_ga_mien_nam_12">Gọt khoai lang và cà rốt cắt khúc vừa ăn. Rữa sach rau quế và hành tây. Giã muối ớt vắt chanh.</string>
+    <string name="cari_ga_mien_nam_13">Chiên sơ khoai lang, chiên gà xong bỏ vào nồi đổ nước xâm xấp mặt gà nấu sôi bỏ cà rốt khoai lang vào. Nấu chín nêm nếm lại bỏ hành tây vào</string>
+    <string name="cari_ga_mien_nam_14">Khi sôi cho 1/2 lon nước cốt dừa vào cho sôi la tắt bếp. Cắt bánh mỳ và ăn kèm rau quế.</string>
+
+
+    <!--Ga kho rau ram-->
+    <string name="ga_kho_rau_ram">Gà kho rau răm</string>
+    <string name="ga_kho_rau_ram_1">1 kg thịt gà</string>
+    <string name="ga_kho_rau_ram_2">1 nhúm rau răm</string>
+    <string name="ga_kho_rau_ram_3">3 muỗng nước mắm, 2 muỗng đường, 1 muỗng hạt nêm, 1 muỗng nhỏ muối, 1 muỗng nhỏ ớt bột, tỏi băm</string>
+    <string name="ga_kho_rau_ram_4">Bước 1: Gà rửa sạch, chặt miếng vừa gắp</string>
+    <string name="ga_kho_rau_ram_5">Bước 2: Cho gà vào chảo không, bắt lên bếp đảo tới đảo lui để thịt săn lại và tự ra mỡ.</string>
+    <string name="ga_kho_rau_ram_6">Bước 3: Khi thịt gà đã săn, bỏ tỏi vào một lúc cho dậy mùi, rắc ớt bột, nêm nước mắm, đường, muối, hạt nêm vào.</string>
+    <string name="ga_kho_rau_ram_7">Bước 4: Thêm nước xâm xấp mặt thịt, đậy nắp vung nấu đến khi nước sệt lại. </string>
+    <string name="ga_kho_rau_ram_8">Bước 5: Tắt bếp, rắc rau răm thái nhỏ vào trộn đều.</string>
+
+    <!--Goi ga xe phay-->
+    <string name="goi_ga_xe_phay">Gỏi gà xé phay</string>
+    <string name="goi_ga_xe_phay_1">1/2 con gà luộc</string>
+    <string name="goi_ga_xe_phay_2">2 củ hành tây</string>
+    <string name="goi_ga_xe_phay_3">1 bó rau răm nhỏ</string>
+    <string name="goi_ga_xe_phay_4">Muối ớt, chanh, đường, ớt sừng</string>
+    <string name="goi_ga_xe_phay_5">Bước 1: Gà luộc chín, rau răm, hảnh tây rửa sạch sẽ. </string>
+    <string name="goi_ga_xe_phay_6">Bước 2: Gà luộc xé miếng. Cho vào 1 muỗng cafe muối ớt, 1 muỗng đường, nước cốt một trái chanh, hành tây.</string>
+    <string name="goi_ga_xe_phay_7">Bước 3: Trộn đều sau đó nếm thử vừa khẩu vị, thì cho rau răm và ớt sừng vào trộn đều</string>
+
+    <!--Bo kho mien nam-->
+    <string name="bo_kho_mien_nam">Bò kho miền nam</string>
+    <string name="bo_kho_mien_nam_1">Đường, hạt nêm, muối, mắm</string>
+    <string name="bo_kho_mien_nam_2">Tỏi, gừng, xả, ớt, 1 củ hành tây nhỏ</string>
+    <string name="bo_kho_mien_nam_3">1 trái dừa</string>
+    <string name="bo_kho_mien_nam_4">500 gr thịt bò nạm</string>
+    <string name="bo_kho_mien_nam_5">2 củ cà rốt</string>
+    <string name="bo_kho_mien_nam_6">Bước 1: Thịt bò cắt khối vừa ăn, ướp cari, hạt nêm, mắm, muối, đường.</string>
+    <string name="bo_kho_mien_nam_7">Bước 2: Phi tỏi, ớt, gừng thơm, cho thịt bò đã ướp đảo đều cho thịt săn lại, cho nước dừa sấp mặt, đun sôi, để nhỏ lửa đên khi thịt mềm.</string>
+    <string name="bo_kho_mien_nam_8">Bước 3: Thịt chín cho cà rốt, đợi thịt mềm.</string>
+    <string name="bo_kho_mien_nam_9">Bước 4: Cho thêm 1 ít hành tây dùng chung với bánh mì.</string>
+
+    <!--Bo kho nuoc dua-->
+    <string name="bo_kho_nuoc_dua">Bò kho nước dừa</string>
+    <string name="bo_kho_nuoc_dua_1">Gân bò</string>
+    <string name="bo_kho_nuoc_dua_2">Cà rốt</string>
+    <string name="bo_kho_nuoc_dua_3">Khoai tây</string>
+    <string name="bo_kho_nuoc_dua_4">Xả cây, tỏi băm, nước dừa</string>
+    <string name="bo_kho_nuoc_dua_5">1 ít ngò gai, húng quế</string>
+    <string name="bo_kho_nuoc_dua_6">Gia vị : 1 gói gia vị bò kho, dầu ăn, nước mắm, đường, bột nêm</string>
+    <string name="bo_kho_nuoc_dua_7">Bước 1: Thịt bò cùng cà rốt, khoai tây, hành tây cắt thành từng cục vừa.</string>
+    <string name="bo_kho_nuoc_dua_8">Bước 2: Hành tây cắt múi cau và xả cắt khúc</string>
+    <string name="bo_kho_nuoc_dua_9">Bước 3: Ướp thịt với gói gia vị bò kho, 1 muỗng bột nêm, 1 muỗng đường nhỏ. Để 30 phut cho thấm gia vị</string>
+    <string name="bo_kho_nuoc_dua_10">Bước 4: Dầu nóng cho xả, tỏi vào phi thơm. Cho thịt bò vào xào đến khi săn lại, đổ nước dừa vào hầm khoảng 30 phut</string>
+    <string name="bo_kho_nuoc_dua_11">Bước 5: Cho cà rốt, khoai tây vào nấu tiếp.</string>
+    <string name="bo_kho_nuoc_dua_12">Bước 6: Món ăn ra dĩa thêm xíu ngò gai với lá húng quế trang trí cho đẹp</string>
+
+    <!--Bo xot tieu xanh-->
+    <string name="bo_xot_tieu_xanh">Bò xốt tiêu xanh</string>
+    <string name="bo_xot_tieu_xanh_1">500 gram bắp bò</string>
+    <string name="bo_xot_tieu_xanh_2">3 nhánh tiêu xanh tươi</string>
+    <string name="bo_xot_tieu_xanh_3">2 củ cà rốt</string>
+    <string name="bo_xot_tieu_xanh_4">1 củ  khoai tây</string>
+    <string name="bo_xot_tieu_xanh_5">1 củ hành tây</string>
+    <string name="bo_xot_tieu_xanh_6">100 ml sốt cà chua hộp</string>
+    <string name="bo_xot_tieu_xanh_7">1.5 lít nước dừa tươi</string>
+    <string name="bo_xot_tieu_xanh_8">1/2 hộp pate gan</string>
+    <string name="bo_xot_tieu_xanh_9">Bột bắp</string>
+    <string name="bo_xot_tieu_xanh_10">Gia vị: Muối, đường, hạt nêm, nước mắm, hành khô, tỏi băm.</string>
+    <string name="bo_xot_tieu_xanh_11">Bước 1: Đặt chảo lên bếp, cho ngập dầu và cho khoai tây đã cắt vào chiên vàng. Cà rốt chiên sơ cho vàng.</string>
+    <string name="bo_xot_tieu_xanh_12">Bước 2: Đặt một nồi khác lên bếp, cho ít dầu vào phi thơm hành khô và tỏi băm rồi cho thịt bò vào xào cho săn lại.</string>
+    <string name="bo_xot_tieu_xanh_13">Bước 3: Cho sốt cà chua, tiêu xanh, pate vào xào chung. Rồi tiếp đến đổ hết 1.5l nước dừa, đậy nắp vfa hầm trong khoảng 10 phút.</string>
+    <string name="bo_xot_tieu_xanh_14">Bước 4: Tiếp đến, mở nắp, cho khoai tây, cà rốt vào rồi nêm gia vị và nước mắm cho vừa ăn ninh tiếp 10-15 phút nữa.</string>
+    <string name="bo_xot_tieu_xanh_15">Bước 5: Sau 15 phút, nếu bò nhừ thì mình cho bột đã hòa vào, đảo đều, đun liu riu với lửa nhỏ. Đợi đến khi nước sốt hơi sánh lại đặc thì tắt bếp.</string>
+
+    <!--Thit ba chi kho trung-->
+    <string name="thit_ba_chi_kho_trung">Thịt ba chỉ kho trứng</string>
+    <string name="thit_ba_chi_kho_trung_1">Thịt heo 500gr</string>
+    <string name="thit_ba_chi_kho_trung_2">Trứng gà 8 trứng</string>
+    <string name="thit_ba_chi_kho_trung_3">Hành lá 100g</string>
+    <string name="thit_ba_chi_kho_trung_4">Hành lá cắt nhỏ 100ml</string>
+    <string name="thit_ba_chi_kho_trung_5">Bước 1: Hành khô, tỏi: làm sạch, băm nhuyễn; Thịt heo: Làm sạch, rửa qua với nước muối, để ráo, cắt miếng vừa ăn dạng  hình hộp chữ nhật. </string>
+    <string name="thit_ba_chi_kho_trung_6">Bước 2: Trứng gà: Luộc chín, ngâm trong nước lạnh cho dễ bóc vỏ, để ráo nước và chiến sơ qua với dầu để trứng có màu vàng nhẹ đẹp mắt và ngon hơn khi ăn. </string>
+    <string name="thit_ba_chi_kho_trung_7">Bước 3: Làm nước màu: cho 2 muỗng đường và 2 muỗng nước, đun nóng trên chảo với lửa nhỏ đến khi đường tan chuyển sang màu vàng cánh gián là được;</string>
+    <string name="thit_ba_chi_kho_trung_8">Bước 4: Phi thơm 1/2 muỗng hành, 1/2 muỗng tỏi với dầu ăn và 1/2 muỗng ớt bột. Cho thịt vào đảo đều tay để thịt thăn lại, các gia vị ngấm đều vào nhau;</string>
+    <string name="thit_ba_chi_kho_trung_9">Bước 5: Tiếp đó, cho 100ml nước dừa tươi và trứng gà đã chiên vàng vào, rưới nhẹ nước màu đã chuẩn bị sẵn lên trên thịt và trứng;</string>
+    <string name="thit_ba_chi_kho_trung_10">Bước 6: Vặn lửa nhỏ, đảo nhẹ tay đến khi thịt và trứng chín đều, nước kho thịt vừa sền sệt bao quanh trứng, thịt là được</string>
+
+    <!--Thit quay gion bi-->
+    <string name="thit_quay_gion_bi">Thịt quay giòn bì</string>
+    <string name="thit_quay_gion_bi_1">1 kg thịt ba chỉ</string>
+    <string name="thit_quay_gion_bi_2">Dấm trắng, muối tinh, rượu trắng</string>
+    <string name="thit_quay_gion_bi_3">Ngũ vị hương</string>
+    <string name="thit_quay_gion_bi_4">Muối, đường, tiêu</string>
+    <string name="thit_quay_gion_bi_5">Rượu trắng</string>
+    <string name="thit_quay_gion_bi_6">Bột ngọt</string>
+    <string name="thit_quay_gion_bi_7">Bột hành</string>
+    <string name="thit_quay_gion_bi_8">Bột tỏi</string>
+    <string name="thit_quay_gion_bi_9">Bước 1: Thịt rửa thật sạch với muối và rượu trắng.</string>
+    <string name="thit_quay_gion_bi_10">Bước 2: Các gia vị ướp thịt trộn đều vs nhau, rồi xát vào phần thịt, k xát phần da nhé.</string>
+    <string name="thit_quay_gion_bi_11">Bước 3: Phần bì lau khô, sau đó xát 1 chút dấm đều phần bì, rồi 1 chút muối tinh.</string>
+    <string name="thit_quay_gion_bi_12">Bước 4: Bỏ thịt vào tủ Lạnh</string>
+    <string name="thit_quay_gion_bi_13">Bước 5: Bật lò trước 15 phut cho thật nóng. Cho thịt vào, hứng khay có nước bên dưới </string>
+
+    <!--Kho quet-->
+    <string name="kho_quet">Kho quẹt</string>
+    <string name="kho_quet_1">Tôm khô 50 gr</string>
+    <string name="kho_quet_2">Thịt ba chỉ 150 gr</string>
+    <string name="kho_quet_3">Nước mắm 6 muỗng canh</string>
+    <string name="kho_quet_4">Đường trắng 5 muỗng canh</string>
+    <string name="kho_quet_5">Tiêu 1 muỗng cà phê</string>
+    <string name="kho_quet_6">Ớt 4 trái</string>
+    <string name="kho_quet_7">Tỏi 3 tép</string>
+    <string name="kho_quet_8">Hành lá 100 gr</string>
+    <string name="kho_quet_9">Bước 1: Tôm khô cho vào tô. Đổ nước ấm vào, ngâm khoảng 15 phút cho tôm mềm</string>
+    <string name="kho_quet_10">Bước 2: Pha nước mắm: Trong một chén, hòa tan 6 muỗng canh nước mắm, 5 muỗng canh đường trắng, 4 muỗng canh nước lọc, khuấy đều đến khi đường tan hết.</string>
+    <string name="kho_quet_11">Bước 3: Thịt ba chỉ rửa sạch, nếu bạn mua phần ba chỉ có phần da thì lọc bỏ da.</string>
+    <string name="kho_quet_12">Bước 4: Giảm nhỏ lửa, dùng vá vớt thịt ba chỉ ra. Vặn lửa vừa, tiếp tục dùng nồi đất đó phi thơm tỏi băm nhỏ.</string>
+    <string name="kho_quet_13">Bước 5: Khi tỏi hơi ngả màu vàng. Cho tôm khô vào, đảo đều tay. Đổ hỗn hợp nước mắm đã pha, thịt ba chỉ, 1 muỗng cà phê tiêu vào. Cho tiếp ớt cắt nhỏ để thêm cay.</string>
+    <string name="kho_quet_14">Bước 6: Khi thấy nồi kho quẹt có độ sệt lại, hỗn hợp nước vơi đi 1/3 thì tắt bếp. </string>
+
+    <!---->
+    <string name="tom_xao_cay">Tôm xào cay</string>
+    <string name="tom_xao_cay_1">450g tôm tươi</string>
+    <string name="tom_xao_cay_2">1/2 quả ớt chuông xanh</string>
+    <string name="tom_xao_cay_3">1-2 quả ớt xanh nhỏ</string>
+    <string name="tom_xao_cay_4">1 lọ Tabasco sauce</string>
+    <string name="tom_xao_cay_5">1 nửa thanh bơ</string>
+    <string name="tom_xao_cay_6">Một ít muối và hạt tiêu</string>
+    <string name="tom_xao_cay_7">Bước 1: Rửa tôm với nước ấm, Tôm tươi các bạn bóc hết vỏ đi. Ớt chuông xanh các bạn thái thành những hạt lựu nhỏ. Bơ để ở nhiệt độ phòng cho mềm.</string>
+    <string name="tom_xao_cay_8">Bước 2: Đầu tiên các bạn bắc một cái chảo lên bếp và mở lửa ở mức trung bình. Sau đó, các bạn cho bơ vào đun trong khoảng 3 phút hoặc cho đến khi bơ tan hết.</string>
+    <string name="tom_xao_cay_9">Bước 3: Tiếp đến, các bạn cho tôm cùng với các nguyên liệu còn lại vào gồm ớt chuông, ớt xanh, sốt cay nóng, 1/2 muỗng cà phê muối và 1 muỗng cà phê hạt tiêu.</string>
+    <string name="tom_xao_cay_10">Bước 4: Sau đó, các bạn tiến hành đảo thật đều hỗn hợp tôm.</string>
+    <string name="tom_xao_cay_11">Bước 5: Khi phần nước đã cạn bớt thì các bạn hãy nếm thử để có thể điều chỉnh mùi vị của món ăn cho phù hợp với khẩu vị của gia đình.</string>
+
+    <!--Sup lo xao suc xich-->
+    <string name="sup_lo_xao_suc_xich">Súp lơ xào súc xích</string>
+    <string name="sup_lo_xao_suc_xich_1">Súp lơ xanh</string>
+    <string name="sup_lo_xao_suc_xich_2">Súp lơ trắng</string>
+    <string name="sup_lo_xao_suc_xich_3">Một củ cà rốt</string>
+    <string name="sup_lo_xao_suc_xich_4">Tỏi, dầu ăn, nước tương, dầu mè, chút bột ngô.</string>
+    <string name="sup_lo_xao_suc_xich_5">Bước 1: Đun nóng dầu thực vật. Thả xúc xích đã cắt nhỏ vào chiên qua.</string>
+    <string name="sup_lo_xao_suc_xich_6">Bước 2: Thêm tỏi, sau đó cà rốt, tiếp đến là súp lơ trắng, xanh.</string>
+    <string name="sup_lo_xao_suc_xich_7">Bước 3: Rưới lên chút nước tương, thêm muối. Pha 1/4 thìa bột ngô pha với chút nước, trút vào chảo rau.</string>
+    <string name="sup_lo_xao_suc_xich_8">Bước 4: Đảo lại và tắt bếp.</string>
+
+    <!--Bong cai xao thit bo-->
+    <string name="bong_cai_xao_thit_bo">Bông cải xào thịt bò</string>
+    <string name="bong_cai_xao_thit_bo_1">Bông cải xanh 500 gr</string>
+    <string name="bong_cai_xao_thit_bo_2">Thịt bò 300 gr</string>
+    <string name="bong_cai_xao_thit_bo_3">Nước tương 1 muỗng canh</string>
+    <string name="bong_cai_xao_thit_bo_4">Hạt nêm 1 muỗng cà phê</string>
+    <string name="bong_cai_xao_thit_bo_5">Dầu ăn 2 muỗng canh</string>
+    <string name="bong_cai_xao_thit_bo_6">Tiêu 1/2 muỗng cà phê</string>
+    <string name="bong_cai_xao_thit_bo_7">Bột ngọt 1/3 muỗng cà phê</string>
+    <string name="bong_cai_xao_thit_bo_8">Muối 1 muỗng cà phê</string>
+    <string name="bong_cai_xao_thit_bo_9">Gừng 1 củ</string>
+    <string name="bong_cai_xao_thit_bo_10">Mè trắng 3 muỗng canh</string>
+    <string name="bong_cai_xao_thit_bo_11">Bước 1: Bông cải xanh rửa sạch, cắt nhỏ. Gừng gọt vỏ. đập dập rồi cắt sợi.</string>
+    <string name="bong_cai_xao_thit_bo_12">Bước 2: Thịt bò rửa sạch, cắt thành lát mỏng. Sau đó, ướp thịt bò với gừng, nước tương, hạt nêm, tiêu khoảng 10 phút cho ngấm gia vị.</string>
+    <string name="bong_cai_xao_thit_bo_13">Bước 3: Làm nóng dầu ăn trong chảo, cho thịt bò đã ướp vào, xào sơ qua khoảng 3 phút, cho ra đĩa.</string>
+    <string name="bong_cai_xao_thit_bo_14">Bước 4: Tiếp tục dùng chảo đó, cho bông cải xanh vào, xào chín. Cuối cùng, cho thịt bò vào, nêm muối, bột ngọt vào cho vừa ăn.</string>
+    <string name="bong_cai_xao_thit_bo_15">Bước 5: Rang qua mè trắng cho thơm. Tắt bếp, rắc mè vào và cho món ăn ra đĩa.</string>
 </resources>

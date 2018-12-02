@@ -55,7 +55,9 @@ public class NorthernCowActivity extends AppCompatActivity {
         foodList.add(food);
         food = new Food(R.drawable.pho_bo, getString(R.string.pho_bo), "","");
         foodList.add(food);
-        food = new Food(R.drawable.bun_bo_bac_bo, getString(R.string.bun_bo_bac_bo), "","");
+        food = new Food(R.drawable.bo_xao_pho, getString(R.string.bo_xao_pho), "","");
+        foodList.add(food);
+        food = new Food(R.drawable.rau_muong_xao_thit_bo, getString(R.string.rau_muong_xao_thit_bo), "","");
         foodList.add(food);
         adapterNorthernCow.notifyDataSetChanged();
     }

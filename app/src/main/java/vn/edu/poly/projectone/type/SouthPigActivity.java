@@ -50,11 +50,11 @@ public class SouthPigActivity extends AppCompatActivity {
     private void initData() {
         Food food = new Food(R.drawable.thit_ba_chi_kho_trung, getString(R.string.thit_ba_chi_kho_trung), "","");
         foodList.add(food);
-        food = new Food(R.drawable.thit_ba_chi_luoc_sot_toi_cay, getString(R.string.thit_ba_chi_luoc_sot_toi_cay), "","");
-        foodList.add(food);
         food = new Food(R.drawable.thit_quay_gion_bi, getString(R.string.thit_quay_gion_bi), "","");
         foodList.add(food);
         food = new Food(R.drawable.kho_quet, getString(R.string.kho_quet), "","");
+        foodList.add(food);
+        food = new Food(R.drawable.banh_trang_cuon_thit_heo, getString(R.string.banh_trang_cuon_thit_heo), "","");
         foodList.add(food);
         adapterSouthPig.notifyDataSetChanged();
     }

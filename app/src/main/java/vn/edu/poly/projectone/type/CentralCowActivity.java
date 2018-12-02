@@ -54,6 +54,8 @@ public class CentralCowActivity extends AppCompatActivity {
         foodList.add(food);
         food = new Food(R.drawable.de_bo, getString(R.string.de_bo_tay_son), "","");
         foodList.add(food);
+        food = new Food(R.drawable.bo_xao_pho, getString(R.string.bo_xao_pho), "","");
+        foodList.add(food);
         adapterCentralCow.notifyDataSetChanged();
     }
 }

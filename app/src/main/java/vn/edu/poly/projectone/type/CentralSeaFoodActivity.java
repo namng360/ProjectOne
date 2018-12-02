@@ -49,11 +49,11 @@ public class CentralSeaFoodActivity extends AppCompatActivity {
     private void initData() {
         Food food = new Food(R.drawable.banh_canh_ghe, getString(R.string.banh_canh_ghe), "","");
         foodList.add(food);
-        food = new Food(R.drawable.bun_tom_mien_trung, getString(R.string.bun_tom_mien_trung), "","");
+        food = new Food(R.drawable.hau_nuong_mo_hanh, getString(R.string.hau_nuong_mo_hanh), "","");
         foodList.add(food);
-        food = new Food(R.drawable.bun_sua, getString(R.string.bun_sua), "","");
+        food = new Food(R.drawable.hau_nuong_pho_mai, getString(R.string.hau_nuong_pho_mai), "","");
         foodList.add(food);
-        food = new Food(R.drawable.cha_ram_tom, getString(R.string.cha_ram_tom), "","");
+        food = new Food(R.drawable.bach_tuoc_nuong_muoi_ot, getString(R.string.bach_tuoc_nuong_muoi_ot), "","");
         foodList.add(food);
         adapterCentralSeaFood.notifyDataSetChanged();
     }

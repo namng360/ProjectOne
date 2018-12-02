@@ -55,8 +55,6 @@ public class CentralPigActivity extends AppCompatActivity {
         foodList.add(food);
         food = new Food(R.drawable.bun_thit_nuong, getString(R.string.bun_thit_nuong), "","");
         foodList.add(food);
-        food = new Food(R.drawable.thit_heo_muoi, getString(R.string.thit_heo_muoi), "","");
-        foodList.add(food);
         adapterCentralPig.notifyDataSetChanged();
     }
 }
