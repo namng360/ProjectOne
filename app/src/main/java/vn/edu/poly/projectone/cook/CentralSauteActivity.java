@@ -64,11 +64,14 @@ public class CentralSauteActivity extends AppCompatActivity {
         food = new Food(R.drawable.bun_nghe_xao_long, getString(R.string.bun_nghe_xao_long),
                 getString(R.string.bun_nghe_xao_long_1) + "\n" + getString(R.string.bun_nghe_xao_long_2) + "\n" + getString(R.string.bun_nghe_xao_long_3) + "\n"
                         + getString(R.string.bun_thit_nuong_4) + "\n" + getString(R.string.bun_nghe_xao_long_5)+ "\n" + getString(R.string.bun_nghe_xao_long_6),
-                "");
+                getString(R.string.bun_nghe_xao_long_7) + "\n" + getString(R.string.bun_nghe_xao_long_8) + "\n" + getString(R.string.bun_nghe_xao_long_9) + "\n"
+                        + getString(R.string.bun_nghe_xao_long_10) + "\n" + getString(R.string.bun_nghe_xao_long_11));
         foodList.add(food);
         food = new Food(R.drawable.oc_hut_xao_dua, getString(R.string.oc_hut_xao_dua),
-                "",
-                "");
+                getString(R.string.oc_hut_xao_dua_1) + "\n" + getString(R.string.oc_hut_xao_dua_2) + "\n" + getString(R.string.oc_hut_xao_dua_3) + "\n"
+                        + getString(R.string.oc_hut_xao_dua_4),
+                getString(R.string.oc_hut_xao_dua_5) + "\n" + getString(R.string.oc_hut_xao_dua_6) + "\n" + getString(R.string.oc_hut_xao_dua_7) + "\n"
+                        + getString(R.string.oc_hut_xao_dua_8));
         foodList.add(food);
         adapterCentralSaute.notifyDataSetChanged();
     }
