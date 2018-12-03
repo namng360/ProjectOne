@@ -48,13 +48,27 @@ public class CentralSauteActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Food food = new Food(R.drawable.bo_xao_pho, getString(R.string.bo_xao_pho), "","");
+        Food food = new Food(R.drawable.bo_xao_pho, getString(R.string.bo_xao_pho),
+                getString(R.string.bo_xao_pho_1) + "\n" + getString(R.string.bo_xao_pho_2) + "\n" + getString(R.string.bo_xao_pho_3) + "\n"
+                        + getString(R.string.bo_xao_pho_4) + "\n" + getString(R.string.bo_xao_pho_5) + "\n" + getString(R.string.bo_xao_pho_6)
+                        + "\n" + getString(R.string.bo_xao_pho_7)+ "\n" + getString(R.string.bo_xao_pho_8)+ "\n" + getString(R.string.bo_xao_pho_9)
+                        + "\n" + getString(R.string.bo_xao_pho_10),
+                getString(R.string.bo_xao_pho_11) + "\n" + getString(R.string.bo_xao_pho_12) + "\n" + getString(R.string.bo_xao_pho_13) + "\n"
+                        + getString(R.string.bo_xao_pho_14) + "\n" + getString(R.string.bo_xao_pho_15));
         foodList.add(food);
-        food = new Food(R.drawable.thit_xao_mam_ruoc, getString(R.string.thit_xao_mam_ruoc), "","");
+        food = new Food(R.drawable.thit_xao_mam_ruoc, getString(R.string.thit_xao_mam_ruoc),
+                getString(R.string.thit_xao_mam_ruoc_1) + "\n" + getString(R.string.thit_xao_mam_ruoc_2) + "\n" + getString(R.string.thit_xao_mam_ruoc_3) + "\n"
+                        + getString(R.string.thit_xao_mam_ruoc_4) + "\n" + getString(R.string.thit_xao_mam_ruoc_5)+ "\n" + getString(R.string.thit_xao_mam_ruoc_6),
+                getString(R.string.thit_xao_mam_ruoc_7) + "\n" + getString(R.string.thit_xao_mam_ruoc_8) + "\n" + getString(R.string.thit_xao_mam_ruoc_9));
         foodList.add(food);
-        food = new Food(R.drawable.bun_nghe_xao_long, getString(R.string.bun_nghe_xao_long), "","");
+        food = new Food(R.drawable.bun_nghe_xao_long, getString(R.string.bun_nghe_xao_long),
+                getString(R.string.bun_nghe_xao_long_1) + "\n" + getString(R.string.bun_nghe_xao_long_2) + "\n" + getString(R.string.bun_nghe_xao_long_3) + "\n"
+                        + getString(R.string.bun_thit_nuong_4) + "\n" + getString(R.string.bun_nghe_xao_long_5)+ "\n" + getString(R.string.bun_nghe_xao_long_6),
+                "");
         foodList.add(food);
-        food = new Food(R.drawable.oc_hut_xao_dua, getString(R.string.oc_hut_xao_dua), "","");
+        food = new Food(R.drawable.oc_hut_xao_dua, getString(R.string.oc_hut_xao_dua),
+                "",
+                "");
         foodList.add(food);
         adapterCentralSaute.notifyDataSetChanged();
     }
