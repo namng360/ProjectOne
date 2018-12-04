@@ -47,13 +47,21 @@ public class CentralPigActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Food food = new Food(R.drawable.thit_xao_mam_ruoc, getString(R.string.thit_xao_mam_ruoc), "","");
+        Food food = new Food(R.drawable.thit_xao_mam_ruoc, getString(R.string.thit_xao_mam_ruoc),
+                "",
+                "");
         foodList.add(food);
-        food = new Food(R.drawable.thit_heo_ngam_nuoc_mam, getString(R.string.thit_heo_ngam_nuoc_mam), "","");
+        food = new Food(R.drawable.thit_heo_ngam_nuoc_mam, getString(R.string.thit_heo_ngam_nuoc_mam),
+                "",
+                "");
         foodList.add(food);
-        food = new Food(R.drawable.banh_trang_cuon_thit_heo, getString(R.string.banh_trang_cuon_thit_heo), "","");
+        food = new Food(R.drawable.banh_trang_cuon_thit_heo, getString(R.string.banh_trang_cuon_thit_heo),
+                "",
+                "");
         foodList.add(food);
-        food = new Food(R.drawable.bun_thit_nuong, getString(R.string.bun_thit_nuong), "","");
+        food = new Food(R.drawable.bun_thit_nuong, getString(R.string.bun_thit_nuong),
+                "",
+                "");
         foodList.add(food);
         adapterCentralPig.notifyDataSetChanged();
     }

@@ -46,13 +46,42 @@ public class SouthSauteActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Food food = new Food(R.drawable.tom_xao_cay, getString(R.string.tom_xao_cay), "","");
+        Food food = new Food(R.drawable.tom_xao_cay, getString(R.string.tom_xao_cay),
+                getString(R.string.tom_xao_cay_1) + "\n" + getString(R.string.tom_xao_cay_2)
+                        + "\n" + getString(R.string.tom_xao_cay_3) + "\n"
+                        + getString(R.string.tom_xao_cay_4) + "\n" + getString(R.string.tom_xao_cay_5)
+                        + "\n" + getString(R.string.tom_xao_cay_6),
+                getString(R.string.tom_xao_cay_7) + "\n" + getString(R.string.tom_xao_cay_8)
+                        + "\n" + getString(R.string.tom_xao_cay_9) + "\n"
+                        + getString(R.string.tom_xao_cay_10) + "\n" + getString(R.string.tom_xao_cay_11));
         foodList.add(food);
-        food = new Food(R.drawable.ga_xao_cay, getString(R.string.ga_xao_cay), "","");
+        food = new Food(R.drawable.ga_xao_cay, getString(R.string.ga_xao_cay),
+                getString(R.string.ga_xao_cay_1) + "\n" + getString(R.string.ga_xao_cay_2)
+                        + "\n" + getString(R.string.ga_xao_cay_3) + "\n"
+                        + getString(R.string.ga_xao_cay_4),
+                getString(R.string.ga_xao_cay_5) + "\n" + getString(R.string.ga_xao_cay_6)
+                        + "\n" + getString(R.string.ga_xao_cay_7) + "\n"
+                        + getString(R.string.ga_xao_cay_8) + "\n" + getString(R.string.ga_xao_cay_9));
         foodList.add(food);
-        food = new Food(R.drawable.sup_lo_xao_suc_xich, getString(R.string.sup_lo_xao_suc_xich), "","");
+        food = new Food(R.drawable.sup_lo_xao_suc_xich, getString(R.string.sup_lo_xao_suc_xich),
+                getString(R.string.sup_lo_xao_suc_xich_1) + "\n" + getString(R.string.sup_lo_xao_suc_xich_2)
+                        + "\n" + getString(R.string.sup_lo_xao_suc_xich_3) + "\n"
+                        + getString(R.string.sup_lo_xao_suc_xich_4),
+                getString(R.string.sup_lo_xao_suc_xich_5) + "\n" + getString(R.string.sup_lo_xao_suc_xich_6)
+                        + "\n" + getString(R.string.sup_lo_xao_suc_xich_7) + "\n"
+                        + getString(R.string.sup_lo_xao_suc_xich_8));
         foodList.add(food);
-        food = new Food(R.drawable.bong_cai_xao_suc_xich, getString(R.string.bong_cai_xao_thit_bo), "","");
+        food = new Food(R.drawable.bong_cai_xao_suc_xich, getString(R.string.bong_cai_xao_thit_bo),
+                getString(R.string.bong_cai_xao_thit_bo_1) + "\n" + getString(R.string.bong_cai_xao_thit_bo_2)
+                        + "\n" + getString(R.string.bong_cai_xao_thit_bo_3) + "\n"
+                        + getString(R.string.bong_cai_xao_thit_bo_4) + "\n"
+                        + getString(R.string.bong_cai_xao_thit_bo_5) + "\n" + getString(R.string.bong_cai_xao_thit_bo_6)
+                        + "\n" + getString(R.string.bong_cai_xao_thit_bo_7) + "\n"
+                        + getString(R.string.bong_cai_xao_thit_bo_8) + "\n" + getString(R.string.bong_cai_xao_thit_bo_9)
+                        + "\n" + getString(R.string.bong_cai_xao_thit_bo_10),
+                getString(R.string.bong_cai_xao_thit_bo_11) + "\n" + getString(R.string.bong_cai_xao_thit_bo_12)
+                        + "\n" + getString(R.string.bong_cai_xao_thit_bo_13) + "\n"
+                        + getString(R.string.bong_cai_xao_thit_bo_14) + "\n" + getString(R.string.bong_cai_xao_thit_bo_15));
         foodList.add(food);
         adapterSouthSaute.notifyDataSetChanged();
     }

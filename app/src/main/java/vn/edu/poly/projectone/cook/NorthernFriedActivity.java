@@ -49,11 +49,24 @@ public class NorthernFriedActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Food food = new Food(R.drawable.banh_tom, getString(R.string.banh_tom), "","");
+        Food food = new Food(R.drawable.banh_tom, getString(R.string.banh_tom),
+                getString(R.string.banh_tom_1) + "\n" + getString(R.string.banh_tom_2) + "\n" + getString(R.string.banh_tom_3) + "\n"
+                        + getString(R.string.banh_tom_4) + "\n" + getString(R.string.banh_tom_5)+ "\n" + getString(R.string.banh_tom_6)
+                        + "\n" + getString(R.string.banh_tom_7)+ "\n" + getString(R.string.banh_tom_8)+ "\n" + getString(R.string.banh_tom_9),
+                getString(R.string.banh_tom_10) + "\n" + getString(R.string.banh_tom_11) + "\n" + getString(R.string.banh_tom_12) + "\n"
+                        + getString(R.string.banh_tom_13) + "\n" + getString(R.string.banh_tom_14)+ "\n" + getString(R.string.banh_tom_15));
         foodList.add(food);
-        food = new Food(R.drawable.dau_phu_chien_gion, getString(R.string.dau_phu_chien_xu), "","");
+        food = new Food(R.drawable.dau_phu_chien_gion, getString(R.string.dau_phu_chien_xu),
+                getString(R.string.dau_phu_chien_xu_1) + "\n" + getString(R.string.dau_phu_chien_xu_2) + "\n" + getString(R.string.dau_phu_chien_xu_3),
+                getString(R.string.dau_phu_chien_xu_4) + "\n" + getString(R.string.dau_phu_chien_xu_5) + "\n" + getString(R.string.dau_phu_chien_xu_6));
         foodList.add(food);
-        food = new Food(R.drawable.nem_ran, getString(R.string.nem_ran), "","");
+        food = new Food(R.drawable.nem_ran, getString(R.string.nem_ran),
+                getString(R.string.nem_ran_1) + "\n" + getString(R.string.nem_ran_2) + "\n" + getString(R.string.nem_ran_3) + "\n"
+                        + getString(R.string.nem_ran_4) + "\n" + getString(R.string.nem_ran_5)+ "\n" + getString(R.string.nem_ran_6)
+                        + "\n" + getString(R.string.nem_ran_7)+ "\n" + getString(R.string.nem_ran_8)+ "\n" + getString(R.string.nem_ran_9)
+                        + "\n" + getString(R.string.nem_ran_10),
+                getString(R.string.nem_ran_11) + "\n" + getString(R.string.nem_ran_12) + "\n" + getString(R.string.nem_ran_13) + "\n"
+                        + getString(R.string.nem_ran_14));
         foodList.add(food);
         adapterNorthernFried.notifyDataSetChanged();
     }

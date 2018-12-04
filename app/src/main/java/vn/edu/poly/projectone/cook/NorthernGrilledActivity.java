@@ -50,13 +50,32 @@ public class NorthernGrilledActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Food food = new Food(R.drawable.ba_chi, getString(R.string.thit_ba_chi), "","");
+        Food food = new Food(R.drawable.ba_chi, getString(R.string.thit_ba_chi),
+                getString(R.string.thit_ba_chi_1) + "\n" + getString(R.string.thit_ba_chi_2) + "\n" + getString(R.string.thit_ba_chi_3) + "\n"
+                        + getString(R.string.thit_ba_chi_4) + "\n" + getString(R.string.thit_ba_chi_5)+ "\n" + getString(R.string.thit_ba_chi_6)
+                        + "\n" + getString(R.string.thit_ba_chi_7),
+                getString(R.string.thit_ba_chi_8) + "\n" + getString(R.string.thit_ba_chi_9) + "\n" + getString(R.string.thit_ba_chi_10) + "\n"
+                        + getString(R.string.thit_ba_chi_11));
         foodList.add(food);
-        food = new Food(R.drawable.xien_nuong, getString(R.string.thit_xien_nuong), "","");
+        food = new Food(R.drawable.xien_nuong, getString(R.string.thit_xien_nuong),
+                getString(R.string.thit_xien_nuong_1) + "\n" + getString(R.string.thit_xien_nuong_2) + "\n" + getString(R.string.thit_xien_nuong_3) + "\n"
+                        + getString(R.string.thit_xien_nuong_4) + "\n" + getString(R.string.thit_xien_nuong_5)+ "\n" + getString(R.string.thit_xien_nuong_6)
+                        + "\n" + getString(R.string.thit_xien_nuong_7),
+                getString(R.string.thit_xien_nuong_8) + "\n" + getString(R.string.thit_xien_nuong_9) + "\n" + getString(R.string.thit_xien_nuong_10) + "\n"
+                        + getString(R.string.thit_xien_nuong_11) + "\n" + getString(R.string.thit_xien_nuong_12));
         foodList.add(food);
-        food = new Food(R.drawable.moon_cake, getString(R.string.moon_cake), "","");
+        food = new Food(R.drawable.moon_cake, getString(R.string.moon_cake),
+                getString(R.string.moon_cake_1) + "\n" + getString(R.string.moon_cake_2) + "\n" + getString(R.string.moon_cake_3) + "\n"
+                        + getString(R.string.moon_cake_4) + "\n" + getString(R.string.moon_cake_5)+ "\n" + getString(R.string.moon_cake_6),
+                getString(R.string.moon_cake_7) + "\n" + getString(R.string.moon_cake_8) + "\n" + getString(R.string.moon_cake_9) + "\n"
+                        + getString(R.string.moon_cake_10) + "\n" + getString(R.string.moon_cake_11)+ "\n" + getString(R.string.moon_cake_12));
         foodList.add(food);
-        food = new Food(R.drawable.muoi_ot, getString(R.string.banh_my_muoi_ot), "","");
+        food = new Food(R.drawable.muoi_ot, getString(R.string.banh_my_muoi_ot),
+                getString(R.string.banh_my_muoi_ot_1) + "\n" + getString(R.string.banh_my_muoi_ot_2)
+                        + "\n" + getString(R.string.banh_my_muoi_ot_3) + "\n"
+                        + getString(R.string.banh_my_muoi_ot_4) + "\n" + getString(R.string.banh_my_muoi_ot_5),
+                getString(R.string.banh_my_muoi_ot_6) + "\n" + getString(R.string.banh_my_muoi_ot_7) + "\n" + getString(R.string.banh_my_muoi_ot_8) + "\n"
+                        + getString(R.string.banh_my_muoi_ot_9) + "\n" + getString(R.string.banh_my_muoi_ot_10)+ "\n" + getString(R.string.banh_my_muoi_ot_11));
         foodList.add(food);
         adapterNorthernGrilled.notifyDataSetChanged();
     }

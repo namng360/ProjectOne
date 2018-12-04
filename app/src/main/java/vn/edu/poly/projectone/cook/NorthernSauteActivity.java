@@ -50,11 +50,25 @@ public class NorthernSauteActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Food food = new Food(R.drawable.bo_xao_pho, getString(R.string.bo_xao_pho), "","");
+        Food food = new Food(R.drawable.bo_xao_pho, getString(R.string.bo_xao_pho),
+                getString(R.string.bo_xao_pho_1) + "\n" + getString(R.string.bo_xao_pho_2) + "\n" + getString(R.string.bo_xao_pho_3) + "\n"
+                        + getString(R.string.bo_xao_pho_4) + "\n" + getString(R.string.bo_xao_pho_5)+ "\n" + getString(R.string.bo_xao_pho_6)
+                        + "\n" + getString(R.string.bo_xao_pho_7) + "\n" + getString(R.string.bo_xao_pho_8) + "\n" + getString(R.string.bo_xao_pho_9)
+                        + "\n" + getString(R.string.bo_xao_pho_10),
+                getString(R.string.bo_xao_pho_11) + "\n" + getString(R.string.bo_xao_pho_12) + "\n" + getString(R.string.bo_xao_pho_13) + "\n"
+                        + getString(R.string.bo_xao_pho_14) + "\n" + getString(R.string.bo_xao_pho_15));
         foodList.add(food);
-        food = new Food(R.drawable.gia_do_xao_dau, getString(R.string.gia_do_xao_dau), "","");
+        food = new Food(R.drawable.gia_do_xao_dau, getString(R.string.gia_do_xao_dau),
+                getString(R.string.gia_do_xao_dau_1) + "\n" + getString(R.string.gia_do_xao_dau_2)
+                        + "\n" + getString(R.string.gia_do_xao_dau_3) + "\n" + getString(R.string.gia_do_xao_dau_4),
+                getString(R.string.gia_do_xao_dau_5) + "\n" + getString(R.string.gia_do_xao_dau_6)
+                        + "\n" + getString(R.string.gia_do_xao_dau_7));
         foodList.add(food);
-        food = new Food(R.drawable.rau_muong_xao_thit_bo, getString(R.string.rau_muong_xao_thit_bo), "","");
+        food = new Food(R.drawable.rau_muong_xao_thit_bo, getString(R.string.rau_muong_xao_thit_bo),
+                getString(R.string.rau_muong_xao_thit_bo_1) + "\n" + getString(R.string.rau_muong_xao_thit_bo_2)
+                        + "\n" + getString(R.string.rau_muong_xao_thit_bo_3),
+                getString(R.string.rau_muong_xao_thit_bo_4) + "\n" + getString(R.string.rau_muong_xao_thit_bo_5) + "\n" + getString(R.string.rau_muong_xao_thit_bo_6) + "\n"
+                        + getString(R.string.rau_muong_xao_thit_bo_7) + "\n" + getString(R.string.rau_muong_xao_thit_bo_8));
         foodList.add(food);
 
         adapterNorthernSaute.notifyDataSetChanged();
