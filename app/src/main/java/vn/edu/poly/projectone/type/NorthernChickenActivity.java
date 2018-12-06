@@ -47,13 +47,42 @@ public class NorthernChickenActivity extends AppCompatActivity {
     }
 
     private void initData() {
-        Food food = new Food(R.drawable.chao_ga_mien_bac, getString(R.string.chao_ga), "","");
+        Food food = new Food(R.drawable.chao_ga_mien_bac, getString(R.string.chao_ga),
+                getString(R.string.chao_ga_1) + "\n" + getString(R.string.chao_ga_2)
+                        + "\n" + getString(R.string.chao_ga_3) + "\n"
+                        + getString(R.string.chao_ga_4) + "\n" + getString(R.string.chao_ga_5)
+                        + "\n" + getString(R.string.chao_ga_6) + "\n" + getString(R.string.chao_ga_7)
+                        + "\n" + getString(R.string.chao_ga_8) + "\n"
+                        + getString(R.string.chao_ga_9),
+                getString(R.string.chao_ga_10) + "\n" + getString(R.string.chao_ga_11)
+                        + "\n" + getString(R.string.chao_ga_12) + "\n"
+                        + getString(R.string.chao_ga_13) + "\n" + getString(R.string.chao_ga_14));
         foodList.add(food);
-        food = new Food(R.drawable.ga_rim_nuoc_mam, getString(R.string.ga_rim_nuoc_mam), "","");
+        food = new Food(R.drawable.ga_rim_nuoc_mam, getString(R.string.ga_rim_nuoc_mam),
+                getString(R.string.ga_rim_nuoc_mam_1) + "\n" + getString(R.string.ga_rim_nuoc_mam_2),
+                getString(R.string.ga_rim_nuoc_mam_3) + "\n" + getString(R.string.ga_rim_nuoc_mam_4)
+                        + "\n" + getString(R.string.ga_rim_nuoc_mam_5) + "\n"
+                        + getString(R.string.ga_rim_nuoc_mam_6));
         foodList.add(food);
-        food = new Food(R.drawable.sup_ga, getString(R.string.sup_ga), "","");
+        food = new Food(R.drawable.sup_ga, getString(R.string.sup_ga),
+                getString(R.string.sup_ga_1) + "\n" + getString(R.string.sup_ga_2)
+                        + "\n" + getString(R.string.sup_ga_3) + "\n"
+                        + getString(R.string.sup_ga_4) + "\n" + getString(R.string.sup_ga_5)
+                        + "\n" + getString(R.string.sup_ga_6) + "\n" + getString(R.string.sup_ga_7)
+                        + "\n" + getString(R.string.sup_ga_8),
+                getString(R.string.sup_ga_9) + "\n" + getString(R.string.sup_ga_10)
+                        + "\n" + getString(R.string.sup_ga_11) + "\n"
+                        + getString(R.string.sup_ga_12));
         foodList.add(food);
-        food = new Food(R.drawable.pho_ga, getString(R.string.pho_ga), "","");
+        food = new Food(R.drawable.pho_ga, getString(R.string.pho_ga),
+                getString(R.string.pho_ga_1) + "\n" + getString(R.string.pho_ga_2)
+                        + "\n" + getString(R.string.pho_ga_3) + "\n"
+                        + getString(R.string.pho_ga_4) + "\n" + getString(R.string.pho_ga_5)
+                        + "\n" + getString(R.string.pho_ga_6) + "\n" + getString(R.string.pho_ga_7),
+                getString(R.string.pho_ga_8) + "\n" + getString(R.string.pho_ga_9)
+                        + "\n" + getString(R.string.pho_ga_10) + "\n"
+                        + getString(R.string.pho_ga_11) + "\n" + getString(R.string.pho_ga_12)
+                        + "\n" + getString(R.string.pho_ga_13) + "\n" + getString(R.string.pho_ga_14));
         foodList.add(food);
         adapterNorthernChicken.notifyDataSetChanged();
     }

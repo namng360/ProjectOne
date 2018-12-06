@@ -68,6 +68,15 @@ public class NorthernFriedActivity extends AppCompatActivity {
                 getString(R.string.nem_ran_11) + "\n" + getString(R.string.nem_ran_12) + "\n" + getString(R.string.nem_ran_13) + "\n"
                         + getString(R.string.nem_ran_14));
         foodList.add(food);
+        food = new Food(R.drawable.muc_chien_bo, getString(R.string.muc_chien_bo),
+                getString(R.string.muc_chien_bo_1) + "\n" + getString(R.string.muc_chien_bo_2)
+                        + "\n" + getString(R.string.muc_chien_bo_3) + "\n"
+                        + getString(R.string.muc_chien_bo_4) + "\n" + getString(R.string.muc_chien_bo_5)
+                        + "\n" + getString(R.string.muc_chien_bo_6),
+                getString(R.string.muc_chien_bo_7) + "\n" + getString(R.string.muc_chien_bo_8)
+                        + "\n" + getString(R.string.muc_chien_bo_9) + "\n"
+                        + getString(R.string.muc_chien_bo_10) + "\n" + getString(R.string.muc_chien_bo_11));
+        foodList.add(food);
         adapterNorthernFried.notifyDataSetChanged();
     }
 }

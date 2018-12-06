@@ -77,6 +77,13 @@ public class NorthernGrilledActivity extends AppCompatActivity {
                 getString(R.string.banh_my_muoi_ot_6) + "\n" + getString(R.string.banh_my_muoi_ot_7) + "\n" + getString(R.string.banh_my_muoi_ot_8) + "\n"
                         + getString(R.string.banh_my_muoi_ot_9) + "\n" + getString(R.string.banh_my_muoi_ot_10)+ "\n" + getString(R.string.banh_my_muoi_ot_11));
         foodList.add(food);
+        food = new Food(R.drawable.tom_hum_nuong_bo_toi, getString(R.string.tom_hum_nuong_bo_toi),
+                getString(R.string.tom_hum_nuong_bo_toi_1) + "\n" + getString(R.string.tom_hum_nuong_bo_toi_2)
+                        + "\n" + getString(R.string.tom_hum_nuong_bo_toi_3),
+                getString(R.string.tom_hum_nuong_bo_toi_4) + "\n" + getString(R.string.tom_hum_nuong_bo_toi_5)
+                        + "\n" + getString(R.string.tom_hum_nuong_bo_toi_6) + "\n"
+                        + getString(R.string.tom_hum_nuong_bo_toi_7) + "\n" + getString(R.string.tom_hum_nuong_bo_toi_8));
+        foodList.add(food);
         adapterNorthernGrilled.notifyDataSetChanged();
     }
 }
