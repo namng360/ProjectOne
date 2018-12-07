@@ -34,6 +34,16 @@ public class AddDiaryActivity extends AppCompatActivity {
         setContentView(R.layout.activity_add_diary);
         databaseHelper = new DatabaseHelper(this);
         diaryDAO = new DiaryDAO(databaseHelper);
+        toolBar = findViewById(R.id.toolBar);
+        toolBar.setNavigationIcon(R.drawable.ic_back);
+        toolBar.setTitle(getString(R.string.your_diary));
+        setSupportActionBar(toolBar);
+        toolBar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onBackPressed();
+            }
+        });
 
         final EditText edtTitle;
         final EditText edtChoose;

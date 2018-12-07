@@ -14,4 +14,18 @@ public class Diary {
     public Diary() {
 
     }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getDes() {
+        return describe;
+    }
+
+    public void setTitle(String title) {
+    }
+
+    public void setDes(String des) {
+    }
 }

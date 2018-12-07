@@ -51,7 +51,7 @@ public class CentralSauteActivity extends AppCompatActivity {
         Food food = new Food(R.drawable.bo_xao_pho, getString(R.string.bo_xao_pho),
                 getString(R.string.bo_xao_pho_1) + "\n" + getString(R.string.bo_xao_pho_2) + "\n" + getString(R.string.bo_xao_pho_3) + "\n"
                         + getString(R.string.bo_xao_pho_4) + "\n" + getString(R.string.bo_xao_pho_5) + "\n" + getString(R.string.bo_xao_pho_6)
-                        + "\n" + getString(R.string.bo_xao_pho_7)+ "\n" + getString(R.string.bo_xao_pho_8)+ "\n" + getString(R.string.bo_xao_pho_9)
+                        + "\n" + getString(R.string.bo_xao_pho_7)+ "\n" + getString(R.string.bo_xao_pho_8)
                         + "\n" + getString(R.string.bo_xao_pho_10),
                 getString(R.string.bo_xao_pho_11) + "\n" + getString(R.string.bo_xao_pho_12) + "\n" + getString(R.string.bo_xao_pho_13) + "\n"
                         + getString(R.string.bo_xao_pho_14) + "\n" + getString(R.string.bo_xao_pho_15));

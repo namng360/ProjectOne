@@ -63,7 +63,9 @@ public class NorthernPigActivity extends AppCompatActivity {
                 getString(R.string.thit_lon_nau_dong_5) + "\n" + getString(R.string.thit_lon_nau_dong_6)
                         + "\n" + getString(R.string.thit_lon_nau_dong_7) + "\n"
                         + getString(R.string.thit_lon_nau_dong_8) + "\n" + getString(R.string.thit_lon_nau_dong_9)
-                        + "\n" + getString(R.string.thit_lon_nau_dong_10));
+                        + "\n" + getString(R.string.thit_lon_nau_dong_10)+ "\n"
+                        + getString(R.string.thit_lon_nau_dong_11)+ "\n"
+                        + getString(R.string.thit_lon_nau_dong_12));
         foodList.add(food);
         food = new Food(R.drawable.thit_kho_tau, getString(R.string.thit_kho_tau),
                 getString(R.string.thit_kho_tau_1) + "\n" + getString(R.string.thit_kho_tau_2)

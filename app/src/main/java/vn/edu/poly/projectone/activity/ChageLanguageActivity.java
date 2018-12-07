@@ -5,6 +5,7 @@ import android.content.res.Configuration;
 import android.os.Build;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.util.DisplayMetrics;
 
 import android.view.View;
@@ -17,11 +18,21 @@ import vn.edu.poly.projectone.R;
 public class ChageLanguageActivity extends AppCompatActivity {
     private LinearLayout lnEn, lnVn;
     Locale locale;
-
+    private Toolbar toolBar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_chage_language);
+        toolBar = findViewById(R.id.toolBar);
+        toolBar.setNavigationIcon(R.drawable.ic_back);
+        toolBar.setTitle(getString(R.string.chage_language));
+        setSupportActionBar(toolBar);
+        toolBar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onBackPressed();
+            }
+        });
         lnEn = findViewById(R.id.lnEn);
         lnVn = findViewById(R.id.lnVn);
 

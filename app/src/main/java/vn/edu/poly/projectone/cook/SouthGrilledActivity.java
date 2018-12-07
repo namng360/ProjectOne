@@ -54,7 +54,8 @@ public class SouthGrilledActivity extends AppCompatActivity {
                         + getString(R.string.hau_nuong_mo_hanh_4),
                 getString(R.string.hau_nuong_mo_hanh_5) + "\n" + getString(R.string.hau_nuong_mo_hanh_6)
                         + "\n" + getString(R.string.hau_nuong_mo_hanh_7) + "\n"
-                        + getString(R.string.hau_nuong_mo_hanh_8));
+                        + getString(R.string.hau_nuong_mo_hanh_8)+ "\n"
+                        + getString(R.string.hau_nuong_mo_hanh_9));
         foodList.add(food);
         food = new Food(R.drawable.hau_nuong_pho_mai, getString(R.string.hau_nuong_pho_mai),
                 getString(R.string.hau_nuong_pho_mai_1) + "\n" + getString(R.string.hau_nuong_pho_mai_2)

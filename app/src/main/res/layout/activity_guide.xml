@@ -7,6 +7,14 @@
     android:orientation="vertical"
     tools:context=".activity.GuideActivity">
 
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolBar"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </android.support.v7.widget.Toolbar>
+
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -22,11 +30,13 @@
         android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textAllCaps="true"
         style="@style/Base.TextAppearance.AppCompat.Large"
         />
 
     <TextView
-        style="@style/Base.TextAppearance.AppCompat.Medium"
+        style="@style/Base.TextAppearance.AppCompat.Large"
         android:layout_margin="10dp"
         android:gravity="center"
         android:layout_width="match_parent"
@@ -41,7 +51,7 @@
         android:layout_height="wrap_content" />
 
     <TextView
-        style="@style/Base.TextAppearance.AppCompat.Medium"
+        style="@style/Base.TextAppearance.AppCompat.Large"
         android:layout_margin="10dp"
         android:gravity="center"
         android:layout_width="match_parent"

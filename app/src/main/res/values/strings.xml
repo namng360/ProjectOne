@@ -498,11 +498,11 @@
     <string name="hau_nuong_mo_hanh_4">Lạc rang giã sơ</string>
     <string name="hau_nuong_mo_hanh_5">Bước 1: Hàu làm sạch phần đất cát bên ngoài.</string>
     <string name="hau_nuong_mo_hanh_6">Bước 2: Sau đó cho hàu vào lò vi sóng quay trong 1-2 phút là hàu tự hé miệng.</string>
-    <string name="hau_nuong_mo_hanh_6">Bước 3: Hành khô bóc vỏ, thái lát, sau đó chiên trên chảo nhiều dầu ăn,
+    <string name="hau_nuong_mo_hanh_7">Bước 3: Hành khô bóc vỏ, thái lát, sau đó chiên trên chảo nhiều dầu ăn,
         đến khi thấy hành vàng ruộm giòn giòn thì vớt ra</string>
-    <string name="hau_nuong_mo_hanh_7">Bước 4: Cho 1/2 thìa cà phê hành khô, 1 chút bơ, 1 thìa cà phê mỡ hành,
+    <string name="hau_nuong_mo_hanh_8">Bước 4: Cho 1/2 thìa cà phê hành khô, 1 chút bơ, 1 thìa cà phê mỡ hành,
         1 cái tóp mỡ (nếu thích), 1/2 thìa cà phê lạc giã sơ.</string>
-    <string name="hau_nuong_mo_hanh_8">Bước 5: Cuối cùng các bạn cho hàu vào lò vi sóng, bấm chế độ nướng 3-4 phút là hàu chín.</string>
+    <string name="hau_nuong_mo_hanh_9">Bước 5: Cuối cùng các bạn cho hàu vào lò vi sóng, bấm chế độ nướng 3-4 phút là hàu chín.</string>
 
     <!--Hau nuong pho mai-->
     <string name="hau_nuong_pho_mai">Hàu nướng pho mai</string>
@@ -562,13 +562,13 @@
         hạt nêm trộn đều lên và ướp mực khoảng 30 phút là được.</string>
     <string name="bach_tuoc_nuong_sa_te_10">Bước 3: Sau khi ướp khoảng 30 phút, chúng ta bắt đầu đốt than lên,
         sau khi than đã cháy đều tắt lửa chúng ta cho vỉ nướng lên làm nóng vỉ nướng</string>
-    <string name="bach_tuoc_nuong_sa_te_11">Bước 2: Sau khi bạch tuộc chính bạn cho bạch tuộc ra một cái đĩa cắt nhỏ ra thành miếng vừa ăn</string>
+    <string name="bach_tuoc_nuong_sa_te_11">Bước 4: Sau khi bạch tuộc chính bạn cho bạch tuộc ra một cái đĩa cắt nhỏ ra thành miếng vừa ăn</string>
 
     <!--Com ga tam ky-->
     <string name="com_ga_tam_ky">Cơm gà tam kỳ</string>
     <string name="com_ga_tam_ky_1">Gạo tám thơm: 500 gram</string>
     <string name="com_ga_tam_ky_2">Hành tây: 1 củ</string>
-    <string name="com_ga_tam_ky_3">Chanh, ớt, tỏi, rau tăm, gừng</string>
+    <string name="com_ga_tam_ky_3">Chanh, ớt, tỏi, rau răm, gừng</string>
     <string name="com_ga_tam_ky_4">Gà: 1.5kg</string>
     <string name="com_ga_tam_ky_5">Gia vị: muối, nước mắm, dầu ăn,…</string>
     <string name="com_ga_tam_ky_6">Bước 1: Gà sau khi mua về bạn mang sơ chế sạch sẽ bằng cách dùng gừng tươi và
@@ -706,7 +706,7 @@
     <string name="chao_ga_1">Gạo tẻ, gạo nếp</string>
     <string name="chao_ga_2">1 chiếc đùi gà</string>
     <string name="chao_ga_3">2 bộ xương gà</string>
-    <string name="chao_ga_4">hạt sen tươi hoặc khô</string>
+    <string name="chao_ga_4">Hạt sen tươi hoặc khô</string>
     <string name="chao_ga_5">Hành khô</string>
     <string name="chao_ga_6">1 bó hành lá</string>
     <string name="chao_ga_7">1/2 củ hành tây</string>
@@ -803,7 +803,7 @@
     <string name="pho_bo_6">500g bánh phở</string>
     <string name="pho_bo_7">150g thịt bò thăn, thái lát mỏng</string>
     <string name="pho_bo_8">Bước 1: Nướng gừng và hành trong khoảng 3 phút, đến khi hơi cháy đen và có mùi thơm nhẹ. </string>
-    <string name="pho_bo_9">Bước 2: Rửa sạch xương bò, cho vào một nồi lớn và thêm nước.</string>
+    <string name="pho_bo_9">"Bước 2: Rửa sạch xương bò, cho vào một nồi lớn và thêm nước. "</string>
     <string name="pho_bo_10">Bước 3: Thêm 5 lít nước vào nồi và đun sôi.</string>
     <string name="pho_bo_11">Bước 4: Cho một miếng thịt vào bát nước lạnh sau đó vớt ra cất vào tủ lạnh.</string>
     <string name="pho_bo_12">Bước 5: Cho các loại gia vị vào một cái chảo khô rang ở nhiệt độ vừa phải trong khoảng 3 phút,
@@ -837,8 +837,8 @@
     <string name="thit_lon_nau_dong_8">Bước 4: Nấm hương, mộc nhĩ ngâm nở thái nhỏ. Cho chảo lên bếp, cho ít dầu ăn vào xào qua nấm hương, mộc nhĩ với ít hạt nêm cho đậm đà rồi để riêng.</string>
     <string name="thit_lon_nau_dong_9">Bước 5: Cho thịt chân giò và tai vào chảo xào một lúc cho săn lại, cho thêm ít hạt nêm lúc xào.</string>
     <string name="thit_lon_nau_dong_10">Bước 6: Thịt xào sơ rồi cho vào nồi để nấu.</string>
-    <string name="thit_lon_nau_dong_10">Bước 7: Sau 15 phút thịt chín mềm, bạn mở nắp và cho nấm hương, mộc nhĩ, hạt tiêu rang đập dập vào nồi, đun thêm 10 phút nữa là được.</string>
-    <string name="thit_lon_nau_dong_10">Bước 8: Tỉa vào bông hoa bằng cà rốt đặt dưới đáy bát trước khi múc thịt đông để khi úp thịt đông ra sẽ đẹp mắt.</string>
+    <string name="thit_lon_nau_dong_11">Bước 7: Sau 15 phút thịt chín mềm, bạn mở nắp và cho nấm hương, mộc nhĩ, hạt tiêu rang đập dập vào nồi, đun thêm 10 phút nữa là được.</string>
+    <string name="thit_lon_nau_dong_12">Bước 8: Tỉa vào bông hoa bằng cà rốt đặt dưới đáy bát trước khi múc thịt đông để khi úp thịt đông ra sẽ đẹp mắt.</string>
 
     <!--Pate lon-->
     <string name="pate_lon">Pate lợn</string>
@@ -957,10 +957,10 @@
     <string name="cari_ga_mien_nam_8">4 ỗ bánh mì</string>
     <string name="cari_ga_mien_nam_9">2 trái ớt</string>
     <string name="cari_ga_mien_nam_10">1 quả chanh</string>
-    <string name="cari_ga_mien_nam_11">Rữa sạch gà sau đo chặt khúc vừa ăn, ướp gà với hành tỏi băm, ớt và 1/3 gói bột cari, muối, đường, bột ngọt, hạt nêm khoãng 30’</string>
-    <string name="cari_ga_mien_nam_12">Gọt khoai lang và cà rốt cắt khúc vừa ăn. Rữa sach rau quế và hành tây. Giã muối ớt vắt chanh.</string>
-    <string name="cari_ga_mien_nam_13">Chiên sơ khoai lang, chiên gà xong bỏ vào nồi đổ nước xâm xấp mặt gà nấu sôi bỏ cà rốt khoai lang vào. Nấu chín nêm nếm lại bỏ hành tây vào</string>
-    <string name="cari_ga_mien_nam_14">Khi sôi cho 1/2 lon nước cốt dừa vào cho sôi la tắt bếp. Cắt bánh mỳ và ăn kèm rau quế.</string>
+    <string name="cari_ga_mien_nam_11">Bước 1: Rữa sạch gà sau đo chặt khúc vừa ăn, ướp gà với hành tỏi băm, ớt và 1/3 gói bột cari, muối, đường, bột ngọt, hạt nêm khoãng 30’</string>
+    <string name="cari_ga_mien_nam_12">Bước 2: Gọt khoai lang và cà rốt cắt khúc vừa ăn. Rữa sach rau quế và hành tây. Giã muối ớt vắt chanh.</string>
+    <string name="cari_ga_mien_nam_13">Bước 3: Chiên sơ khoai lang, chiên gà xong bỏ vào nồi đổ nước xâm xấp mặt gà nấu sôi bỏ cà rốt khoai lang vào. Nấu chín nêm nếm lại bỏ hành tây vào</string>
+    <string name="cari_ga_mien_nam_14">Bước 4: Khi sôi cho 1/2 lon nước cốt dừa vào cho sôi la tắt bếp. Cắt bánh mỳ và ăn kèm rau quế.</string>
 
 
     <!--Ga kho rau ram-->
@@ -1117,4 +1117,7 @@
     <string name="bong_cai_xao_thit_bo_13">Bước 3: Làm nóng dầu ăn trong chảo, cho thịt bò đã ướp vào, xào sơ qua khoảng 3 phút, cho ra đĩa.</string>
     <string name="bong_cai_xao_thit_bo_14">Bước 4: Tiếp tục dùng chảo đó, cho bông cải xanh vào, xào chín. Cuối cùng, cho thịt bò vào, nêm muối, bột ngọt vào cho vừa ăn.</string>
     <string name="bong_cai_xao_thit_bo_15">Bước 5: Rang qua mè trắng cho thơm. Tắt bếp, rắc mè vào và cho món ăn ra đĩa.</string>
+
+    <!--Guide-->
+    <string name="huong_dan">Hướng dẫn</string>
 </resources>

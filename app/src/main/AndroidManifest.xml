@@ -53,7 +53,8 @@
             android:theme="@style/AppTheme" />
         <activity android:name=".activity.AddDiaryActivity" />
         <activity android:name=".activity.ChageLanguageActivity" />
-        <activity android:name=".activity.GuideActivity"></activity>
+        <activity android:name=".activity.GuideActivity" />
+        <activity android:name=".activity.EditDiaryActivity"></activity>
     </application>
 
 </manifest>

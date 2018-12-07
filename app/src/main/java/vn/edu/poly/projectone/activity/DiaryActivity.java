@@ -52,6 +52,7 @@ public class DiaryActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent intent = new Intent(DiaryActivity.this, AddDiaryActivity.class);
                 startActivity(intent);
+                finish();
             }
         });
         databaseHelper = new DatabaseHelper(this);

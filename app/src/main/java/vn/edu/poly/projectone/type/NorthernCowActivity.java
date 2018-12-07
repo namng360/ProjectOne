@@ -83,8 +83,7 @@ public class NorthernCowActivity extends AppCompatActivity {
                         + "\n" + getString(R.string.bo_xao_pho_3) + "\n"
                         + getString(R.string.bo_xao_pho_4) + "\n" + getString(R.string.bo_xao_pho_5)
                         + "\n" + getString(R.string.bo_xao_pho_6) + "\n" + getString(R.string.bo_xao_pho_7)
-                        + "\n" + getString(R.string.bo_xao_pho_8) + "\n"
-                        + getString(R.string.bo_xao_pho_9) + "\n" + getString(R.string.bo_xao_pho_10),
+                        + "\n" + getString(R.string.bo_xao_pho_8) + "\n"+ "\n" + getString(R.string.bo_xao_pho_10),
                 getString(R.string.bo_xao_pho_11) + "\n" + getString(R.string.bo_xao_pho_12)
                         + "\n" + getString(R.string.bo_xao_pho_13) + "\n"
                         + getString(R.string.bo_xao_pho_14) + "\n" + getString(R.string.bo_xao_pho_15));
