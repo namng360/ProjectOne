@@ -8,6 +8,8 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import java.util.ArrayList;
 import java.util.List;
 import vn.edu.poly.projectone.R;
 import vn.edu.poly.projectone.activity.GuideActivity;
@@ -56,5 +58,11 @@ public class AdapterNorthernGrilled extends RecyclerView.Adapter<HolderFood> {
     @Override
     public int getItemCount() {
         return foodList.size();
+    }
+
+    public void setfilter(List<Food> filtermodelist) {
+        foodList=new ArrayList<>();
+        foodList.addAll(filtermodelist);
+        notifyDataSetChanged();
     }
 }

@@ -9,6 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import vn.edu.poly.projectone.R;
@@ -56,5 +57,11 @@ public class AdapterCentralGrilled extends RecyclerView.Adapter<HolderFood> {
     @Override
     public int getItemCount() {
         return foodList.size();
+    }
+
+    public void setfilter(List<Food> filtermodelist) {
+        foodList=new ArrayList<>();
+        foodList.addAll(filtermodelist);
+        notifyDataSetChanged();
     }
 }

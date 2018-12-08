@@ -1120,4 +1120,7 @@
 
     <!--Guide-->
     <string name="huong_dan">Hướng dẫn</string>
+    <string name="date1">Ngày nhập</string>
+    <string name="error">Không được bỏ trống</string>
+    <string name="cancel">Huỷ</string>
 </resources>

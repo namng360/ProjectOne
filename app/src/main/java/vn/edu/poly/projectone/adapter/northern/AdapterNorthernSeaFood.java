@@ -57,4 +57,7 @@ public class AdapterNorthernSeaFood extends RecyclerView.Adapter<HolderFood> {
     public int getItemCount() {
         return foodList.size();
     }
+
+    public void setfilter(List<Food> filtermodelist) {
+    }
 }

@@ -28,4 +28,8 @@ public class Diary {
 
     public void setDes(String des) {
     }
+
+    public long getDate() {
+        return date;
+    }
 }

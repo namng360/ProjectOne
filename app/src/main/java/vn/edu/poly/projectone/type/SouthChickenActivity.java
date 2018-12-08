@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
@@ -19,6 +20,7 @@ public class SouthChickenActivity extends AppCompatActivity {
     private RecyclerView rcView;
     private AdapterSouthChicken adapterSouthChicken;
     private Toolbar toolBar;
+    SearchView searchView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -80,12 +80,10 @@ public class AddDiaryActivity extends AppCompatActivity {
                     long result = diaryDAO.insertDiary(diary);
 
                     if (title.equals("") || des.equals("")){
-                        Toast.makeText(AddDiaryActivity.this, "Khong duoc bo trong!", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(AddDiaryActivity.this, getString(R.string.error), Toast.LENGTH_SHORT).show();
                     }
 
                     else {
-
-                        // f5 list view
                         Intent intent = new Intent(AddDiaryActivity.this, DiaryActivity.class);
                         startActivity(intent);
                         finish();
@@ -109,20 +107,11 @@ public class AddDiaryActivity extends AppCompatActivity {
                 Integer yy = year;
                 Integer mm = month;
                 Integer dd = dayOfMonth;
-
-
                 Calendar calendar = Calendar.getInstance();
-
                 calendar.set(year, month, dayOfMonth);
-
-                //
                 long startTime = calendar.getTimeInMillis();
-
                 AddDiaryActivity.this.datePicker = calendar.getTimeInMillis();
-
                 tvChoose.setText(new Date(startTime).toString());
-
-
             }
         }, year, month, day);
 

@@ -10,7 +10,7 @@
     <string name="central">Central</string>
     <string name="mon_nuong">Grilled</string>
     <string name="mon_xao">Saute</string>
-    <string name="mon_chien">Friend</string>
+    <string name="mon_chien">Fried</string>
     <string name="thit_ba_chi">Bacon bake</string>
     <string name="moon_cake">Moon cake</string>
     <string name="banh_my_muoi_ot">Toast chili salt</string>
@@ -849,11 +849,10 @@
     <string name="bong_cai_xao_thit_bo_2">Beef 300 gr</string>
     <string name="bong_cai_xao_thit_bo_3">Soy sauce 1 tablespoon</string>
     <string name="bong_cai_xao_thit_bo_4">Seasoning with 1 tablespoon</string>
-    <string name="bong_cai_xao_thit_bo_5">Dầu ăn 2 muỗng canh</string>
     <string name="bong_cai_xao_thit_bo_6">Pepper</string>
     <string name="bong_cai_xao_thit_bo_7">MSG</string>
-    <string name="bong_cai_xao_thit_bo_8">Muối 1 muỗng cà phê</string>
-    <string name="bong_cai_xao_thit_bo_9">Gừng 1 củ</string>
+    <string name="bong_cai_xao_thit_bo_8">Salt</string>
+    <string name="bong_cai_xao_thit_bo_9">1 ginger</string>
     <string name="bong_cai_xao_thit_bo_10">Sesame White 3 Tablespoons</string>
     <string name="bong_cai_xao_thit_bo_11">Step 1: Wash the broccoli, cut into small pieces. Ginger peeled. punch and cut yarn.</string>
     <string name="bong_cai_xao_thit_bo_12">Step 2: Wash the beef, cut into thin slices. Then marinate beef with ginger, soy sauce, seasoning seeds, pepper about 10 minutes to spice up.</string>
@@ -861,4 +860,8 @@
     <string name="bong_cai_xao_thit_bo_14">Step 4: Continue to use that pan, add broccoli, fried cooked. Finally, add the beef, season with salt, season with salt and pepper.</string>
     <string name="bong_cai_xao_thit_bo_15">Step 5: Pass through the white sesame seeds for aroma. Turn off the stove, sprinkle the sesame seeds and serve the dish.</string>
     <string name="huong_dan">Guide</string>
+    <string name="error">Not be empty</string>
+    <string name="date1">Date Added</string>
+    <string name="cancel">Cancel</string>
+    <string name="bong_cai_xao_thit_bo_5">Cooking oil</string>
 </resources>

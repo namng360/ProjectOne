@@ -11,11 +11,13 @@ import vn.edu.poly.projectone.R;
 public class HolderDiary extends RecyclerView.ViewHolder {
     public TextView tvTitle;
     public ImageView btnDelete;
+    public ImageView btnEdit;
 
 
     public HolderDiary(@NonNull View itemView) {
         super(itemView);
         tvTitle = itemView.findViewById(R.id.tvTitle);
         btnDelete = itemView.findViewById(R.id.btnDelete);
+        btnEdit = itemView.findViewById(R.id.btnEdit);
     }
 }
